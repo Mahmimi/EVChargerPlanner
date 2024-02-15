@@ -1,0 +1,1769 @@
+Name,Description,styleUrl,Hours,Power,ChargeCoreDescription,Address,Latitude,Longitude,Provider,Coordinates
+7-11 สีตบุตร,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: รองเมือง, ปทุมวัน, กรุงเทพมหานคร<br>Latitude: 13.742579<br>Longitude: 100.521029<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 118 kW, 200A
+Type2: CLOSED
+Parking","รองเมือง, ปทุมวัน, กรุงเทพมหานคร",13.742579,100.521029,EA,"
+            100.521029,13.742579,0
+          "
+ZY Walk,"Hours: 24 Hr<br>Power: 0 kW<br>Description: Type2: CLOSED<br>CCS2: CLOSED<br>parking<br>Address: วังใหม่, ปทุมวัน, กรุงเทพมหานคร<br>Latitude: 13.741238<br>Longitude: 100.524702<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,0 kW,"Type2: CLOSED
+CCS2: CLOSED
+parking","วังใหม่, ปทุมวัน, กรุงเทพมหานคร",13.741238,100.524702,EA,"
+            100.524702,13.741238,0
+          "
+แมกโนเลียส์ วอเตอร์ฟรอนซ์ เรสซิเดนซ์,"Hours: 24 Hr<br>Power: 35 kW<br>Description: CCS2: 35 kW<br>Type2: 22 kW<br>Parking<br>Address: คลองต้นไทร, คลองสาน, กรุงเทพมหานคร<br>Latitude: 13.727306<br>Longitude: 100.510499<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,35 kW,"CCS2: 35 kW
+Type2: 22 kW
+Parking","คลองต้นไทร, คลองสาน, กรุงเทพมหานคร",13.727306,100.510499,EA,"
+            100.510499,13.727306,0
+          "
+ICONSIAM (B1 Zone Gold),"Hours: Peak<br>Power: 38 kW<br>Description: Type1: 11 kW<br>Type2: 7x 11 kW<br>CCS2: 38 kW, CLOSED<br>Parking  B1<br>Address: คลองต้นไทร, คลองสาน, กรุงเทพมหานคร<br>Latitude: 13.726441<br>Longitude: 100.510086<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,38 kW,"Type1: 11 kW
+Type2: 7x 11 kW
+CCS2: 38 kW, CLOSED
+Parking  B1","คลองต้นไทร, คลองสาน, กรุงเทพมหานคร",13.726441,100.510086,EA,"
+            100.510086,13.726441,0
+          "
+THE RIVER เจริญนคร,"Hours: 24 Hr<br>Power: 22 kW<br>Description: Type2: 22 kW<br>CCS2: CLOSED<br>parking<br>Address: คลองต้นไทร, คลองสาน, กรุงเทพมหานคร<br>Latitude: 13.721553<br>Longitude: 100.510305<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,22 kW,"Type2: 22 kW
+CCS2: CLOSED
+parking","คลองต้นไทร, คลองสาน, กรุงเทพมหานคร",13.721553,100.510305,EA,"
+            100.510305,13.721553,0
+          "
+ร้านอาหารครัวในซอย ซ.จรํญสนิทวงค์ 75,"Hours: Peak<br>Power: 150 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 150 kW, 200A<br>parking  ครัวในซอย<br>Address: บางพลัด, บางพลัด, กรุงเทพมหานคร<br>Latitude: 13.790473<br>Longitude: 100.490014<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,150 kW,"Type2: 22 kW
+CCS2: 2x 150 kW, 200A
+parking  ครัวในซอย","บางพลัด, บางพลัด, กรุงเทพมหานคร",13.790473,100.490014,EA,"
+            100.490014,13.790473,0
+          "
+อาคารจอดรถ จามจุรีสแควร์ ชั้น 7,"Hours: 24 Hr<br>Power: 40 kW<br>Description: Type1: 22 kW, CLOSED<br>Type2: 2x 22 kW<br>CCS2: 40 kW<br>Parking<br>Address: ปทุมวัน, ปทุมวัน, กรุงเทพมหานคร<br>Latitude: 13.73299<br>Longitude: 100.530401<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,40 kW,"Type1: 22 kW, CLOSED
+Type2: 2x 22 kW
+CCS2: 40 kW
+Parking","ปทุมวัน, ปทุมวัน, กรุงเทพมหานคร",13.73299,100.530401,EA,"
+            100.530401,13.73299,0
+          "
+ศูนย์การค้า SENA Fest ถ.เจริญนคร,"Hours: 24 Hr<br>Power: 22 kW<br>Description: Type1: 22 kW<br>Type2: 22 kW<br>CCS2: CLOSED<br>Parking<br>Address: คลองต้นไทร, คลองสาน, กรุงเทพมหานคร<br>Latitude: 13.719416<br>Longitude: 100.507575<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,22 kW,"Type1: 22 kW
+Type2: 22 kW
+CCS2: CLOSED
+Parking","คลองต้นไทร, คลองสาน, กรุงเทพมหานคร",13.719416,100.507575,EA,"
+            100.507575,13.719416,0
+          "
+ศูนย์การแพทย์วิชัยยุทธ,"Hours: 24 Hr<br>Power: 40 kW<br>Description: CCS2: 40 kW<br>Parking<br>Address: สามเสนใน, พญาไท, กรุงเทพมหานคร<br>Latitude: 13.780432<br>Longitude: 100.5331<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,40 kW,"CCS2: 40 kW
+Parking","สามเสนใน, พญาไท, กรุงเทพมหานคร",13.780432,100.5331,EA,"
+            100.5331,13.780432,0
+          "
+ริทึ่ม สาทร,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ยานนาวา, สาทร, กรุงเทพมหานคร<br>Latitude: 13.717813<br>Longitude: 100.516818<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","ยานนาวา, สาทร, กรุงเทพมหานคร",13.717813,100.516818,EA,"
+            100.516818,13.717813,0
+          "
+อาคาร อาคเนย์ประกันภัย จำกัด,"Hours: 24 Hr<br>Power: 75 kW<br>Description: CCS2: 75 kW<br>Type2: 22 kW<br>Parking<br>Address: บางรัก, บางรัก, กรุงเทพมหานคร<br>Latitude: 13.727318<br>Longitude: 100.532229<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"CCS2: 75 kW
+Type2: 22 kW
+Parking","บางรัก, บางรัก, กรุงเทพมหานคร",13.727318,100.532229,EA,"
+            100.532229,13.727318,0
+          "
+ซัสโก้ สาขาบางบำหรุ,"Hours: Closed<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางบำหรุ, บางพลัด, กรุงเทพมหานคร<br>Latitude: 13.785289<br>Longitude: 100.47129<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","บางบำหรุ, บางพลัด, กรุงเทพมหานคร",13.785289,100.47129,EA,"
+            100.47129,13.785289,0
+          "
+SCB สาขาตลาดพลู,"Hours: Peak<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 110 kW, 200A<br>PARKING  SCB<br>Address: ตลาดพลู, ธนบุรี, กรุงเทพมหานคร<br>Latitude: 13.720621<br>Longitude: 100.475762<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,110 kW,"Type2: 22 kW
+CCS2: 2x 110 kW, 200A
+PARKING  SCB","ตลาดพลู, ธนบุรี, กรุงเทพมหานคร",13.720621,100.475762,EA,"
+            100.475762,13.720621,0
+          "
+เอ็มไพร์ทาวเวอร์ (อาคารจอดรถชั้น B1),"Hours: Peak<br>Power: 40 kW<br>Description: CCS2: 2x 40 kW<br>Type2: 22 kW<br>Parking<br>Address: ยานนาวา, สาทร, กรุงเทพมหานคร<br>Latitude: 13.720536<br>Longitude: 100.530224<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,40 kW,"CCS2: 2x 40 kW
+Type2: 22 kW
+Parking","ยานนาวา, สาทร, กรุงเทพมหานคร",13.720536,100.530224,EA,"
+            100.530224,13.720536,0
+          "
+Condo ศุภาลัยริเวอร์ เพลส (ถ.เจริญนคร),"Hours: 24 Hr<br>Power: 90 kW<br>Description: Type2: 22 kW<br>CCS2: 90 kW, 200A<br>Parking<br>Address: บางลำภูล่าง, คลองสาน, กรุงเทพมหานคร<br>Latitude: 13.710567<br>Longitude: 100.502822<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,90 kW,"Type2: 22 kW
+CCS2: 90 kW, 200A
+Parking","บางลำภูล่าง, คลองสาน, กรุงเทพมหานคร",13.710567,100.502822,EA,"
+            100.502822,13.710567,0
+          "
+กรมขนส่งทหารบก ขส.ทบ. (ลานเอนกประสงค์),"Hours: 24 Hr<br>Power: 75 kW<br>Description: CCS2: 75 kW, CLOSED<br>Parking<br>Address: ถนนนครไชยศรี, ดุสิต, กรุงเทพมหานคร<br>Latitude: 13.792595<br>Longitude: 100.531156<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"CCS2: 75 kW, CLOSED
+Parking","ถนนนครไชยศรี, ดุสิต, กรุงเทพมหานคร",13.792595,100.531156,EA,"
+            100.531156,13.792595,0
+          "
+โครนอส ทาวเวอร์ ชั้น จี สเตชั่น1,"Hours: 24 Hr<br>Power: 75 kW<br>Description: CCS2: 75 kW<br>Type2: CLOSED<br>Parking<br>Address: สีลม, บางรัก, กรุงเทพมหานคร<br>Latitude: 13.725044<br>Longitude: 100.538724<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"CCS2: 75 kW
+Type2: CLOSED
+Parking","สีลม, บางรัก, กรุงเทพมหานคร",13.725044,100.538724,EA,"
+            100.538724,13.725044,0
+          "
+โครนอส ทาวเวอร์ ชั้น 2 สเตชั่น 2-1,"Hours: 24 Hr<br>Power: 11 kW<br>Description: Type2: 5x 11 kW<br>CCS2: CLOSED<br>Parking<br>Address: สีลม, บางรัก, กรุงเทพมหานคร<br>Latitude: 13.72482<br>Longitude: 100.538481<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,11 kW,"Type2: 5x 11 kW
+CCS2: CLOSED
+Parking","สีลม, บางรัก, กรุงเทพมหานคร",13.72482,100.538481,EA,"
+            100.538481,13.72482,0
+          "
+เอสโซ่ ปิ่นเกล้า,"Hours: Closed<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: ตลิ่งชัน, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.784968<br>Longitude: 100.461259<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","ตลิ่งชัน, ตลิ่งชัน, กรุงเทพมหานคร",13.784968,100.461259,EA,"
+            100.461259,13.784968,0
+          "
+คาลเท็กซ์ เพชรพระเทพ,"Hours: 24 Hr<br>Power: 102 kW<br>Description: CCS2: 103 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางพรม, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.752084<br>Longitude: 100.448974<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,102 kW,"CCS2: 103 kW, 200A
+Type2: CLOSED
+Parking","บางพรม, ตลิ่งชัน, กรุงเทพมหานคร",13.752084,100.448974,EA,"
+            100.448974,13.752084,0
+          "
+E-Bus พระราม 3-บุคคโล (Station1),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 6x 150 kW, 200A<br>Parking<br>Address: บุคคโล, ธนบุรี, กรุงเทพมหานคร<br>Latitude: 13.703416<br>Longitude: 100.489631<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 6x 150 kW, 200A
+Parking","บุคคโล, ธนบุรี, กรุงเทพมหานคร",13.703416,100.489631,EA,"
+            100.489631,13.703416,0
+          "
+E-Bus พระราม 3-บุคคโล (Station2),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 4x 150 kW, 200A<br>Parking<br>Address: บุคคโล, ธนบุรี, กรุงเทพมหานคร<br>Latitude: 13.703416<br>Longitude: 100.489631<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 4x 150 kW, 200A
+Parking","บุคคโล, ธนบุรี, กรุงเทพมหานคร",13.703416,100.489631,EA,"
+            100.489631,13.703416,0
+          "
+MG 824 จำกัด,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางเชือกหนัง, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.743377<br>Longitude: 100.447065<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","บางเชือกหนัง, ตลิ่งชัน, กรุงเทพมหานคร",13.743377,100.447065,EA,"
+            100.447065,13.743377,0
+          "
+ซัสโก้ ราชพฤกษ์,"Hours: Closed<br>Power: 11 kW<br>Description: CCS2: CLOSED<br>Type2: 11 kW, CLOSED<br>Type1: CLOSED<br>-<br>Address: บางระมาด, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.76229<br>Longitude: 100.445505<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,11 kW,"CCS2: CLOSED
+Type2: 11 kW, CLOSED
+Type1: CLOSED
+-","บางระมาด, ตลิ่งชัน, กรุงเทพมหานคร",13.76229,100.445505,EA,"
+            100.445505,13.76229,0
+          "
+The Bloc (Ratchaphruek),"Hours: Peak<br>Power: 110 kW<br>Description: CCS2: 2x 110 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ตลิ่งชัน, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.768419<br>Longitude: 100.444822<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,110 kW,"CCS2: 2x 110 kW, 200A
+Type2: CLOSED
+Parking","ตลิ่งชัน, ตลิ่งชัน, กรุงเทพมหานคร",13.768419,100.444822,EA,"
+            100.444822,13.768419,0
+          "
+A.C.T สาขาแมคโคร สาทร,"Hours: Closed<br>Power: 90 kW<br>Description: Type1: 22 kW, CLOSED<br>Type2: 5 kW, CLOSED<br>CCS2: 90 kW, 200A, CLOSED<br>Bridgestone A.C.T (Thailand) Co.,Ltd. Makro Sathorn Branch<br>Address: ทุ่งวัดดอน, สาทร, กรุงเทพมหานคร<br>Latitude: 13.709774<br>Longitude: 100.535369<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,90 kW,"Type1: 22 kW, CLOSED
+Type2: 5 kW, CLOSED
+CCS2: 90 kW, 200A, CLOSED
+Bridgestone A.C.T (Thailand) Co.,Ltd. Makro Sathorn Branch","ทุ่งวัดดอน, สาทร, กรุงเทพมหานคร",13.709774,100.535369,EA,"
+            100.535369,13.709774,0
+          "
+สำนักงานใหญ่ เอสซีจี,"Hours: Peak<br>Power: 90 kW<br>Description: Type2: 5 kW, CLOSED<br>CCS2: 2x 90 kW, 200A<br>Parking<br>Address: บางซื่อ, บางซื่อ, กรุงเทพมหานคร<br>Latitude: 13.803691<br>Longitude: 100.538499<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,90 kW,"Type2: 5 kW, CLOSED
+CCS2: 2x 90 kW, 200A
+Parking","บางซื่อ, บางซื่อ, กรุงเทพมหานคร",13.803691,100.538499,EA,"
+            100.538499,13.803691,0
+          "
+บิ๊กซี ดาวคะนอง,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บุคคโล, ธนบุรี, กรุงเทพมหานคร<br>Latitude: 13.699646<br>Longitude: 100.483695<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 117 kW, 200A
+Type2: CLOSED
+Parking","บุคคโล, ธนบุรี, กรุงเทพมหานคร",13.699646,100.483695,EA,"
+            100.483695,13.699646,0
+          "
+อี-เฟอรี่ องค์การคลังสินค้า (สเตชั่น 1),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 2x 150 kW, 200A<br>Parking<br>Address: บุคคโล, ธนบุรี, กรุงเทพมหานคร<br>Latitude: 13.698133<br>Longitude: 100.489027<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 2x 150 kW, 200A
+Parking","บุคคโล, ธนบุรี, กรุงเทพมหานคร",13.698133,100.489027,EA,"
+            100.489027,13.698133,0
+          "
+อี-เฟอรี่ องค์การคลังสินค้า (สเตชั่น 2),"Hours: Closed<br>Power: 150 kW<br>Description: CCS2: 150 kW, 200A, CLOSED<br>Parking<br>Address: บุคคโล, ธนบุรี, กรุงเทพมหานคร<br>Latitude: 13.69785<br>Longitude: 100.488884<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,150 kW,"CCS2: 150 kW, 200A, CLOSED
+Parking","บุคคโล, ธนบุรี, กรุงเทพมหานคร",13.69785,100.488884,EA,"
+            100.488884,13.69785,0
+          "
+ปทุมธานีคอนกรีต,"Hours: 24 Hr<br>Power: 90 kW<br>Description: Type1: 22 kW<br>Type2: 5 kW<br>CCS2: 2x 90 kW, 200A<br>parking<br>Address: บางซื่อ, บางซื่อ, กรุงเทพมหานคร<br>Latitude: 13.815106<br>Longitude: 100.515819<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,90 kW,"Type1: 22 kW
+Type2: 5 kW
+CCS2: 2x 90 kW, 200A
+parking","บางซื่อ, บางซื่อ, กรุงเทพมหานคร",13.815106,100.515819,EA,"
+            100.515819,13.815106,0
+          "
+อาคาร ซี.พี.ทาวเวอร์ 2 (หน้าศูนย์การค้าฝั่งโลตัส),"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ดินแดง, ดินแดง, กรุงเทพมหานคร<br>Latitude: 13.758519<br>Longitude: 100.565114<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","ดินแดง, ดินแดง, กรุงเทพมหานคร",13.758519,100.565114,EA,"
+            100.565114,13.758519,0
+          "
+สวิมคิดส์ (อินทราวาส),"Hours: 24 Hr<br>Power: 116 kW<br>Description: CCS2: 2x 116 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางระมาด, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.758118<br>Longitude: 100.437972<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,116 kW,"CCS2: 2x 116 kW, 200A
+Type2: CLOSED
+Parking","บางระมาด, ตลิ่งชัน, กรุงเทพมหานคร",13.758118,100.437972,EA,"
+            100.437972,13.758118,0
+          "
+E-BUS NEX Express Voice TV (สุทธิสาร),"Hours: 24 Hr<br>Power: 152 kW<br>Description: CCS2: 2x 152 kW, 200A<br>Parking<br>Address: สามเสนใน, พญาไท, กรุงเทพมหานคร<br>Latitude: 13.785779<br>Longitude: 100.559438<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,152 kW,"CCS2: 2x 152 kW, 200A
+Parking","สามเสนใน, พญาไท, กรุงเทพมหานคร",13.785779,100.559438,EA,"
+            100.559438,13.785779,0
+          "
+เดอะ พาร์ค (สเตชั่น 1),"Hours: 24 Hr<br>Power: 38 kW<br>Description: Type2: 3x 22 kW<br>CCS2: 4x 38 kW<br>Parking<br>Address: คลองเตย, คลองเตย, กรุงเทพมหานคร<br>Latitude: 13.721135<br>Longitude: 100.557874<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,38 kW,"Type2: 3x 22 kW
+CCS2: 4x 38 kW
+Parking","คลองเตย, คลองเตย, กรุงเทพมหานคร",13.721135,100.557874,EA,"
+            100.557874,13.721135,0
+          "
+โรงพยาบาลพระราม 9,"Hours: 24 Hr<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางกะปิ, ห้วยขวาง, กรุงเทพมหานคร<br>Latitude: 13.75339<br>Longitude: 100.570968<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","บางกะปิ, ห้วยขวาง, กรุงเทพมหานคร",13.75339,100.570968,EA,"
+            100.570968,13.75339,0
+          "
+เมโทร พาร์ค สาทร,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางหว้า, ภาษีเจริญ, กรุงเทพมหานคร<br>Latitude: 13.709785<br>Longitude: 100.450589<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","บางหว้า, ภาษีเจริญ, กรุงเทพมหานคร",13.709785,100.450589,EA,"
+            100.450589,13.709785,0
+          "
+ซัสโก้ สาขาวงศ์สว่าง,"Hours: Closed<br>Power: 110 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: 110 kW, 200A, CLOSED<br>PARKING<br>Address: บางซื่อ, บางซื่อ, กรุงเทพมหานคร<br>Latitude: 13.822851<br>Longitude: 100.522771<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,110 kW,"Type2: 22 kW, CLOSED
+CCS2: 110 kW, 200A, CLOSED
+PARKING","บางซื่อ, บางซื่อ, กรุงเทพมหานคร",13.822851,100.522771,EA,"
+            100.522771,13.822851,0
+          "
+ซัสโก้ สาขารัชดาภิเษก (ขาเข้า),"Hours: 24 Hr<br>Power: 75 kW<br>Description: Type2: 22 kW<br>CCS2: 75 kW<br>Parking<br>Address: ห้วยขวาง, ห้วยขวาง, กรุงเทพมหานคร<br>Latitude: 13.768085<br>Longitude: 100.572318<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"Type2: 22 kW
+CCS2: 75 kW
+Parking","ห้วยขวาง, ห้วยขวาง, กรุงเทพมหานคร",13.768085,100.572318,EA,"
+            100.572318,13.768085,0
+          "
+อีเฟอรี่ วัดศาลาลี,"Hours: Closed<br>Power: 150 kW<br>Description: CCS2: 150 kW, 200A, CLOSED<br>-<br>Address: บางไผ่, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.826204<br>Longitude: 100.498007<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,150 kW,"CCS2: 150 kW, 200A, CLOSED
+-","บางไผ่, เมืองนนทบุรี, นนทบุรี",13.826204,100.498007,EA,"
+            100.498007,13.826204,0
+          "
+โชว์รูมเกียร์ธนบุรี (ตลิ่งชัน),"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ตลิ่งชัน, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.780855<br>Longitude: 100.433377<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","ตลิ่งชัน, ตลิ่งชัน, กรุงเทพมหานคร",13.780855,100.433377,EA,"
+            100.433377,13.780855,0
+          "
+ซัสโก้ บางประกอก (สำนักงานใหญ่),"Hours: 24 Hr<br>Power: 22 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: CLOSED<br>-<br>Address: บางปะกอก, ราษฎร์บูรณะ, กรุงเทพมหานคร<br>Latitude: 13.685865<br>Longitude: 100.494137<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,22 kW,"Type2: 22 kW, CLOSED
+CCS2: CLOSED
+-","บางปะกอก, ราษฎร์บูรณะ, กรุงเทพมหานคร",13.685865,100.494137,EA,"
+            100.494137,13.685865,0
+          "
+Saksit Alloy Group,"Hours: Closed<br>Power: 135 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: 135 kW, 200A, CLOSED<br>Parking<br>Address: ดินแดง, ดินแดง, กรุงเทพมหานคร<br>Latitude: 13.776937<br>Longitude: 100.573384<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,135 kW,"Type2: 22 kW, CLOSED
+CCS2: 135 kW, 200A, CLOSED
+Parking","ดินแดง, ดินแดง, กรุงเทพมหานคร",13.776937,100.573384,EA,"
+            100.573384,13.776937,0
+          "
+บิ๊กซี ราษฎร์บูรณะ,"Hours: Closed<br>Power: 110 kW<br>Description: CCS2: 110 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางปะกอก, ราษฎร์บูรณะ, กรุงเทพมหานคร<br>Latitude: 13.682779<br>Longitude: 100.500082<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,110 kW,"CCS2: 110 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","บางปะกอก, ราษฎร์บูรณะ, กรุงเทพมหานคร",13.682779,100.500082,EA,"
+            100.500082,13.682779,0
+          "
+A.C.T สาขาเกษมราษฏร์ (พระราม4),"Hours: Peak<br>Power: 90 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 90 kW, 200A<br>Bridgestone A.C.T (Thailand) Co.,Ltd. Kasemraj Branch<br>Address: คลองตัน, คลองเตย, กรุงเทพมหานคร<br>Latitude: 13.718328<br>Longitude: 100.567215<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,90 kW,"Type2: 22 kW
+CCS2: 2x 90 kW, 200A
+Bridgestone A.C.T (Thailand) Co.,Ltd. Kasemraj Branch","คลองตัน, คลองเตย, กรุงเทพมหานคร",13.718328,100.567215,EA,"
+            100.567215,13.718328,0
+          "
+ซัสโก้ สาขา วิภาวดี 1,"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 5 kW<br>CCS2: 2x 110 kW, 200A<br>Parking <br>Address: จอมพล, จตุจักร, กรุงเทพมหานคร<br>Latitude: 13.802918<br>Longitude: 100.561303<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 5 kW
+CCS2: 2x 110 kW, 200A
+Parking ","จอมพล, จตุจักร, กรุงเทพมหานคร",13.802918,100.561303,EA,"
+            100.561303,13.802918,0
+          "
+ทีซี ฟุตบอลคลับ พระราม3,"Hours: Closed<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางโพงพาง, ยานนาวา, กรุงเทพมหานคร<br>Latitude: 13.68431<br>Longitude: 100.522349<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","บางโพงพาง, ยานนาวา, กรุงเทพมหานคร",13.68431,100.522349,EA,"
+            100.522349,13.68431,0
+          "
+A.C.T สาขาวงศ์สว่าง,"Hours: Closed<br>Power: 75 kW<br>Description: CCS2: 75 kW, CLOSED<br>Type2: CLOSED<br>parking  A.C.T.<br>Address: บางซื่อ, บางซื่อ, กรุงเทพมหานคร<br>Latitude: 13.827128<br>Longitude: 100.529344<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,75 kW,"CCS2: 75 kW, CLOSED
+Type2: CLOSED
+parking  A.C.T.","บางซื่อ, บางซื่อ, กรุงเทพมหานคร",13.827128,100.529344,EA,"
+            100.529344,13.827128,0
+          "
+อีบัส กาญจนาภิเษก-พรานนก (สเตชั่น 2),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 3x 150 kW, 200A<br>Parking<br>Address: บางพรม, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.754485<br>Longitude: 100.423756<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 3x 150 kW, 200A
+Parking","บางพรม, ตลิ่งชัน, กรุงเทพมหานคร",13.754485,100.423756,EA,"
+            100.423756,13.754485,0
+          "
+อีบัส กาญจนาภิเษก-พรานนก (สเตชั่น 1),"Hours: 24 Hr<br>Power: 300 kW<br>Description: CCS2: 6x 300 kW, 200A<br>Parking<br>Address: บางพรม, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.754679<br>Longitude: 100.423505<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,300 kW,"CCS2: 6x 300 kW, 200A
+Parking","บางพรม, ตลิ่งชัน, กรุงเทพมหานคร",13.754679,100.423505,EA,"
+            100.423505,13.754679,0
+          "
+บี ออโต้เฮาส์ (ถ.วิภาวดีรังสิต),"Hours: Closed<br>Power: 90 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: 90 kW, 200A, CLOSED<br>Parking<br>Address: จอมพล, จตุจักร, กรุงเทพมหานคร<br>Latitude: 13.807589<br>Longitude: 100.560448<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,90 kW,"Type2: 22 kW, CLOSED
+CCS2: 90 kW, 200A, CLOSED
+Parking","จอมพล, จตุจักร, กรุงเทพมหานคร",13.807589,100.560448,EA,"
+            100.560448,13.807589,0
+          "
+เมืองไทยประกันภัย จำกัด,"Hours: Closed<br>Power: 102 kW<br>Description: CCS2: 102 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: ห้วยขวาง, ห้วยขวาง, กรุงเทพมหานคร<br>Latitude: 13.785694<br>Longitude: 100.57506<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,102 kW,"CCS2: 102 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","ห้วยขวาง, ห้วยขวาง, กรุงเทพมหานคร",13.785694,100.57506,EA,"
+            100.57506,13.785694,0
+          "
+เอควา เรสซิเดนซ์ สุขุมวิท 49,"Hours: 24 Hr<br>Power: 75 kW<br>Description: CCS2: 75 kW<br>Type2: CLOSED<br>Parking<br>Address: คลองตันเหนือ, วัฒนา, กรุงเทพมหานคร<br>Latitude: 13.727257<br>Longitude: 100.575307<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"CCS2: 75 kW
+Type2: CLOSED
+Parking","คลองตันเหนือ, วัฒนา, กรุงเทพมหานคร",13.727257,100.575307,EA,"
+            100.575307,13.727257,0
+          "
+มหาวิทยาลัยราชพฤกษ์,"Hours: Peak<br>Power: 90 kW<br>Description: Type1: 22 kW<br>Type2: 22 kW<br>CCS2: 2x 90 kW, 200A<br>parking <br>Address: บางขนุน, บางกรวย, นนทบุรี<br>Latitude: 13.82362<br>Longitude: 100.459832<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,90 kW,"Type1: 22 kW
+Type2: 22 kW
+CCS2: 2x 90 kW, 200A
+parking ","บางขนุน, บางกรวย, นนทบุรี",13.82362,100.459832,EA,"
+            100.459832,13.82362,0
+          "
+วินนิ่งเซเว่น ฟุตบอล คลับ สาย 1,"Hours: Off-peak<br>Power: 110 kW<br>Description: CCS2: 110 kW, 200A, CLOSED<br>Type2: 22 kW, CLOSED<br>Parking<br>Address: บางระมาด, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.758716<br>Longitude: 100.419926<br>Provider: EA",#icon-1899-DB4436-labelson,Off-peak,110 kW,"CCS2: 110 kW, 200A, CLOSED
+Type2: 22 kW, CLOSED
+Parking","บางระมาด, ตลิ่งชัน, กรุงเทพมหานคร",13.758716,100.419926,EA,"
+            100.419926,13.758716,0
+          "
+E-BUS ตลิ่งชัน-บรมฯ (Station 1),"Hours: 24 Hr<br>Power: 180 kW<br>Description: CCS2: 3x 180 kW, 200A<br>Parking<br>Address: ฉิมพลี, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.790353<br>Longitude: 100.425618<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,180 kW,"CCS2: 3x 180 kW, 200A
+Parking","ฉิมพลี, ตลิ่งชัน, กรุงเทพมหานคร",13.790353,100.425618,EA,"
+            100.425618,13.790353,0
+          "
+E-BUS ตลิ่งชัน-บรมฯ (Station 2),"Hours: 24 Hr<br>Power: 300 kW<br>Description: CCS2: 4x 300 kW, 200A<br>Parking<br>Address: ฉิมพลี, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.790321<br>Longitude: 100.425321<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,300 kW,"CCS2: 4x 300 kW, 200A
+Parking","ฉิมพลี, ตลิ่งชัน, กรุงเทพมหานคร",13.790321,100.425321,EA,"
+            100.425321,13.790321,0
+          "
+E-BUS ตลิ่งชัน-บรมฯ (Station 3),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 2x 150 kW, 200A<br>Parking<br>Address: ฉิมพลี, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.790394<br>Longitude: 100.424957<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 2x 150 kW, 200A
+Parking","ฉิมพลี, ตลิ่งชัน, กรุงเทพมหานคร",13.790394,100.424957,EA,"
+            100.424957,13.790394,0
+          "
+E-BUS ตลิ่งชัน-บรมฯ (Station 4),"Hours: 24 Hr<br>Power: 180 kW<br>Description: CCS2: 7x 180 kW, 200A<br>Parking<br>Address: ฉิมพลี, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.790217<br>Longitude: 100.424742<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,180 kW,"CCS2: 7x 180 kW, 200A
+Parking","ฉิมพลี, ตลิ่งชัน, กรุงเทพมหานคร",13.790217,100.424742,EA,"
+            100.424742,13.790217,0
+          "
+E-BUS ตลิ่งชัน-บรมฯ (Station 5),"Hours: Closed<br>Power: 180 kW<br>Description: CCS2: 180 kW, 200A, CLOSED<br>Parking<br>Address: ฉิมพลี, ตลิ่งชัน, กรุงเทพมหานคร<br>Latitude: 13.790074<br>Longitude: 100.424342<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,180 kW,"CCS2: 180 kW, 200A, CLOSED
+Parking","ฉิมพลี, ตลิ่งชัน, กรุงเทพมหานคร",13.790074,100.424342,EA,"
+            100.424342,13.790074,0
+          "
+The Walk สาขาราชพฤกษ์,"Hours: Peak<br>Power: 90 kW<br>Description: Type2: 3x 11 kW<br>CCS2: 2x 90 kW, 200A<br>parking index<br>Address: บางคูเวียง, บางกรวย, นนทบุรี<br>Latitude: 13.821103<br>Longitude: 100.449197<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,90 kW,"Type2: 3x 11 kW
+CCS2: 2x 90 kW, 200A
+parking index","บางคูเวียง, บางกรวย, นนทบุรี",13.821103,100.449197,EA,"
+            100.449197,13.821103,0
+          "
+เอสโซ่ เพชรเกษม 39,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางหว้า, ภาษีเจริญ, กรุงเทพมหานคร<br>Latitude: 13.712268<br>Longitude: 100.42978<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 118 kW, 200A
+Type2: CLOSED
+Parking","บางหว้า, ภาษีเจริญ, กรุงเทพมหานคร",13.712268,100.42978,EA,"
+            100.42978,13.712268,0
+          "
+E-BUS เคหะธนบุรี (Station2),"Hours: 24 Hr<br>Power: 360 kW<br>Description: CCS2: 4x 360 kW, 200A<br>Parking<br>Address: แสมดำ, บางขุนเทียน, กรุงเทพมหานคร<br>Latitude: 13.799653<br>Longitude: 100.575214<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,360 kW,"CCS2: 4x 360 kW, 200A
+Parking","แสมดำ, บางขุนเทียน, กรุงเทพมหานคร",13.799653,100.575214,EA,"
+            100.575214,13.799653,0
+          "
+พลังงานมหานคร,"Hours: Closed<br>Power: 22 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: CLOSED<br>Type1: 7 kW, CLOSED<br>Energy Mahanakhon<br>Address: สามเสนนอก, ห้วยขวาง, กรุงเทพมหานคร<br>Latitude: 13.799602<br>Longitude: 100.575281<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,22 kW,"Type2: 22 kW, CLOSED
+CCS2: CLOSED
+Type1: 7 kW, CLOSED
+Energy Mahanakhon","สามเสนนอก, ห้วยขวาง, กรุงเทพมหานคร",13.799602,100.575281,EA,"
+            100.575281,13.799602,0
+          "
+บิ๊กซี-Extra ลาดพร้าว 2,"Hours: 24 Hr<br>Power: 58 kW<br>Description: CCS2: 59 kW<br>Type2: CLOSED<br>Parking<br>Address: จอมพล, จตุจักร, กรุงเทพมหานคร<br>Latitude: 13.810139<br>Longitude: 100.569298<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,58 kW,"CCS2: 59 kW
+Type2: CLOSED
+Parking","จอมพล, จตุจักร, กรุงเทพมหานคร",13.810139,100.569298,EA,"
+            100.569298,13.810139,0
+          "
+เราะห์ มาห์ มอลล์,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: สามเสนนอก, ห้วยขวาง, กรุงเทพมหานคร<br>Latitude: 13.769676<br>Longitude: 100.590188<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","สามเสนนอก, ห้วยขวาง, กรุงเทพมหานคร",13.769676,100.590188,EA,"
+            100.590188,13.769676,0
+          "
+7-11 ประชาราษฎร์ 16/1,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ตลาดขวัญ, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.844058<br>Longitude: 100.501694<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 117 kW, 200A
+Type2: CLOSED
+Parking","ตลาดขวัญ, เมืองนนทบุรี, นนทบุรี",13.844058,100.501694,EA,"
+            100.501694,13.844058,0
+          "
+Mattani (เอกมัย22),"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>parking<br>Address: คลองตันเหนือ, วัฒนา, กรุงเทพมหานคร<br>Latitude: 13.734521<br>Longitude: 100.590171<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+parking","คลองตันเหนือ, วัฒนา, กรุงเทพมหานคร",13.734521,100.590171,EA,"
+            100.590171,13.734521,0
+          "
+คอนโดโอเรียลเต็ล ทาวเวอร์ (เอกมัยซอย12),"Hours: 24 Hr<br>Power: 135 kW<br>Description: CCS2: 135 kW, 200A, CLOSED<br>Type2: 22 kW<br>Parking<br>Address: คลองตันเหนือ, วัฒนา, กรุงเทพมหานคร<br>Latitude: 13.730031<br>Longitude: 100.588835<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,135 kW,"CCS2: 135 kW, 200A, CLOSED
+Type2: 22 kW
+Parking","คลองตันเหนือ, วัฒนา, กรุงเทพมหานคร",13.730031,100.588835,EA,"
+            100.588835,13.730031,0
+          "
+ซัสโก้ สาขายานนาวา,"Hours: 24 Hr<br>Power: 58 kW<br>Description: Type2: 22 kW<br>CCS2: 59 kW<br>PARKING<br>Address: ช่องนนทรี, ยานนาวา, กรุงเทพมหานคร<br>Latitude: 13.679603<br>Longitude: 100.547685<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,58 kW,"Type2: 22 kW
+CCS2: 59 kW
+PARKING","ช่องนนทรี, ยานนาวา, กรุงเทพมหานคร",13.679603,100.547685,EA,"
+            100.547685,13.679603,0
+          "
+ซัสโก้ สาขา เพชรเกษม (บางแค2),"Hours: 24 Hr<br>Power: 110 kW<br>Description: CCS2: 2x 110 kW, 200A<br>Type2: 22 kW<br>Parking in of Susco<br>Address: บางแคเหนือ, บางแค, กรุงเทพมหานคร<br>Latitude: 13.712083<br>Longitude: 100.42033<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"CCS2: 2x 110 kW, 200A
+Type2: 22 kW
+Parking in of Susco","บางแคเหนือ, บางแค, กรุงเทพมหานคร",13.712083,100.42033,EA,"
+            100.42033,13.712083,0
+          "
+โรงแรมบ้านสวนรัชดาเรสซิเด้นท์ ซ.ลาดพร้าว64,"Hours: 24 Hr<br>Power: 90 kW<br>Description: Type2: 2x 22 kW<br>CCS2: 2x 90 kW, 200A<br>parking<br>Address: วังทองหลาง, วังทองหลาง, กรุงเทพมหานคร<br>Latitude: 13.788803<br>Longitude: 100.590917<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,90 kW,"Type2: 2x 22 kW
+CCS2: 2x 90 kW, 200A
+parking","วังทองหลาง, วังทองหลาง, กรุงเทพมหานคร",13.788803,100.590917,EA,"
+            100.590917,13.788803,0
+          "
+The Paseo Park (สาขากาญจนาภิเษก) ST. 2 (ลานจอดด้านหลัง),"Hours: Peak<br>Power: 97 kW<br>Description: Type1: CLOSED<br>Type2: 22 kW<br>CCS2: 2x 97 kW, 200A<br>Parking Area<br>Address: ศาลาธรรมสพน์, ทวีวัฒนา, กรุงเทพมหานคร<br>Latitude: 13.767229<br>Longitude: 100.405767<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,97 kW,"Type1: CLOSED
+Type2: 22 kW
+CCS2: 2x 97 kW, 200A
+Parking Area","ศาลาธรรมสพน์, ทวีวัฒนา, กรุงเทพมหานคร",13.767229,100.405767,EA,"
+            100.405767,13.767229,0
+          "
+อีบัส วงเวียนพระประแดง สเตชั่น 1,"Hours: 24 Hr<br>Power: 300 kW<br>Description: CCS2: 3x 300 kW, 200A<br>Parking<br>Address: ราษฎร์บูรณะ, ราษฎร์บูรณะ, กรุงเทพมหานคร<br>Latitude: 13.663413<br>Longitude: 100.515179<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,300 kW,"CCS2: 3x 300 kW, 200A
+Parking","ราษฎร์บูรณะ, ราษฎร์บูรณะ, กรุงเทพมหานคร",13.663413,100.515179,EA,"
+            100.515179,13.663413,0
+          "
+อีบัส วงเวียนพระประแดง สเตชั่น 2,"Hours: 24 Hr<br>Power: 152 kW<br>Description: CCS2: 3x 152 kW, 200A<br>parking<br>Address: บางพึ่ง, พระประแดง, สมุทรปราการ<br>Latitude: 13.66335<br>Longitude: 100.515316<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,152 kW,"CCS2: 3x 152 kW, 200A
+parking","บางพึ่ง, พระประแดง, สมุทรปราการ",13.66335,100.515316,EA,"
+            100.515316,13.66335,0
+          "
+อีบัส วงเวียนพระประแดง สเตชั่น 3,"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 2x 150 kW, 200A<br>Parking<br>Address: บางพึ่ง, พระประแดง, สมุทรปราการ<br>Latitude: 13.663155<br>Longitude: 100.515126<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 2x 150 kW, 200A
+Parking","บางพึ่ง, พระประแดง, สมุทรปราการ",13.663155,100.515126,EA,"
+            100.515126,13.663155,0
+          "
+The Paseo Park (สาขากาญจนาภิเษก) ST.3,"Hours: Peak<br>Power: 90 kW<br>Description: Type1: 5 kW, CLOSED<br>Type2: 11 kW<br>CCS2: 2x 90 kW, 200A<br>Parking<br>Address: ศาลาธรรมสพน์, ทวีวัฒนา, กรุงเทพมหานคร<br>Latitude: 13.765287<br>Longitude: 100.405394<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,90 kW,"Type1: 5 kW, CLOSED
+Type2: 11 kW
+CCS2: 2x 90 kW, 200A
+Parking","ศาลาธรรมสพน์, ทวีวัฒนา, กรุงเทพมหานคร",13.765287,100.405394,EA,"
+            100.405394,13.765287,0
+          "
+MG พระนคร (กาญจนาภิเษก),"Hours: Off-peak<br>Power: 75 kW<br>Description: CCS2: 75 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางไผ่, บางแค, กรุงเทพมหานคร<br>Latitude: 13.737121<br>Longitude: 100.406239<br>Provider: EA",#icon-1899-DB4436-labelson,Off-peak,75 kW,"CCS2: 75 kW, CLOSED
+Type2: CLOSED
+Parking","บางไผ่, บางแค, กรุงเทพมหานคร",13.737121,100.406239,EA,"
+            100.406239,13.737121,0
+          "
+ซัสโก้ กาญจนาภิเษก,"Hours: 24 Hr<br>Power: 22 kW<br>Description: Type2: 22 kW<br>CCS2: CLOSED<br>Parking<br>Address: บางแม่นาง, บางใหญ่, นนทบุรี<br>Latitude: 13.732931<br>Longitude: 100.406431<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,22 kW,"Type2: 22 kW
+CCS2: CLOSED
+Parking","บางแม่นาง, บางใหญ่, นนทบุรี",13.732931,100.406431,EA,"
+            100.406431,13.732931,0
+          "
+A.C.T สาขารัชดาภิเษก,"Hours: Peak<br>Power: 90 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 90 kW, 200A<br>Parking  A.C.T<br>Address: จตุจักร, จตุจักร, กรุงเทพมหานคร<br>Latitude: 13.821773<br>Longitude: 100.574743<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,90 kW,"Type2: 22 kW
+CCS2: 2x 90 kW, 200A
+Parking  A.C.T","จตุจักร, จตุจักร, กรุงเทพมหานคร",13.821773,100.574743,EA,"
+            100.574743,13.821773,0
+          "
+SCB สาขาบางเขน,"Hours: Closed<br>Power: 22 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: CLOSED<br>parking scb<br>Address: ลาดยาว, จตุจักร, กรุงเทพมหานคร<br>Latitude: 13.827891<br>Longitude: 100.569009<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,22 kW,"Type2: 22 kW, CLOSED
+CCS2: CLOSED
+parking scb","ลาดยาว, จตุจักร, กรุงเทพมหานคร",13.827891,100.569009,EA,"
+            100.569009,13.827891,0
+          "
+บางกอกเดย์ราม่า,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางขุนกอง, บางกรวย, นนทบุรี<br>Latitude: 13.821693<br>Longitude: 100.427679<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","บางขุนกอง, บางกรวย, นนทบุรี",13.821693,100.427679,EA,"
+            100.427679,13.821693,0
+          "
+คาลเท็กซ์ เจษฎาบดินทร์,"Hours: Closed<br>Power: 88 kW<br>Description: CCS2: 88 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางกร่าง, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.844676<br>Longitude: 100.457236<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,88 kW,"CCS2: 88 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","บางกร่าง, เมืองนนทบุรี, นนทบุรี",13.844676,100.457236,EA,"
+            100.457236,13.844676,0
+          "
+7-11 เรวดี 17,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ตลาดขวัญ, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.854632<br>Longitude: 100.512433<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 117 kW, 200A
+Type2: CLOSED
+Parking","ตลาดขวัญ, เมืองนนทบุรี, นนทบุรี",13.854632,100.512433,EA,"
+            100.512433,13.854632,0
+          "
+กรมอนามัย (กระทรวงสาธารณสุข),"Hours: 24 Hr<br>Power: 38 kW<br>Description: CCS2: 38 kW<br>Parking<br>Address: ตลาดขวัญ, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.852591<br>Longitude: 100.529551<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,38 kW,"CCS2: 38 kW
+Parking","ตลาดขวัญ, เมืองนนทบุรี, นนทบุรี",13.852591,100.529551,EA,"
+            100.529551,13.852591,0
+          "
+ซัสโก้ สาขาบางยอ,"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 110 kW, 200A<br>-<br>Address: บางยอ, พระประแดง, สมุทรปราการ<br>Latitude: 13.67046<br>Longitude: 100.5562<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 22 kW
+CCS2: 2x 110 kW, 200A
+-","บางยอ, พระประแดง, สมุทรปราการ",13.67046,100.5562,EA,"
+            100.5562,13.67046,0
+          "
+อารดา ทาวน์ อิน ทาวน์ (บ.ทรัพย์สิน อารดา จำกัด),"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 5 kW<br>CCS2: 2x 110 kW, 200A<br>parking<br>Address: วังทองหลาง, วังทองหลาง, กรุงเทพมหานคร<br>Latitude: 13.765679<br>Longitude: 100.606936<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 5 kW
+CCS2: 2x 110 kW, 200A
+parking","วังทองหลาง, วังทองหลาง, กรุงเทพมหานคร",13.765679,100.606936,EA,"
+            100.606936,13.765679,0
+          "
+E-BUS พุทธมณฑลสาย2 (สเตชั่น1),"Hours: 24 Hr<br>Power: 300 kW<br>Description: CCS2: 4x 300 kW, 200A<br>Parking<br>Address: บางไผ่, บางแค, กรุงเทพมหานคร<br>Latitude: 13.731885<br>Longitude: 100.396576<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,300 kW,"CCS2: 4x 300 kW, 200A
+Parking","บางไผ่, บางแค, กรุงเทพมหานคร",13.731885,100.396576,EA,"
+            100.396576,13.731885,0
+          "
+E-BUS พุทธมณฑลสาย2 (สเตชั่น4),"Hours: Off-peak<br>Power: 300 kW<br>Description: CCS2: 300 kW, 200A, CLOSED<br>parking<br>Address: บางไผ่, บางแค, กรุงเทพมหานคร<br>Latitude: 13.732594<br>Longitude: 100.396444<br>Provider: EA",#icon-1899-DB4436-labelson,Off-peak,300 kW,"CCS2: 300 kW, 200A, CLOSED
+parking","บางไผ่, บางแค, กรุงเทพมหานคร",13.732594,100.396444,EA,"
+            100.396444,13.732594,0
+          "
+E-BUS พุทธมณฑลสาย2 (สเตชั่น3),"Hours: 24 Hr<br>Power: 180 kW<br>Description: CCS2: 8x 180 kW, 200A<br>Parking<br>Address: บางไผ่, บางแค, กรุงเทพมหานคร<br>Latitude: 13.732083<br>Longitude: 100.396455<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,180 kW,"CCS2: 8x 180 kW, 200A
+Parking","บางไผ่, บางแค, กรุงเทพมหานคร",13.732083,100.396455,EA,"
+            100.396455,13.732083,0
+          "
+E-BUS พุทธมณฑลสาย2 (สเตชั่น2),"Hours: 24 Hr<br>Power: 300 kW<br>Description: CCS2: 4x 300 kW, 200A<br>Parkng<br>Address: บางไผ่, บางแค, กรุงเทพมหานคร<br>Latitude: 13.731635<br>Longitude: 100.396498<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,300 kW,"CCS2: 4x 300 kW, 200A
+Parkng","บางไผ่, บางแค, กรุงเทพมหานคร",13.731635,100.396498,EA,"
+            100.396498,13.731635,0
+          "
+ศูนย์การค้า Habito Mall สุขุมวิท77,"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 5 kW, CLOSED<br>CCS2: 2x 110 kW, 200A<br>Parking of Habito<br>Address: พระโขนงเหนือ, วัฒนา, กรุงเทพมหานคร<br>Latitude: 13.712975<br>Longitude: 100.600755<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 5 kW, CLOSED
+CCS2: 2x 110 kW, 200A
+Parking of Habito","พระโขนงเหนือ, วัฒนา, กรุงเทพมหานคร",13.712975,100.600755,EA,"
+            100.600755,13.712975,0
+          "
+7-11 นนทบุรี ซอย8 (เลี่ยงเมืองนนท์),"Hours: Off-peak<br>Power: 117 kW<br>Description: CCS2: 117 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางกระสอ, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.863557<br>Longitude: 100.492669<br>Provider: EA",#icon-1899-DB4436-labelson,Off-peak,117 kW,"CCS2: 117 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","บางกระสอ, เมืองนนทบุรี, นนทบุรี",13.863557,100.492669,EA,"
+            100.492669,13.863557,0
+          "
+บิ๊กซี เอ็กซ์ตร้า อ่อนนุช,"Hours: 24 Hr<br>Power: 110 kW<br>Description: CCS2: 110 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: พระโขนงเหนือ, วัฒนา, กรุงเทพมหานคร<br>Latitude: 13.709948<br>Longitude: 100.601667<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"CCS2: 110 kW, 200A
+Type2: CLOSED
+Parking","พระโขนงเหนือ, วัฒนา, กรุงเทพมหานคร",13.709948,100.601667,EA,"
+            100.601667,13.709948,0
+          "
+พงษ์ตระกูล เพอเฟ็ค แลนด์ ซอยพุทธบูชา 39,"Hours: Peak<br>Power: 110 kW<br>Description: CCS2: 2x 110 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางมด, ทุ่งครุ, กรุงเทพมหานคร<br>Latitude: 13.650414<br>Longitude: 100.481941<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,110 kW,"CCS2: 2x 110 kW, 200A
+Type2: CLOSED
+Parking","บางมด, ทุ่งครุ, กรุงเทพมหานคร",13.650414,100.481941,EA,"
+            100.481941,13.650414,0
+          "
+7-11 รัตนาธิเบศร์ 22,"Hours: Closed<br>Power: 135 kW<br>Description: CCS2: 135 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางเขน, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.863901<br>Longitude: 100.504815<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,135 kW,"CCS2: 135 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","บางเขน, เมืองนนทบุรี, นนทบุรี",13.863901,100.504815,EA,"
+            100.504815,13.863901,0
+          "
+โรงพยาบาล วิภาวดี (ถ.งามวงศ์วาน) ST.1,"Hours: Closed<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: ลาดยาว, จตุจักร, กรุงเทพมหานคร<br>Latitude: 13.846654<br>Longitude: 100.562556<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","ลาดยาว, จตุจักร, กรุงเทพมหานคร",13.846654,100.562556,EA,"
+            100.562556,13.846654,0
+          "
+Caltex งามวงศ์วาน,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ทุ่งสองห้อง, หลักสี่, กรุงเทพมหานคร<br>Latitude: 13.854357<br>Longitude: 100.549927<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 117 kW, 200A
+Type2: CLOSED
+Parking","ทุ่งสองห้อง, หลักสี่, กรุงเทพมหานคร",13.854357,100.549927,EA,"
+            100.549927,13.854357,0
+          "
+44 การ์เด้นท์เพลส,"Hours: 24 Hr<br>Power: 22 kW<br>Description: CCS2: CLOSED<br>Type2: 2x 22 kW<br>Parking<br>Address: ทุ่งครุ, ทุ่งครุ, กรุงเทพมหานคร<br>Latitude: 13.64823<br>Longitude: 100.487915<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,22 kW,"CCS2: CLOSED
+Type2: 2x 22 kW
+Parking","ทุ่งครุ, ทุ่งครุ, กรุงเทพมหานคร",13.64823,100.487915,EA,"
+            100.487915,13.64823,0
+          "
+E-BUS ตลิ่งชัน (สเตชั่น 1),"Hours: 24 Hr<br>Power: 360 kW<br>Description: CCS2: 7x 360 kW, 200A<br>Parking<br>Address: ศาลาธรรมสพน์, ทวีวัฒนา, กรุงเทพมหานคร<br>Latitude: 13.781252<br>Longitude: 100.392034<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,360 kW,"CCS2: 7x 360 kW, 200A
+Parking","ศาลาธรรมสพน์, ทวีวัฒนา, กรุงเทพมหานคร",13.781252,100.392034,EA,"
+            100.392034,13.781252,0
+          "
+อีเฟอรี่ ปู่เจ้าสมิงพราย สเตชั่น 1,"Hours: Closed<br>Power: 150 kW<br>Description: CCS2: 150 kW, 200A, CLOSED<br>park<br>Address: บางหญ้าแพรก, พระประแดง, สมุทรปราการ<br>Latitude: 13.656207<br>Longitude: 100.54799<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,150 kW,"CCS2: 150 kW, 200A, CLOSED
+park","บางหญ้าแพรก, พระประแดง, สมุทรปราการ",13.656207,100.54799,EA,"
+            100.54799,13.656207,0
+          "
+E-BUS ตลิ่งชัน (สเตชั่น2),"Hours: 24 Hr<br>Power: 360 kW<br>Description: CCS2: 6x 360 kW, 200A<br>Parking<br>Address: ศาลาธรรมสพน์, ทวีวัฒนา, กรุงเทพมหานคร<br>Latitude: 13.781313<br>Longitude: 100.391617<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,360 kW,"CCS2: 6x 360 kW, 200A
+Parking","ศาลาธรรมสพน์, ทวีวัฒนา, กรุงเทพมหานคร",13.781313,100.391617,EA,"
+            100.391617,13.781313,0
+          "
+เดอะ เอ็กซ์เพลส มอลล์ (ถ.กาญจนาภิเษก),"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางแค, บางแค, กรุงเทพมหานคร<br>Latitude: 13.694502<br>Longitude: 100.408105<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 118 kW, 200A
+Type2: CLOSED
+Parking","บางแค, บางแค, กรุงเทพมหานคร",13.694502,100.408105,EA,"
+            100.408105,13.694502,0
+          "
+อี-บัส ปู่เจ้าสมิงพราย,"Hours: Closed<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>parking<br>Address: บางหญ้าแพรก, พระประแดง, สมุทรปราการ<br>Latitude: 13.655539<br>Longitude: 100.548271<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,0 kW,"CCS2: CLOSED
+parking","บางหญ้าแพรก, พระประแดง, สมุทรปราการ",13.655539,100.548271,EA,"
+            100.548271,13.655539,0
+          "
+เดอะฟิล (สุขุมวิท 54),"Hours: Peak<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 110 kW, 200A<br>parking <br>Address: บางจาก, พระโขนง, กรุงเทพมหานคร<br>Latitude: 13.701863<br>Longitude: 100.600705<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,110 kW,"Type2: 22 kW
+CCS2: 110 kW, 200A
+parking ","บางจาก, พระโขนง, กรุงเทพมหานคร",13.701863,100.600705,EA,"
+            100.600705,13.701863,0
+          "
+มาย์ วิลล่า บางใหญ่,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางม่วง, บางใหญ่, นนทบุรี<br>Latitude: 13.831652<br>Longitude: 100.413726<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 117 kW, 200A
+Type2: CLOSED
+Parking","บางม่วง, บางใหญ่, นนทบุรี",13.831652,100.413726,EA,"
+            100.413726,13.831652,0
+          "
+เลิศราชพฤกษ์ (สาขา ซอย บางเลน 10/4),"Hours: Closed<br>Power: 75 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: 75 kW, CLOSED<br>Parking<br>Address: บางเลน, บางใหญ่, นนทบุรี<br>Latitude: 13.852365<br>Longitude: 100.437749<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,75 kW,"Type2: 22 kW, CLOSED
+CCS2: 75 kW, CLOSED
+Parking","บางเลน, บางใหญ่, นนทบุรี",13.852365,100.437749,EA,"
+            100.437749,13.852365,0
+          "
+E-BUS พุทธบูชา,"Hours: 24 Hr<br>Power: 360 kW<br>Description: CCS2: 2x 360 kW, 200A<br>Parking<br>Address: บางมด, ทุ่งครุ, กรุงเทพมหานคร<br>Latitude: 13.643701<br>Longitude: 100.479139<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,360 kW,"CCS2: 2x 360 kW, 200A
+Parking","บางมด, ทุ่งครุ, กรุงเทพมหานคร",13.643701,100.479139,EA,"
+            100.479139,13.643701,0
+          "
+7-11 พุทธบูชา36,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางมด, ทุ่งครุ, กรุงเทพมหานคร<br>Latitude: 13.642927<br>Longitude: 100.479214<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","บางมด, ทุ่งครุ, กรุงเทพมหานคร",13.642927,100.479214,EA,"
+            100.479214,13.642927,0
+          "
+7-11 งามวงศ์วาน 23 แยก18,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ท่าทราย, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.867708<br>Longitude: 100.535624<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 117 kW, 200A
+Type2: CLOSED
+Parking","ท่าทราย, เมืองนนทบุรี, นนทบุรี",13.867708,100.535624,EA,"
+            100.535624,13.867708,0
+          "
+ร้านอาหาร นิตยาไก่ย่าง ถ.ประชาชื่น,"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 110 kW, 200A<br>PARKING <br>Address: บางเขน, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.864403<br>Longitude: 100.546585<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 22 kW
+CCS2: 2x 110 kW, 200A
+PARKING ","บางเขน, เมืองนนทบุรี, นนทบุรี",13.864403,100.546585,EA,"
+            100.546585,13.864403,0
+          "
+ภัตตาคารแวร์ซาย พาเพส นนทบุรี,"Hours: Off-peak<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางกระสอ, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.87115<br>Longitude: 100.481051<br>Provider: EA",#icon-1899-DB4436-labelson,Off-peak,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","บางกระสอ, เมืองนนทบุรี, นนทบุรี",13.87115,100.481051,EA,"
+            100.481051,13.87115,0
+          "
+อีเฟอรี่ ไทรม้า (สเตชั่น 1),"Hours: 24 Hr<br>Power: 630 kW<br>Description: CCS2: 5x 631 kW, 200A<br>Parking<br>Address: ไทรม้า, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.869975<br>Longitude: 100.474859<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,630 kW,"CCS2: 5x 631 kW, 200A
+Parking","ไทรม้า, เมืองนนทบุรี, นนทบุรี",13.869975,100.474859,EA,"
+            100.474859,13.869975,0
+          "
+E-Ferry ไทรม้า (สเตชั่น 2),"Hours: Closed<br>Power: 150 kW<br>Description: CCS2: 150 kW, 200A, CLOSED<br>Parking<br>Address: ไทรม้า, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.870039<br>Longitude: 100.474978<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,150 kW,"CCS2: 150 kW, 200A, CLOSED
+Parking","ไทรม้า, เมืองนนทบุรี, นนทบุรี",13.870039,100.474978,EA,"
+            100.474978,13.870039,0
+          "
+E-BUS เลี่ยงเมืองนนทบุรี (Station 2),"Hours: 24 Hr<br>Power: 300 kW<br>Description: CCS2: 6x 300 kW, 200A<br>Parking<br>Address: บางกระสอ, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.873231<br>Longitude: 100.493562<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,300 kW,"CCS2: 6x 300 kW, 200A
+Parking","บางกระสอ, เมืองนนทบุรี, นนทบุรี",13.873231,100.493562,EA,"
+            100.493562,13.873231,0
+          "
+ซัสโก้ สาขาปากท่อ กม.6,"Hours: Off-peak<br>Power: 75 kW<br>Description: CCS2: 75 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: แสมดำ, บางขุนเทียน, กรุงเทพมหานคร<br>Latitude: 13.659461<br>Longitude: 100.433719<br>Provider: EA",#icon-1899-DB4436-labelson,Off-peak,75 kW,"CCS2: 75 kW, CLOSED
+Type2: CLOSED
+Parking","แสมดำ, บางขุนเทียน, กรุงเทพมหานคร",13.659461,100.433719,EA,"
+            100.433719,13.659461,0
+          "
+E-BUS เลี่ยงเมืองนนทบุรี (Station 1),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 3x 150 kW, 200A<br>Parking<br>Address: บางกระสอ, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.873424<br>Longitude: 100.493707<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 3x 150 kW, 200A
+Parking","บางกระสอ, เมืองนนทบุรี, นนทบุรี",13.873424,100.493707,EA,"
+            100.493707,13.873424,0
+          "
+ออมนิ บิสซิเนส มอลล์ (ลาดพร้าว116),"Hours: 24 Hr<br>Power: 110 kW<br>Description: CCS2: 2x 110 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: วังทองหลาง, วังทองหลาง, กรุงเทพมหานคร<br>Latitude: 13.779194<br>Longitude: 100.620841<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"CCS2: 2x 110 kW, 200A
+Type2: CLOSED
+Parking","วังทองหลาง, วังทองหลาง, กรุงเทพมหานคร",13.779194,100.620841,EA,"
+            100.620841,13.779194,0
+          "
+ตลาดต้นสัก,"Hours: Peak<br>Power: 30 kW<br>Description: CCS2: 30 kW<br>Type2: 22 kW<br>Parking<br>Address: บางกระสอ, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.872538<br>Longitude: 100.481446<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,30 kW,"CCS2: 30 kW
+Type2: 22 kW
+Parking","บางกระสอ, เมืองนนทบุรี, นนทบุรี",13.872538,100.481446,EA,"
+            100.481446,13.872538,0
+          "
+พงษ์ตระกูล เพอเฟ็ค แลนด์ ซอยพุทธบูชา36,"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 110 kW, 200A<br>Parking<br>Address: บางมด, ทุ่งครุ, กรุงเทพมหานคร<br>Latitude: 13.640591<br>Longitude: 100.478148<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 22 kW
+CCS2: 2x 110 kW, 200A
+Parking","บางมด, ทุ่งครุ, กรุงเทพมหานคร",13.640591,100.478148,EA,"
+            100.478148,13.640591,0
+          "
+7-11 ทานสัมฤทธิ์,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ท่าทราย, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.871941<br>Longitude: 100.52849<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","ท่าทราย, เมืองนนทบุรี, นนทบุรี",13.871941,100.52849,EA,"
+            100.52849,13.871941,0
+          "
+A.C.T สาขา Cockpit ลาดพร้าวซอย 122,"Hours: Closed<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: วังทองหลาง, วังทองหลาง, กรุงเทพมหานคร<br>Latitude: 13.777934<br>Longitude: 100.623521<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","วังทองหลาง, วังทองหลาง, กรุงเทพมหานคร",13.777934,100.623521,EA,"
+            100.623521,13.777934,0
+          "
+7-11 ท่าข้าม 11,"Hours: 24 Hr<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: แสมดำ, บางขุนเทียน, กรุงเทพมหานคร<br>Latitude: 13.64693<br>Longitude: 100.444103<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","แสมดำ, บางขุนเทียน, กรุงเทพมหานคร",13.64693,100.444103,EA,"
+            100.444103,13.64693,0
+          "
+7-11 พัฒนาการ 38 กลางซอย,"Hours: 24 Hr<br>Power: 110 kW<br>Description: CCS2: 2x 110 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: สวนหลวง, สวนหลวง, กรุงเทพมหานคร<br>Latitude: 13.731558<br>Longitude: 100.626596<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"CCS2: 2x 110 kW, 200A
+Type2: CLOSED
+Parking","สวนหลวง, สวนหลวง, กรุงเทพมหานคร",13.731558,100.626596,EA,"
+            100.626596,13.731558,0
+          "
+ซัสโก้ สาขาเอกชัย,"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 110 kW, 200A, CLOSED<br>-<br>Address: บางบอน, บางบอน, กรุงเทพมหานคร<br>Latitude: 13.66693<br>Longitude: 100.41336<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 22 kW
+CCS2: 110 kW, 200A, CLOSED
+-","บางบอน, บางบอน, กรุงเทพมหานคร",13.66693,100.41336,EA,"
+            100.41336,13.66693,0
+          "
+สนามบินน้ำมาร์เก็ตพาร์ต,"Hours: 24 Hr<br>Power: 90 kW<br>Description: Type2: 2x 5 kW<br>CCS2: 2x 90 kW, 200A<br>Parking<br>Address: ท่าทราย, เมืองนนทบุรี, นนทบุรี<br>Latitude: 13.881065<br>Longitude: 100.496691<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,90 kW,"Type2: 2x 5 kW
+CCS2: 2x 90 kW, 200A
+Parking","ท่าทราย, เมืองนนทบุรี, นนทบุรี",13.881065,100.496691,EA,"
+            100.496691,13.881065,0
+          "
+MG เซอร์วิส เซ็นเตอร์ อ่อนนุช,"Hours: Off-peak<br>Power: 30 kW<br>Description: CCS2: 30 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: สวนหลวง, สวนหลวง, กรุงเทพมหานคร<br>Latitude: 13.708782<br>Longitude: 100.620698<br>Provider: EA",#icon-1899-DB4436-labelson,Off-peak,30 kW,"CCS2: 30 kW, CLOSED
+Type2: CLOSED
+Parking","สวนหลวง, สวนหลวง, กรุงเทพมหานคร",13.708782,100.620698,EA,"
+            100.620698,13.708782,0
+          "
+A.C.T สาขาบางบอน,"Hours: Peak<br>Power: 90 kW<br>Description: Type1: 22 kW, CLOSED<br>Type2: 5 kW, CLOSED<br>CCS2: 90 kW, 200A<br> Bridgestone A.C.T (Thailand) Co.,Ltd. Bangbon Branch<br>Address: บางบอน, บางบอน, กรุงเทพมหานคร<br>Latitude: 13.670545<br>Longitude: 100.406773<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,90 kW,"Type1: 22 kW, CLOSED
+Type2: 5 kW, CLOSED
+CCS2: 90 kW, 200A
+ Bridgestone A.C.T (Thailand) Co.,Ltd. Bangbon Branch","บางบอน, บางบอน, กรุงเทพมหานคร",13.670545,100.406773,EA,"
+            100.406773,13.670545,0
+          "
+โรงแรม วาบัวร์ แอสโซเทล ( ลาดพร้าว 130 ),"Hours: 24 Hr<br>Power: 58 kW<br>Description: CCS2: 58 kW<br>Type2: CLOSED<br>Parking<br>Address: คลองจั่น, บางกะปิ, กรุงเทพมหานคร<br>Latitude: 13.769092<br>Longitude: 100.631701<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,58 kW,"CCS2: 58 kW
+Type2: CLOSED
+Parking","คลองจั่น, บางกะปิ, กรุงเทพมหานคร",13.769092,100.631701,EA,"
+            100.631701,13.769092,0
+          "
+เดอะคริสตัล เอกมัย-รามอินทรา,"Hours: Peak<br>Power: 22 kW<br>Description: CCS2: CLOSED<br>Type2: 2x 22 kW<br>Parking<br>Address: ลาดพร้าว, ลาดพร้าว, กรุงเทพมหานคร<br>Latitude: 13.811493<br>Longitude: 100.619834<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,22 kW,"CCS2: CLOSED
+Type2: 2x 22 kW
+Parking","ลาดพร้าว, ลาดพร้าว, กรุงเทพมหานคร",13.811493,100.619834,EA,"
+            100.619834,13.811493,0
+          "
+One One Food Avenue (ถนนซอยสามัคคี),"Hours: Peak<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 110 kW, 200A<br>Parking<br>Address: บางตลาด, ปากเกร็ด, นนทบุรี<br>Latitude: 13.877647<br>Longitude: 100.549786<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,110 kW,"Type2: 22 kW
+CCS2: 110 kW, 200A
+Parking","บางตลาด, ปากเกร็ด, นนทบุรี",13.877647,100.549786,EA,"
+            100.549786,13.877647,0
+          "
+ซัสโก้ สาขา ประชาอุทิศ 1,"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 110 kW, 200A<br>PARKING<br>Address: ทุ่งครุ, ทุ่งครุ, กรุงเทพมหานคร<br>Latitude: 13.624978<br>Longitude: 100.50809<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 22 kW
+CCS2: 2x 110 kW, 200A
+PARKING","ทุ่งครุ, ทุ่งครุ, กรุงเทพมหานคร",13.624978,100.50809,EA,"
+            100.50809,13.624978,0
+          "
+บริษัท Eastern Group (ซอยโยธินพัฒนา 3 แยก2),"Hours: Peak<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 110 kW, 200A<br>Parking<br>Address: คลองจั่น, บางกะปิ, กรุงเทพมหานคร<br>Latitude: 13.810944<br>Longitude: 100.625551<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,110 kW,"Type2: 22 kW
+CCS2: 2x 110 kW, 200A
+Parking","คลองจั่น, บางกะปิ, กรุงเทพมหานคร",13.810944,100.625551,EA,"
+            100.625551,13.810944,0
+          "
+E-BUS เคหะธนบุรี (Station1),"Hours: 24 Hr<br>Power: 360 kW<br>Description: CCS2: 6x 360 kW, 200A<br>Parking<br>Address: แสมดำ, บางขุนเทียน, กรุงเทพมหานคร<br>Latitude: 13.650271<br>Longitude: 100.418982<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,360 kW,"CCS2: 6x 360 kW, 200A
+Parking","แสมดำ, บางขุนเทียน, กรุงเทพมหานคร",13.650271,100.418982,EA,"
+            100.418982,13.650271,0
+          "
+ซัสโก้ สาขาบางใหญ่,"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 110 kW, 200A<br>Parking<br>Address: บางแม่นาง, บางใหญ่, นนทบุรี<br>Latitude: 13.857596<br>Longitude: 100.412083<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 22 kW
+CCS2: 2x 110 kW, 200A
+Parking","บางแม่นาง, บางใหญ่, นนทบุรี",13.857596,100.412083,EA,"
+            100.412083,13.857596,0
+          "
+ตลาด สุขรุ่งเรือง มาร์เก็ต,"Hours: 24 Hr<br>Power: 75 kW<br>Description: Type2: 22 kW<br>CCS2: 75 kW, CLOSED<br>parking<br>Address: ทุ่งครุ, ทุ่งครุ, กรุงเทพมหานคร<br>Latitude: 13.621166<br>Longitude: 100.488735<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"Type2: 22 kW
+CCS2: 75 kW, CLOSED
+parking","ทุ่งครุ, ทุ่งครุ, กรุงเทพมหานคร",13.621166,100.488735,EA,"
+            100.488735,13.621166,0
+          "
+Caltex ศรีนครินทร์,"Hours: Closed<br>Power: 117 kW<br>Description: CCS2: 117 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: สวนหลวง, สวนหลวง, กรุงเทพมหานคร<br>Latitude: 13.73136<br>Longitude: 100.641021<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,117 kW,"CCS2: 117 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","สวนหลวง, สวนหลวง, กรุงเทพมหานคร",13.73136,100.641021,EA,"
+            100.641021,13.73136,0
+          "
+E-BUS NEX Express Bitec Bangna,"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 2x 150 kW, 200A<br>Parking<br>Address: บางนา, บางนา, กรุงเทพมหานคร<br>Latitude: 13.671002<br>Longitude: 100.613466<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 2x 150 kW, 200A
+Parking","บางนา, บางนา, กรุงเทพมหานคร",13.671002,100.613466,EA,"
+            100.613466,13.671002,0
+          "
+MG วีมิโอ (สาขา สวนหลวง),"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: สวนหลวง, สวนหลวง, กรุงเทพมหานคร<br>Latitude: 13.727505<br>Longitude: 100.641852<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","สวนหลวง, สวนหลวง, กรุงเทพมหานคร",13.727505,100.641852,EA,"
+            100.641852,13.727505,0
+          "
+MG กรุงไทย (กม.1),"Hours: Closed<br>Power: 75 kW<br>Description: CCS2: 75 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางนา, บางนา, กรุงเทพมหานคร<br>Latitude: 13.671104<br>Longitude: 100.615361<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,75 kW,"CCS2: 75 kW, CLOSED
+Type2: CLOSED
+Parking","บางนา, บางนา, กรุงเทพมหานคร",13.671104,100.615361,EA,"
+            100.615361,13.671104,0
+          "
+คาลเท็ลซ์ บางใหญ่,"Hours: Closed<br>Power: 117 kW<br>Description: CCS2: 118 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: เสาธงหิน, บางใหญ่, นนทบุรี<br>Latitude: 13.867307<br>Longitude: 100.410152<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,117 kW,"CCS2: 118 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","เสาธงหิน, บางใหญ่, นนทบุรี",13.867307,100.410152,EA,"
+            100.410152,13.867307,0
+          "
+เกตุวานิช อุตสาหกรรม,"Hours: Peak<br>Power: 90 kW<br>Description: Type2: 22 kW<br>Type1: 22 kW<br>CCS2: 2x 90 kW, 200A<br>Parking<br>Address: แสมดำ, บางขุนเทียน, กรุงเทพมหานคร<br>Latitude: 13.632981<br>Longitude: 100.427775<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,90 kW,"Type2: 22 kW
+Type1: 22 kW
+CCS2: 2x 90 kW, 200A
+Parking","แสมดำ, บางขุนเทียน, กรุงเทพมหานคร",13.632981,100.427775,EA,"
+            100.427775,13.632981,0
+          "
+7-11 ลาซาล ซ.16,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางนา, บางนา, กรุงเทพมหานคร<br>Latitude: 13.65849<br>Longitude: 100.6098<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 118 kW, 200A
+Type2: CLOSED
+Parking","บางนา, บางนา, กรุงเทพมหานคร",13.65849,100.6098,EA,"
+            100.6098,13.65849,0
+          "
+E-BUS แสมดำ (Station1),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 3x 150 kW, 200A<br>Parking<br>Address: แสมดำ, บางขุนเทียน, กรุงเทพมหานคร<br>Latitude: 13.625515<br>Longitude: 100.43807<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 3x 150 kW, 200A
+Parking","แสมดำ, บางขุนเทียน, กรุงเทพมหานคร",13.625515,100.43807,EA,"
+            100.43807,13.625515,0
+          "
+E-BUS แสมดำ (Station2),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 7x 150 kW, 200A<br>Parking<br>Address: แสมดำ, บางขุนเทียน, กรุงเทพมหานคร<br>Latitude: 13.625094<br>Longitude: 100.437744<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 7x 150 kW, 200A
+Parking","แสมดำ, บางขุนเทียน, กรุงเทพมหานคร",13.625094,100.437744,EA,"
+            100.437744,13.625094,0
+          "
+โชว์รูม อัศวยนต์ สาขานวมินทร์,"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type1: 22 kW<br>CCS2: 110 kW, 200A, CLOSED<br>Type2: CLOSED<br>parking <br>Address: คลองกุ่ม, บึงกุ่ม, กรุงเทพมหานคร<br>Latitude: 13.818259<br>Longitude: 100.637113<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type1: 22 kW
+CCS2: 110 kW, 200A, CLOSED
+Type2: CLOSED
+parking ","คลองกุ่ม, บึงกุ่ม, กรุงเทพมหานคร",13.818259,100.637113,EA,"
+            100.637113,13.818259,0
+          "
+แฮปปี้ฮับ สปอร์ต แอนด์ รีครีเอชั่น (ถนนสุคนธสวัสดิ์),"Hours: 24 Hr<br>Power: 58 kW<br>Description: CCS2: 59 kW<br>Type2: CLOSED<br>Parkong<br>Address: ลาดพร้าว, ลาดพร้าว, กรุงเทพมหานคร<br>Latitude: 13.835864<br>Longitude: 100.628302<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,58 kW,"CCS2: 59 kW
+Type2: CLOSED
+Parkong","ลาดพร้าว, ลาดพร้าว, กรุงเทพมหานคร",13.835864,100.628302,EA,"
+            100.628302,13.835864,0
+          "
+กองมณฑลทหารบกที่ 11,"Hours: 24 Hr<br>Power: 135 kW<br>Description: CCS2: 135 kW, 200A, CLOSED<br>Parking<br>Address: ทุ่งสองห้อง, หลักสี่, กรุงเทพมหานคร<br>Latitude: 13.893123<br>Longitude: 100.556832<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,135 kW,"CCS2: 135 kW, 200A, CLOSED
+Parking","ทุ่งสองห้อง, หลักสี่, กรุงเทพมหานคร",13.893123,100.556832,EA,"
+            100.556832,13.893123,0
+          "
+7-11 ประดิษฐ์มนูธรรม 27,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ลาดพร้าว, ลาดพร้าว, กรุงเทพมหานคร<br>Latitude: 13.833919<br>Longitude: 100.630648<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 118 kW, 200A
+Type2: CLOSED
+Parking","ลาดพร้าว, ลาดพร้าว, กรุงเทพมหานคร",13.833919,100.630648,EA,"
+            100.630648,13.833919,0
+          "
+A.C.T สาขาแจ้งวัฒนะ,"Hours: Peak<br>Power: 90 kW<br>Description: Type1: <br>Type2: 11 kW<br>CCS2: 2x 90 kW, 200A<br>Bridgestone ACT changwattana<br>Address: ปากเกร็ด, ปากเกร็ด, นนทบุรี<br>Latitude: 13.897306<br>Longitude: 100.548114<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,90 kW,"Type1: 
+Type2: 11 kW
+CCS2: 2x 90 kW, 200A
+Bridgestone ACT changwattana","ปากเกร็ด, ปากเกร็ด, นนทบุรี",13.897306,100.548114,EA,"
+            100.548114,13.897306,0
+          "
+สถานบันบัณฑิตพัฒนบริหารศาสตร์ (ม.นิด้า),"Hours: Peak<br>Power: 90 kW<br>Description: Type2: 2x 22 kW<br>CCS2: 90 kW, 200A<br>Parking<br>Address: คลองจั่น, บางกะปิ, กรุงเทพมหานคร<br>Latitude: 13.770734<br>Longitude: 100.65396<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,90 kW,"Type2: 2x 22 kW
+CCS2: 90 kW, 200A
+Parking","คลองจั่น, บางกะปิ, กรุงเทพมหานคร",13.770734,100.65396,EA,"
+            100.65396,13.770734,0
+          "
+7-11 ชุมชนศักดิ์มงคลชัย,"Hours: Closed<br>Power: 117 kW<br>Description: CCS2: 117 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: แสมดำ, บางขุนเทียน, กรุงเทพมหานคร<br>Latitude: 13.634549<br>Longitude: 100.414358<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,117 kW,"CCS2: 117 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","แสมดำ, บางขุนเทียน, กรุงเทพมหานคร",13.634549,100.414358,EA,"
+            100.414358,13.634549,0
+          "
+SCB สาขาถนนนวมินทร์,"Hours: 24 Hr<br>Power: 117 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 118 kW, 200A<br>Parking scb<br>Address: คลองกุ่ม, บึงกุ่ม, กรุงเทพมหานคร<br>Latitude: 13.804935<br>Longitude: 100.647431<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"Type2: 22 kW
+CCS2: 2x 118 kW, 200A
+Parking scb","คลองกุ่ม, บึงกุ่ม, กรุงเทพมหานคร",13.804935,100.647431,EA,"
+            100.647431,13.804935,0
+          "
+เบสท์ เอ็นเนอร์ยี่ พลัส สาขา 22 (บางนาขาเข้า),"Hours: Closed<br>Power: 110 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: 110 kW, 200A, CLOSED<br>Parking<br>Address: บางนา, บางนา, กรุงเทพมหานคร<br>Latitude: 13.668863<br>Longitude: 100.626748<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,110 kW,"Type2: 22 kW, CLOSED
+CCS2: 110 kW, 200A, CLOSED
+Parking","บางนา, บางนา, กรุงเทพมหานคร",13.668863,100.626748,EA,"
+            100.626748,13.668863,0
+          "
+บิ๊กซี มัยลาภ,"Hours: 24 Hr<br>Power: 40 kW<br>Description: CCS2: 2x 40 kW<br>Parking<br>Address: ท่าแร้ง, บางเขน, กรุงเทพมหานคร<br>Latitude: 13.848906<br>Longitude: 100.624068<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,40 kW,"CCS2: 2x 40 kW
+Parking","ท่าแร้ง, บางเขน, กรุงเทพมหานคร",13.848906,100.624068,EA,"
+            100.624068,13.848906,0
+          "
+A.C.T สาขาแจ้งวัฒนะ 17,"Hours: Peak<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 110 kW, 200A<br>Parking Bridgestone A.C.T (Thailand) Co.,Ltd. <br>Address: ปากเกร็ด, ปากเกร็ด, นนทบุรี<br>Latitude: 13.905722<br>Longitude: 100.525119<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,110 kW,"Type2: 22 kW
+CCS2: 2x 110 kW, 200A
+Parking Bridgestone A.C.T (Thailand) Co.,Ltd. ","ปากเกร็ด, ปากเกร็ด, นนทบุรี",13.905722,100.525119,EA,"
+            100.525119,13.905722,0
+          "
+อาคารหลักสี่พลาซ่า (ไอที หลักสี่),"Hours: 24 Hr<br>Power: 51 kW<br>Description: CCS2: 51 kW<br>Type2: CLOSED<br>Parking<br>Address: ตลาดบางเขน, หลักสี่, กรุงเทพมหานคร<br>Latitude: 13.886412<br>Longitude: 100.581202<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,51 kW,"CCS2: 51 kW
+Type2: CLOSED
+Parking","ตลาดบางเขน, หลักสี่, กรุงเทพมหานคร",13.886412,100.581202,EA,"
+            100.581202,13.886412,0
+          "
+A.C.T นวลจันทร์,"Hours: Closed<br>Power: 90 kW<br>Description: CCS2: 90 kW, 200A, CLOSED<br>Type2: CLOSED<br>Bridgestone A.C.T (Thailand) Co.,Ltd. Nuanchan Branch<br>Address: สะพานสูง, บึงกุ่ม, กรุงเทพมหานคร<br>Latitude: 13.819406<br>Longitude: 100.643317<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,90 kW,"CCS2: 90 kW, 200A, CLOSED
+Type2: CLOSED
+Bridgestone A.C.T (Thailand) Co.,Ltd. Nuanchan Branch","สะพานสูง, บึงกุ่ม, กรุงเทพมหานคร",13.819406,100.643317,EA,"
+            100.643317,13.819406,0
+          "
+คาร์ลอฟท์ ออโต้ อิมพอร์ต,"Hours: 24 Hr<br>Power: 75 kW<br>Description: CCS2: 75 kW<br>Type2: CLOSED<br>Parking<br>Address: หนองบอน, ประเวศ, กรุงเทพมหานคร<br>Latitude: 13.699445<br>Longitude: 100.647085<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"CCS2: 75 kW
+Type2: CLOSED
+Parking","หนองบอน, ประเวศ, กรุงเทพมหานคร",13.699445,100.647085,EA,"
+            100.647085,13.699445,0
+          "
+The Park กรุงเทพกรีฑา,"Hours: Peak<br>Power: 75 kW<br>Description: Type2: 3x 22 kW<br>CCS2: 2x 75 kW<br>parking<br>Address: หัวหมาก, บางกะปิ, กรุงเทพมหานคร<br>Latitude: 13.747003<br>Longitude: 100.660641<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"Type2: 3x 22 kW
+CCS2: 2x 75 kW
+parking","หัวหมาก, บางกะปิ, กรุงเทพมหานคร",13.747003,100.660641,EA,"
+            100.660641,13.747003,0
+          "
+ซีคอนสแควร์ (ศรีนครินทร์),"Hours: Peak<br>Power: 58 kW<br>Description: Type2: 22 kW<br>CCS2: 58 kW<br>Parking<br>Address: หนองบอน, ประเวศ, กรุงเทพมหานคร<br>Latitude: 13.694696<br>Longitude: 100.647763<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,58 kW,"Type2: 22 kW
+CCS2: 58 kW
+Parking","หนองบอน, ประเวศ, กรุงเทพมหานคร",13.694696,100.647763,EA,"
+            100.647763,13.694696,0
+          "
+เบสท์ เอ็นเนอร์ยี่ พลัส สาขา 19 (รามอินทรา กม.3),"Hours: 24 Hr<br>Power: 150 kW<br>Description: Type2: 22 kW<br>CCS2: 150 kW, 200A, CLOSED<br>Parking<br>Address: อนุสาวรีย์, บางเขน, กรุงเทพมหานคร<br>Latitude: 13.862064<br>Longitude: 100.619509<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"Type2: 22 kW
+CCS2: 150 kW, 200A, CLOSED
+Parking","อนุสาวรีย์, บางเขน, กรุงเทพมหานคร",13.862064,100.619509,EA,"
+            100.619509,13.862064,0
+          "
+บริสโซ่ บางนา,"Hours: 24 Hr<br>Power: 58 kW<br>Description: CCS2: 58 kW<br>Type2: CLOSED<br>Parking<br>Address: บางนา, บางนา, กรุงเทพมหานคร<br>Latitude: 13.670984<br>Longitude: 100.636102<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,58 kW,"CCS2: 58 kW
+Type2: CLOSED
+Parking","บางนา, บางนา, กรุงเทพมหานคร",13.670984,100.636102,EA,"
+            100.636102,13.670984,0
+          "
+ซัสโก้ สาขาติวานนท์,"Hours: Closed<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: ปากเกร็ด, ปากเกร็ด, นนทบุรี<br>Latitude: 13.91258<br>Longitude: 100.50906<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","ปากเกร็ด, ปากเกร็ด, นนทบุรี",13.91258,100.50906,EA,"
+            100.50906,13.91258,0
+          "
+7-11 พระปิ่น 5 (ซอยรางโพธิ์),"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางบอน, บางบอน, กรุงเทพมหานคร<br>Latitude: 13.639777<br>Longitude: 100.391165<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 117 kW, 200A
+Type2: CLOSED
+Parking","บางบอน, บางบอน, กรุงเทพมหานคร",13.639777,100.391165,EA,"
+            100.391165,13.639777,0
+          "
+ศูนย์การค้า EASE PARK รามอินทรา,"Hours: 24 Hr<br>Power: 90 kW<br>Description: Type2: 22 kW<br>Type1: 5 kW<br>CCS2: 90 kW, 200A<br>Parking<br>Address: ท่าแร้ง, บางเขน, กรุงเทพมหานคร<br>Latitude: 13.856239<br>Longitude: 100.62934<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,90 kW,"Type2: 22 kW
+Type1: 5 kW
+CCS2: 90 kW, 200A
+Parking","ท่าแร้ง, บางเขน, กรุงเทพมหานคร",13.856239,100.62934,EA,"
+            100.62934,13.856239,0
+          "
+ศิลา ฟิวเจอร์ จำกัด,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ท่าแร้ง, บางเขน, กรุงเทพมหานคร<br>Latitude: 13.847606<br>Longitude: 100.637679<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","ท่าแร้ง, บางเขน, กรุงเทพมหานคร",13.847606,100.637679,EA,"
+            100.637679,13.847606,0
+          "
+Kins ทำเบาะรถยนต์ เทพารักษ์,"Hours: Off-peak<br>Power: 75 kW<br>Description: CCS2: 75 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: เทพารักษ์, เมืองสมุทรปราการ, สมุทรปราการ<br>Latitude: 13.63614<br>Longitude: 100.611272<br>Provider: EA",#icon-1899-DB4436-labelson,Off-peak,75 kW,"CCS2: 75 kW, CLOSED
+Type2: CLOSED
+Parking","เทพารักษ์, เมืองสมุทรปราการ, สมุทรปราการ",13.63614,100.611272,EA,"
+            100.611272,13.63614,0
+          "
+SCB สาขา รามอินทรา กม. 4.5,"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 5 kW<br>CCS2: 2x 110 kW, 200A<br>PARKING SCB<br>Address: ท่าแร้ง, บางเขน, กรุงเทพมหานคร<br>Latitude: 13.854002<br>Longitude: 100.633457<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 5 kW
+CCS2: 2x 110 kW, 200A
+PARKING SCB","ท่าแร้ง, บางเขน, กรุงเทพมหานคร",13.854002,100.633457,EA,"
+            100.633457,13.854002,0
+          "
+The Paseo Town (สาขารามคำแหง) ST.2,"Hours: Peak<br>Power: 75 kW<br>Description: Type1: 11 kW<br>Type2: 22 kW<br>CCS2: 2x 75 kW<br>Parking Area<br>Address: สะพานสูง, สะพานสูง, กรุงเทพมหานคร<br>Latitude: 13.774233<br>Longitude: 100.666866<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"Type1: 11 kW
+Type2: 22 kW
+CCS2: 2x 75 kW
+Parking Area","สะพานสูง, สะพานสูง, กรุงเทพมหานคร",13.774233,100.666866,EA,"
+            100.666866,13.774233,0
+          "
+ร้านอาหาร Chuan Kitchen (เมืองทองธานี),"Hours: 24 Hr<br>Power: 117 kW<br>Description: Type2: 7 kW, CLOSED<br>CCS2: 118 kW, 200A<br>Parking <br>Address: บ้านใหม่, ปากเกร็ด, นนทบุรี<br>Latitude: 13.915088<br>Longitude: 100.542605<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"Type2: 7 kW, CLOSED
+CCS2: 118 kW, 200A
+Parking ","บ้านใหม่, ปากเกร็ด, นนทบุรี",13.915088,100.542605,EA,"
+            100.542605,13.915088,0
+          "
+ปั๊มน้ำมัน ส. เจริญพร บริการ จำกัด,"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type1: 22 kW<br>CCS2: 110 kW, 200A, CLOSED<br>Type2: CLOSED<br>parkihg<br>Address: อนุสาวรีย์, บางเขน, กรุงเทพมหานคร<br>Latitude: 13.873995<br>Longitude: 100.621308<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type1: 22 kW
+CCS2: 110 kW, 200A, CLOSED
+Type2: CLOSED
+parkihg","อนุสาวรีย์, บางเขน, กรุงเทพมหานคร",13.873995,100.621308,EA,"
+            100.621308,13.873995,0
+          "
+E-BUS ปากน้ำ (Station1),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 5x 150 kW, 200A<br>Parking<br>Address: ปากน้ำ, เมืองสมุทรปราการ, สมุทรปราการ<br>Latitude: 13.615742<br>Longitude: 100.592542<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 5x 150 kW, 200A
+Parking","ปากน้ำ, เมืองสมุทรปราการ, สมุทรปราการ",13.615742,100.592542,EA,"
+            100.592542,13.615742,0
+          "
+E-BUS ปากน้ำ (Station2),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 2x 150 kW, 200A<br>Parking<br>Address: ปากน้ำ, เมืองสมุทรปราการ, สมุทรปราการ<br>Latitude: 13.615826<br>Longitude: 100.592691<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 2x 150 kW, 200A
+Parking","ปากน้ำ, เมืองสมุทรปราการ, สมุทรปราการ",13.615826,100.592691,EA,"
+            100.592691,13.615826,0
+          "
+E-BUS ปากน้ำ (Station3),"Hours: 24 Hr<br>Power: 180 kW<br>Description: CCS2: 5x 180 kW, 200A<br>Parking<br>Address: ปากน้ำ, เมืองสมุทรปราการ, สมุทรปราการ<br>Latitude: 13.615872<br>Longitude: 100.593046<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,180 kW,"CCS2: 5x 180 kW, 200A
+Parking","ปากน้ำ, เมืองสมุทรปราการ, สมุทรปราการ",13.615872,100.593046,EA,"
+            100.593046,13.615872,0
+          "
+ร้านอาหาร chocolate ville ถ.ประเสริฐมนูกิจ,"Hours: 24 Hr<br>Power: 90 kW<br>Description: Type1: 22 kW<br>Type2: 22 kW, CLOSED<br>CCS2: 90 kW, 200A<br>Parking<br>Address: คันนายาว, คันนายาว, กรุงเทพมหานคร<br>Latitude: 13.811056<br>Longitude: 100.663809<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,90 kW,"Type1: 22 kW
+Type2: 22 kW, CLOSED
+CCS2: 90 kW, 200A
+Parking","คันนายาว, คันนายาว, กรุงเทพมหานคร",13.811056,100.663809,EA,"
+            100.663809,13.811056,0
+          "
+ปั๊มน้ำมัน เอ็มทูบีเทรดดิ้ง จำกัด พุทธมณฑล สาย 4,"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 50 kW<br>parking<br>Address: ไร่ขิง, สามพราน, นครปฐม<br>Latitude: 13.757756<br>Longitude: 100.32895<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW
+CCS2: 2x 50 kW
+parking","ไร่ขิง, สามพราน, นครปฐม",13.757756,100.32895,EA,"
+            100.32895,13.757756,0
+          "
+คาลเท็กซ์ ไทรทองรุ่งเรือง บางบอน 5,"Hours: 24 Hr<br>Power: 110 kW<br>Description: CCS2: 2x 110 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางบอน, บางบอน, กรุงเทพมหานคร<br>Latitude: 13.6402<br>Longitude: 100.374563<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"CCS2: 2x 110 kW, 200A
+Type2: CLOSED
+Parking","บางบอน, บางบอน, กรุงเทพมหานคร",13.6402,100.374563,EA,"
+            100.374563,13.6402,0
+          "
+Index Living Mall สาขาบางนา,"Hours: Peak<br>Power: 117 kW<br>Description: Type2: 2x 22 kW<br>CCS2: 2x 118 kW, 200A<br>parking index<br>Address: บางนา, บางนา, กรุงเทพมหานคร<br>Latitude: 13.665111<br>Longitude: 100.650286<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,117 kW,"Type2: 2x 22 kW
+CCS2: 2x 118 kW, 200A
+parking index","บางนา, บางนา, กรุงเทพมหานคร",13.665111,100.650286,EA,"
+            100.650286,13.665111,0
+          "
+7-11 สินบดี จุด 2,"Hours: 24 Hr<br>Power: 58 kW<br>Description: CCS2: 59 kW<br>Type2: CLOSED<br>Parking<br>Address: พิมลราช, บางบัวทอง, นนทบุรี<br>Latitude: 13.915549<br>Longitude: 100.437424<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,58 kW,"CCS2: 59 kW
+Type2: CLOSED
+Parking","พิมลราช, บางบัวทอง, นนทบุรี",13.915549,100.437424,EA,"
+            100.437424,13.915549,0
+          "
+บิ๊กซี ศรีนครินทร์,"Hours: Off-peak<br>Power: 117 kW<br>Description: CCS2: 117 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: สำโรงเหนือ, เมืองสมุทรปราการ, สมุทรปราการ<br>Latitude: 13.649796<br>Longitude: 100.640307<br>Provider: EA",#icon-1899-DB4436-labelson,Off-peak,117 kW,"CCS2: 117 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","สำโรงเหนือ, เมืองสมุทรปราการ, สมุทรปราการ",13.649796,100.640307,EA,"
+            100.640307,13.649796,0
+          "
+เพลินนารี่ มอลล์ วัชรพล,"Hours: Peak<br>Power: 22 kW<br>Description: CCS2: 20 kW<br>Type2: 2x 22 kW<br>Parking<br>Address: ท่าแร้ง, บางเขน, กรุงเทพมหานคร<br>Latitude: 13.858407<br>Longitude: 100.644197<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,22 kW,"CCS2: 20 kW
+Type2: 2x 22 kW
+Parking","ท่าแร้ง, บางเขน, กรุงเทพมหานคร",13.858407,100.644197,EA,"
+            100.644197,13.858407,0
+          "
+E-BUS บึงกุ่ม (สเตชั่น3),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 6x 150 kW, 200A<br>Parking<br>Address: คันนายาว, คันนายาว, กรุงเทพมหานคร<br>Latitude: 13.786546<br>Longitude: 100.67899<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 6x 150 kW, 200A
+Parking","คันนายาว, คันนายาว, กรุงเทพมหานคร",13.786546,100.67899,EA,"
+            100.67899,13.786546,0
+          "
+บริษัท ส.สิณีเซอร์วิส จำกัด,"Hours: 24 Hr<br>Power: 90 kW<br>Description: CCS2: 90 kW, 200A<br>Type2: 2x 22 kW<br>Parking<br>Address: คลองพระอุดม, ปากเกร็ด, นนทบุรี<br>Latitude: 13.930394<br>Longitude: 100.483629<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,90 kW,"CCS2: 90 kW, 200A
+Type2: 2x 22 kW
+Parking","คลองพระอุดม, ปากเกร็ด, นนทบุรี",13.930394,100.483629,EA,"
+            100.483629,13.930394,0
+          "
+E-BUS บึงกุ่ม (สเตชั่น2),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 3x 150 kW, 200A<br>Paring<br>Address: คันนายาว, คันนายาว, กรุงเทพมหานคร<br>Latitude: 13.786554<br>Longitude: 100.67935<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 3x 150 kW, 200A
+Paring","คันนายาว, คันนายาว, กรุงเทพมหานคร",13.786554,100.67935,EA,"
+            100.67935,13.786554,0
+          "
+E-BUS บึงกุ่ม (สเตชั่น1),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 150 kW, 200A<br>Parking<br>Address: คันนายาว, คันนายาว, กรุงเทพมหานคร<br>Latitude: 13.786651<br>Longitude: 100.679558<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 150 kW, 200A
+Parking","คันนายาว, คันนายาว, กรุงเทพมหานคร",13.786651,100.679558,EA,"
+            100.679558,13.786651,0
+          "
+The Steel (บางบอน 5),"Hours: Peak<br>Power: 75 kW<br>Description: Type2: 5 kW<br>CCS2: 75 kW<br>Parking<br>Address: บางบอน, บางบอน, กรุงเทพมหานคร<br>Latitude: 13.636605<br>Longitude: 100.369934<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"Type2: 5 kW
+CCS2: 75 kW
+Parking","บางบอน, บางบอน, กรุงเทพมหานคร",13.636605,100.369934,EA,"
+            100.369934,13.636605,0
+          "
+7-11 กลางซอยศรีด่าน 22,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>pARKING<br>Address: บางแก้ว, บางพลี, สมุทรปราการ<br>Latitude: 13.646208<br>Longitude: 100.643274<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+pARKING","บางแก้ว, บางพลี, สมุทรปราการ",13.646208,100.643274,EA,"
+            100.643274,13.646208,0
+          "
+เบสท์ เอ็นเนอร์ยี่ พลัส สาขา 16 (หนองบอน),"Hours: Closed<br>Power: 110 kW<br>Description: CCS2: 110 kW, 200A, CLOSED<br>Type2: 5 kW, CLOSED<br>Parking<br>Address: หนองบอน, ประเวศ, กรุงเทพมหานคร<br>Latitude: 13.694531<br>Longitude: 100.672389<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,110 kW,"CCS2: 110 kW, 200A, CLOSED
+Type2: 5 kW, CLOSED
+Parking","หนองบอน, ประเวศ, กรุงเทพมหานคร",13.694531,100.672389,EA,"
+            100.672389,13.694531,0
+          "
+ม่วงศิริ (บางบอน5),"Hours: Closed<br>Power: 135 kW<br>Description: CCS2: 135 kW, 200A, CLOSED<br>Type2: 5 kW, CLOSED<br>Parking<br>Address: แสมดำ, บางขุนเทียน, กรุงเทพมหานคร<br>Latitude: 13.636886<br>Longitude: 100.366883<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,135 kW,"CCS2: 135 kW, 200A, CLOSED
+Type2: 5 kW, CLOSED
+Parking","แสมดำ, บางขุนเทียน, กรุงเทพมหานคร",13.636886,100.366883,EA,"
+            100.366883,13.636886,0
+          "
+บิ๊กซี คู้บอน,"Hours: Peak<br>Power: 117 kW<br>Description: CCS2: 2x 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: คันนายาว, คันนายาว, กรุงเทพมหานคร<br>Latitude: 13.841268<br>Longitude: 100.662285<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,117 kW,"CCS2: 2x 117 kW, 200A
+Type2: CLOSED
+Parking","คันนายาว, คันนายาว, กรุงเทพมหานคร",13.841268,100.662285,EA,"
+            100.662285,13.841268,0
+          "
+MG อินเตอร์เนชั่นแนล (NCI),"Hours: Closed<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางรักพัฒนา, บางบัวทอง, นนทบุรี<br>Latitude: 13.907541<br>Longitude: 100.401312<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","บางรักพัฒนา, บางบัวทอง, นนทบุรี",13.907541,100.401312,EA,"
+            100.401312,13.907541,0
+          "
+7-11 ม.เอื้อพัฒนานิเวศน์ (หนามแดง),"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางแก้ว, บางพลี, สมุทรปราการ<br>Latitude: 13.629384<br>Longitude: 100.633024<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 118 kW, 200A
+Type2: CLOSED
+Parking","บางแก้ว, บางพลี, สมุทรปราการ",13.629384,100.633024,EA,"
+            100.633024,13.629384,0
+          "
+LPG เลิศราชพฤกษ์,"Hours: 24 Hr<br>Power: 75 kW<br>Description: Type2: 22 kW<br>CCS2: 75 kW<br>parking LPG ราชพฤกษ์<br>Address: บางพลับ, ปากเกร็ด, นนทบุรี<br>Latitude: 13.928569<br>Longitude: 100.443835<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"Type2: 22 kW
+CCS2: 75 kW
+parking LPG ราชพฤกษ์","บางพลับ, ปากเกร็ด, นนทบุรี",13.928569,100.443835,EA,"
+            100.443835,13.928569,0
+          "
+เรสโกติวานนท์,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บ้านใหม่, ปากเกร็ด, นนทบุรี<br>Latitude: 13.937406<br>Longitude: 100.540006<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","บ้านใหม่, ปากเกร็ด, นนทบุรี",13.937406,100.540006,EA,"
+            100.540006,13.937406,0
+          "
+MG เซควอญ่า สาขารามอินทรา,"Hours: Closed<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: คันนายาว, คันนายาว, กรุงเทพมหานคร<br>Latitude: 13.822656<br>Longitude: 100.679945<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","คันนายาว, คันนายาว, กรุงเทพมหานคร",13.822656,100.679945,EA,"
+            100.679945,13.822656,0
+          "
+SCB สาขา เสรีไทย (สวนสยาม),"Hours: Peak<br>Power: 117 kW<br>Description: Type2: 5 kW<br>CCS2: 2x 118 kW, 200A<br>PARKING  SCB<br>Address: คลองกุ่ม, บึงกุ่ม, กรุงเทพมหานคร<br>Latitude: 13.795896<br>Longitude: 100.691478<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,117 kW,"Type2: 5 kW
+CCS2: 2x 118 kW, 200A
+PARKING  SCB","คลองกุ่ม, บึงกุ่ม, กรุงเทพมหานคร",13.795896,100.691478,EA,"
+            100.691478,13.795896,0
+          "
+โรบินสัน ศรีสมาน,"Hours: Peak<br>Power: 22 kW<br>Description: Type2: 2x 22 kW<br>CCS2: CLOSED<br>Parking<br>Address: บ้านใหม่, ปากเกร็ด, นนทบุรี<br>Latitude: 13.938638<br>Longitude: 100.554162<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,22 kW,"Type2: 2x 22 kW
+CCS2: CLOSED
+Parking","บ้านใหม่, ปากเกร็ด, นนทบุรี",13.938638,100.554162,EA,"
+            100.554162,13.938638,0
+          "
+MG รุ่งเจริญ สาขา เทพารักษ์,"Hours: 24 Hr<br>Power: 115 kW<br>Description: CCS2: 2x 115 kW, 200A<br>Type2: CLOSED<br>parking<br>Address: บางแก้ว, บางพลี, สมุทรปราการ<br>Latitude: 13.620934<br>Longitude: 100.642418<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,115 kW,"CCS2: 2x 115 kW, 200A
+Type2: CLOSED
+parking","บางแก้ว, บางพลี, สมุทรปราการ",13.620934,100.642418,EA,"
+            100.642418,13.620934,0
+          "
+ไทยสัมพันธ์ปราการ ถ.เทพารักษ์ กม.6,"Hours: 24 Hr<br>Power: 110 kW<br>Description: CCS2: 110 kW, 200A, CLOSED<br>Type2: 22 kW<br>Parking<br>Address: เทพารักษ์, เมืองสมุทรปราการ, สมุทรปราการ<br>Latitude: 13.620418<br>Longitude: 100.643611<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"CCS2: 110 kW, 200A, CLOSED
+Type2: 22 kW
+Parking","เทพารักษ์, เมืองสมุทรปราการ, สมุทรปราการ",13.620418,100.643611,EA,"
+            100.643611,13.620418,0
+          "
+หน่วยบัญชาการป้องกันภัยทางอากาศกองทัพบก (นปอ.),"Hours: 24 Hr<br>Power: 115 kW<br>Description: CCS2: 115 kW, 200A, CLOSED<br>Parking<br>Address: สีกัน, ดอนเมือง, กรุงเทพมหานคร<br>Latitude: 13.942247<br>Longitude: 100.578536<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,115 kW,"CCS2: 115 kW, 200A, CLOSED
+Parking","สีกัน, ดอนเมือง, กรุงเทพมหานคร",13.942247,100.578536,EA,"
+            100.578536,13.942247,0
+          "
+อี-บัส ราม 2 (Station 1),"Hours: 24 Hr<br>Power: 300 kW<br>Description: CCS2: 4x 300 kW, 200A<br>Parking<br>Address: บางจาก, พระโขนง, กรุงเทพมหานคร<br>Latitude: 13.673501<br>Longitude: 100.691191<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,300 kW,"CCS2: 4x 300 kW, 200A
+Parking","บางจาก, พระโขนง, กรุงเทพมหานคร",13.673501,100.691191,EA,"
+            100.691191,13.673501,0
+          "
+อี-บัส ราม 2 (สเตชั่น2),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 9x 150 kW, 200A<br>Parking<br>Address: บางจาก, พระโขนง, กรุงเทพมหานคร<br>Latitude: 13.673737<br>Longitude: 100.691327<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 9x 150 kW, 200A
+Parking","บางจาก, พระโขนง, กรุงเทพมหานคร",13.673737,100.691327,EA,"
+            100.691327,13.673737,0
+          "
+โรบินสัน สมุทรปราการ,"Hours: Peak<br>Power: 90 kW<br>Description: CCS2: 2x 90 kW, 200A<br>Type2: 2x 22 kW<br>Parking<br>Address: ท้ายบ้านใหม่, เมืองสมุทรปราการ, สมุทรปราการ<br>Latitude: 13.583558<br>Longitude: 100.609553<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,90 kW,"CCS2: 2x 90 kW, 200A
+Type2: 2x 22 kW
+Parking","ท้ายบ้านใหม่, เมืองสมุทรปราการ, สมุทรปราการ",13.583558,100.609553,EA,"
+            100.609553,13.583558,0
+          "
+K-space Mini Mall ถ.สุขาภิบาล2,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ประเวศ, ประเวศ, กรุงเทพมหานคร<br>Latitude: 13.699083<br>Longitude: 100.705073<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 118 kW, 200A
+Type2: CLOSED
+Parking","ประเวศ, ประเวศ, กรุงเทพมหานคร",13.699083,100.705073,EA,"
+            100.705073,13.699083,0
+          "
+ดูโฮม สาขาบางบัวทอง,"Hours: Closed<br>Power: 75 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: 75 kW, CLOSED<br>Parking<br>Address: ละหาร, บางบัวทอง, นนทบุรี<br>Latitude: 13.949241<br>Longitude: 100.421632<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,75 kW,"Type2: 22 kW, CLOSED
+CCS2: 75 kW, CLOSED
+Parking","ละหาร, บางบัวทอง, นนทบุรี",13.949241,100.421632,EA,"
+            100.421632,13.949241,0
+          "
+ESSO อ่อนนุช,"Hours: 24 Hr<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: ลาดกระบัง, ลาดกระบัง, กรุงเทพมหานคร<br>Latitude: 13.722452<br>Longitude: 100.713891<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","ลาดกระบัง, ลาดกระบัง, กรุงเทพมหานคร",13.722452,100.713891,EA,"
+            100.713891,13.722452,0
+          "
+คาลเท็กซ์ รามอินทรา กม.14,"Hours: Closed<br>Power: 115 kW<br>Description: CCS2: 115 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: มีนบุรี, มีนบุรี, กรุงเทพมหานคร<br>Latitude: 13.812495<br>Longitude: 100.709057<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,115 kW,"CCS2: 115 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","มีนบุรี, มีนบุรี, กรุงเทพมหานคร",13.812495,100.709057,EA,"
+            100.709057,13.812495,0
+          "
+7-11 ถนนพัฒนาชนบท 3 จุด2,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: คลองสองต้นนุ่น, ลาดกระบัง, กรุงเทพมหานคร<br>Latitude: 13.73178<br>Longitude: 100.716077<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 117 kW, 200A
+Type2: CLOSED
+Parking","คลองสองต้นนุ่น, ลาดกระบัง, กรุงเทพมหานคร",13.73178,100.716077,EA,"
+            100.716077,13.73178,0
+          "
+อี-บัส วัดไร่ขิง (Station1),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 150 kW, 200A<br>Parking<br>Address: ไร่ขิง, สามพราน, นครปฐม<br>Latitude: 13.754854<br>Longitude: 100.2854<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 150 kW, 200A
+Parking","ไร่ขิง, สามพราน, นครปฐม",13.754854,100.2854,EA,"
+            100.2854,13.754854,0
+          "
+อี-บัส วัดไร่ขิง (Station2),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 4x 150 kW, 200A<br>Parking<br>Address: ไร่ขิง, สามพราน, นครปฐม<br>Latitude: 13.754677<br>Longitude: 100.285131<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 4x 150 kW, 200A
+Parking","ไร่ขิง, สามพราน, นครปฐม",13.754677,100.285131,EA,"
+            100.285131,13.754677,0
+          "
+7-11 รามคำแหง 170,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: มีนบุรี, มีนบุรี, กรุงเทพมหานคร<br>Latitude: 13.797279<br>Longitude: 100.714516<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 118 kW, 200A
+Type2: CLOSED
+Parking","มีนบุรี, มีนบุรี, กรุงเทพมหานคร",13.797279,100.714516,EA,"
+            100.714516,13.797279,0
+          "
+ESSO พหลโยธิน กม.25,"Hours: Off-peak<br>Power: 117 kW<br>Description: CCS2: 117 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: สายไหม, สายไหม, กรุงเทพมหานคร<br>Latitude: 13.931871<br>Longitude: 100.625974<br>Provider: EA",#icon-1899-DB4436-labelson,Off-peak,117 kW,"CCS2: 117 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","สายไหม, สายไหม, กรุงเทพมหานคร",13.931871,100.625974,EA,"
+            100.625974,13.931871,0
+          "
+โรงแรม ศศิศุขสันต์ บางบัวทอง,"Hours: 24 Hr<br>Power: 90 kW<br>Description: Type1: 22 kW<br>Type2: 5 kW<br>CCS2: 2x 90 kW, 200A<br>Parking<br>Address: ลำโพ, บางบัวทอง, นนทบุรี<br>Latitude: 13.958158<br>Longitude: 100.42699<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,90 kW,"Type1: 22 kW
+Type2: 5 kW
+CCS2: 2x 90 kW, 200A
+Parking","ลำโพ, บางบัวทอง, นนทบุรี",13.958158,100.42699,EA,"
+            100.42699,13.958158,0
+          "
+ซัสโก้ สาขา สุขาภิบาล 3/2,"Hours: 24 Hr<br>Power: 116 kW<br>Description: CCS2: 2x 116 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: มีนบุรี, มีนบุรี, กรุงเทพมหานคร<br>Latitude: 13.800374<br>Longitude: 100.71807<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,116 kW,"CCS2: 2x 116 kW, 200A
+Type2: CLOSED
+Parking","มีนบุรี, มีนบุรี, กรุงเทพมหานคร",13.800374,100.71807,EA,"
+            100.71807,13.800374,0
+          "
+ตลาดเอซี พลาซ่า สายไหม,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: สายไหม, สายไหม, กรุงเทพมหานคร<br>Latitude: 13.922011<br>Longitude: 100.642749<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 117 kW, 200A
+Type2: CLOSED
+Parking","สายไหม, สายไหม, กรุงเทพมหานคร",13.922011,100.642749,EA,"
+            100.642749,13.922011,0
+          "
+ซี พี เอ็น ออยล์,"Hours: 24 Hr<br>Power: 38 kW<br>Description: CCS2: 38 kW<br>Parking<br>Address: แพรกษาใหม่, เมืองสมุทรปราการ, สมุทรปราการ<br>Latitude: 13.599422<br>Longitude: 100.658184<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,38 kW,"CCS2: 38 kW
+Parking","แพรกษาใหม่, เมืองสมุทรปราการ, สมุทรปราการ",13.599422,100.658184,EA,"
+            100.658184,13.599422,0
+          "
+บิ๊กซี สุวินทวงศ์,"Hours: Closed<br>Power: 135 kW<br>Description: CCS2: 135 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: มีนบุรี, มีนบุรี, กรุงเทพมหานคร<br>Latitude: 13.817255<br>Longitude: 100.719781<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,135 kW,"CCS2: 135 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","มีนบุรี, มีนบุรี, กรุงเทพมหานคร",13.817255,100.719781,EA,"
+            100.719781,13.817255,0
+          "
+ปั๊มน้ำมัน รวยเป๋าตุง จำกัด,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: สีกัน, ดอนเมือง, กรุงเทพมหานคร<br>Latitude: 13.942905<br>Longitude: 100.623263<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","สีกัน, ดอนเมือง, กรุงเทพมหานคร",13.942905,100.623263,EA,"
+            100.623263,13.942905,0
+          "
+The Paseo Mall (สาขาลาดกระบัง) ST.1,"Hours: 24 Hr<br>Power: 90 kW<br>Description: CCS2: 90 kW, 200A<br>Type2: 2x 22 kW<br>Parking Area<br>Address: ลาดกระบัง, ลาดกระบัง, กรุงเทพมหานคร<br>Latitude: 13.721735<br>Longitude: 100.727302<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,90 kW,"CCS2: 90 kW, 200A
+Type2: 2x 22 kW
+Parking Area","ลาดกระบัง, ลาดกระบัง, กรุงเทพมหานคร",13.721735,100.727302,EA,"
+            100.727302,13.721735,0
+          "
+บริษัท วีอาร์ ออโต้ สปา จำกัด,"Hours: Peak<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 110 kW, 200A<br>Parkung<br>Address: สายไหม, สายไหม, กรุงเทพมหานคร<br>Latitude: 13.921255<br>Longitude: 100.654383<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,110 kW,"Type2: 22 kW
+CCS2: 2x 110 kW, 200A
+Parkung","สายไหม, สายไหม, กรุงเทพมหานคร",13.921255,100.654383,EA,"
+            100.654383,13.921255,0
+          "
+เดอะวิสดาพาร์ค,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางบัวทอง, บางบัวทอง, นนทบุรี<br>Latitude: 13.94576<br>Longitude: 100.380276<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","บางบัวทอง, บางบัวทอง, นนทบุรี",13.94576,100.380276,EA,"
+            100.380276,13.94576,0
+          "
+บิ๊กซี สุขาภิบาล3,"Hours: 24 Hr<br>Power: 110 kW<br>Description: CCS2: 2x 110 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: มีนบุรี, มีนบุรี, กรุงเทพมหานคร<br>Latitude: 13.806783<br>Longitude: 100.726847<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"CCS2: 2x 110 kW, 200A
+Type2: CLOSED
+Parking","มีนบุรี, มีนบุรี, กรุงเทพมหานคร",13.806783,100.726847,EA,"
+            100.726847,13.806783,0
+          "
+MG รุ่งเจริญ สาขา ลาดกระบัง,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ลาดกระบัง, ลาดกระบัง, กรุงเทพมหานคร<br>Latitude: 13.722254<br>Longitude: 100.734428<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 118 kW, 200A
+Type2: CLOSED
+Parking","ลาดกระบัง, ลาดกระบัง, กรุงเทพมหานคร",13.722254,100.734428,EA,"
+            100.734428,13.722254,0
+          "
+เบสท์ เอ็นเนอร์ยี่ พลัส สาขา 20 (ลาดกระบัง),"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 110 kW, 200A, CLOSED<br>Parking<br>Address: ลาดกระบัง, ลาดกระบัง, กรุงเทพมหานคร<br>Latitude: 13.722308<br>Longitude: 100.735811<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 22 kW
+CCS2: 110 kW, 200A, CLOSED
+Parking","ลาดกระบัง, ลาดกระบัง, กรุงเทพมหานคร",13.722308,100.735811,EA,"
+            100.735811,13.722308,0
+          "
+เรนฟอเรสต์ มอลล์ (กิ่งแก้ว),"Hours: 24 Hr<br>Power: 40 kW<br>Description: CCS2: 2x 40 kW<br>Parking<br>Address: ราชาเทวะ, บางพลี, สมุทรปราการ<br>Latitude: 13.659204<br>Longitude: 100.716474<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,40 kW,"CCS2: 2x 40 kW
+Parking","ราชาเทวะ, บางพลี, สมุทรปราการ",13.659204,100.716474,EA,"
+            100.716474,13.659204,0
+          "
+อี-บัส ศาลายา (สเตชั่น 1),"Hours: 24 Hr<br>Power: 152 kW<br>Description: CCS2: 7x 152 kW, 200A<br>Parking<br>Address: มหาสวัสดิ์, พุทธมณฑล, นครปฐม<br>Latitude: 13.805297<br>Longitude: 100.269776<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,152 kW,"CCS2: 7x 152 kW, 200A
+Parking","มหาสวัสดิ์, พุทธมณฑล, นครปฐม",13.805297,100.269776,EA,"
+            100.269776,13.805297,0
+          "
+E-BUS ศาลายา (Station2),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 2x 150 kW, 200A<br>Parking<br>Address: มหาสวัสดิ์, พุทธมณฑล, นครปฐม<br>Latitude: 13.805557<br>Longitude: 100.269808<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 2x 150 kW, 200A
+Parking","มหาสวัสดิ์, พุทธมณฑล, นครปฐม",13.805557,100.269808,EA,"
+            100.269808,13.805557,0
+          "
+Caltex กิ่งแก้ว,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ราชาเทวะ, บางพลี, สมุทรปราการ<br>Latitude: 13.707565<br>Longitude: 100.736657<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 118 kW, 200A
+Type2: CLOSED
+Parking","ราชาเทวะ, บางพลี, สมุทรปราการ",13.707565,100.736657,EA,"
+            100.736657,13.707565,0
+          "
+บิ๊กซี ร่มเกล้า,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: มีนบุรี, มีนบุรี, กรุงเทพมหานคร<br>Latitude: 13.809868<br>Longitude: 100.737612<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 117 kW, 200A
+Type2: CLOSED
+Parking","มีนบุรี, มีนบุรี, กรุงเทพมหานคร",13.809868,100.737612,EA,"
+            100.737612,13.809868,0
+          "
+มังกรพลาซ่า แยกไปรษณีย์มีนบุรี,"Hours: Closed<br>Power: 22 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: CLOSED<br>Parking Area<br>Address: มีนบุรี, มีนบุรี, กรุงเทพมหานคร<br>Latitude: 13.820733<br>Longitude: 100.73597<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,22 kW,"Type2: 22 kW, CLOSED
+CCS2: CLOSED
+Parking Area","มีนบุรี, มีนบุรี, กรุงเทพมหานคร",13.820733,100.73597,EA,"
+            100.73597,13.820733,0
+          "
+ซัสโก้ สาขาบางบัวทอง(ไทรน้อย),"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 110 kW, 200A<br>Parking<br>Address: บางบัวทอง, บางบัวทอง, นนทบุรี<br>Latitude: 13.954106<br>Longitude: 100.367843<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 22 kW
+CCS2: 2x 110 kW, 200A
+Parking","บางบัวทอง, บางบัวทอง, นนทบุรี",13.954106,100.367843,EA,"
+            100.367843,13.954106,0
+          "
+บิ๊กซี หทัยราษฎร์,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 118 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บางชัน, คลองสามวา, กรุงเทพมหานคร<br>Latitude: 13.860382<br>Longitude: 100.720714<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 118 kW, 200A
+Type2: CLOSED
+Parking","บางชัน, คลองสามวา, กรุงเทพมหานคร",13.860382,100.720714,EA,"
+            100.720714,13.860382,0
+          "
+Caltex บางพลี,"Hours: 24 Hr<br>Power: 75 kW<br>Description: CCS2: 2x 75 kW<br>Type2: CLOSED<br>Parking<br>Address: บางพลีใหญ่, บางพลี, สมุทรปราการ<br>Latitude: 13.62869<br>Longitude: 100.707593<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"CCS2: 2x 75 kW
+Type2: CLOSED
+Parking","บางพลีใหญ่, บางพลี, สมุทรปราการ",13.62869,100.707593,EA,"
+            100.707593,13.62869,0
+          "
+LPG ธัญสถิต ซอยร่มเกล้า 21/7,"Hours: Closed<br>Power: 150 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: 150 kW, 200A, CLOSED<br>parking<br>Address: คลองสามประเวศ, ลาดกระบัง, กรุงเทพมหานคร<br>Latitude: 13.751357<br>Longitude: 100.746597<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,150 kW,"Type2: 22 kW, CLOSED
+CCS2: 150 kW, 200A, CLOSED
+parking","คลองสามประเวศ, ลาดกระบัง, กรุงเทพมหานคร",13.751357,100.746597,EA,"
+            100.746597,13.751357,0
+          "
+7-11 ร่มเกล้า23,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: คลองสามประเวศ, ลาดกระบัง, กรุงเทพมหานคร<br>Latitude: 13.745205<br>Longitude: 100.746591<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 117 kW, 200A
+Type2: CLOSED
+Parking","คลองสามประเวศ, ลาดกระบัง, กรุงเทพมหานคร",13.745205,100.746591,EA,"
+            100.746591,13.745205,0
+          "
+หจก. ไทยสัมพันธ์ บางปู,"Hours: 24 Hr<br>Power: 110 kW<br>Description: CCS2: 2x 110 kW, 200A<br>Type2: 22 kW<br>Parking<br>Address: ท้ายบ้าน, เมืองสมุทรปราการ, สมุทรปราการ<br>Latitude: 13.545004<br>Longitude: 100.618148<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"CCS2: 2x 110 kW, 200A
+Type2: 22 kW
+Parking","ท้ายบ้าน, เมืองสมุทรปราการ, สมุทรปราการ",13.545004,100.618148,EA,"
+            100.618148,13.545004,0
+          "
+ศูนย์การค้า May Market ถ.บางนา-ตราด,"Hours: Off-peak<br>Power: 90 kW<br>Description: Type1: 22 kW, CLOSED<br>Type2: 22 kW, CLOSED<br>CCS2: 90 kW, 200A, CLOSED<br>parking<br>Address: บางพลีใหญ่, บางพลี, สมุทรปราการ<br>Latitude: 13.628836<br>Longitude: 100.718523<br>Provider: EA",#icon-1899-DB4436-labelson,Off-peak,90 kW,"Type1: 22 kW, CLOSED
+Type2: 22 kW, CLOSED
+CCS2: 90 kW, 200A, CLOSED
+parking","บางพลีใหญ่, บางพลี, สมุทรปราการ",13.628836,100.718523,EA,"
+            100.718523,13.628836,0
+          "
+MG นครหลวง (สาขาบางนา),"Hours: Peak<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางโฉลง, บางพลี, สมุทรปราการ<br>Latitude: 13.629758<br>Longitude: 100.719774<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","บางโฉลง, บางพลี, สมุทรปราการ",13.629758,100.719774,EA,"
+            100.719774,13.629758,0
+          "
+เมืองโบราณ บางปู ST.1,"Hours: Peak<br>Power: 50 kW<br>Description: Type1: 11 kW<br>Type2: 2x 22 kW<br>CCS2: 2x 50 kW<br>parking<br>Address: บางปู, เมืองสมุทรปราการ, สมุทรปราการ<br>Latitude: 13.5393<br>Longitude: 100.622926<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,50 kW,"Type1: 11 kW
+Type2: 2x 22 kW
+CCS2: 2x 50 kW
+parking","บางปู, เมืองสมุทรปราการ, สมุทรปราการ",13.5393,100.622926,EA,"
+            100.622926,13.5393,0
+          "
+บิ๊กซี บางพลี,"Hours: 24 Hr<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางพลีใหญ่, บางพลี, สมุทรปราการ<br>Latitude: 13.602798<br>Longitude: 100.707389<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","บางพลีใหญ่, บางพลี, สมุทรปราการ",13.602798,100.707389,EA,"
+            100.707389,13.602798,0
+          "
+อีบัส รังสิต บางพูน,"Hours: 24 Hr<br>Power: 300 kW<br>Description: CCS2: 6x 300 kW, 200A<br>Parking<br>Address: บางพูน, เมืองปทุมธานี, ปทุมธานี<br>Latitude: 13.996706<br>Longitude: 100.582167<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,300 kW,"CCS2: 6x 300 kW, 200A
+Parking","บางพูน, เมืองปทุมธานี, ปทุมธานี",13.996706,100.582167,EA,"
+            100.582167,13.996706,0
+          "
+Standard NGV (ปทุมธานีสายเก่า),"Hours: 24 Hr<br>Power: 55 kW<br>Description: CCS2: 2x 55 kW<br>Type2: CLOSED<br>Parking<br>Address: บางปรอก, เมืองปทุมธานี, ปทุมธานี<br>Latitude: 14.008741<br>Longitude: 100.532659<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,55 kW,"CCS2: 2x 55 kW
+Type2: CLOSED
+Parking","บางปรอก, เมืองปทุมธานี, ปทุมธานี",14.008741,100.532659,EA,"
+            100.532659,14.008741,0
+          "
+บริษัท 909 มหาคุณ จำกัด,"Hours: 24 Hr<br>Power: 90 kW<br>Description: Type1: 22 kW<br>Type2: 22 kW<br>CCS2: 90 kW, 200A, CLOSED<br>Parking<br>Address: ลาดกระบัง, ลาดกระบัง, กรุงเทพมหานคร<br>Latitude: 13.721812<br>Longitude: 100.761461<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,90 kW,"Type1: 22 kW
+Type2: 22 kW
+CCS2: 90 kW, 200A, CLOSED
+Parking","ลาดกระบัง, ลาดกระบัง, กรุงเทพมหานคร",13.721812,100.761461,EA,"
+            100.761461,13.721812,0
+          "
+คาลเท็กซ์ เจ้าคุณ ออยล์ เจ้าคุณทหาร,"Hours: 24 Hr<br>Power: 110 kW<br>Description: CCS2: 2x 110 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: คลองสามประเวศ, ลาดกระบัง, กรุงเทพมหานคร<br>Latitude: 13.753907<br>Longitude: 100.767286<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"CCS2: 2x 110 kW, 200A
+Type2: CLOSED
+Parking","คลองสามประเวศ, ลาดกระบัง, กรุงเทพมหานคร",13.753907,100.767286,EA,"
+            100.767286,13.753907,0
+          "
+E-BUS อู่รังสิต 200ปี (Station 1),"Hours: 24 Hr<br>Power: 300 kW<br>Description: CCS2: 300 kW, 200A<br>Parking<br>Address: คลองหนึ่ง, คลองหลวง, ปทุมธานี<br>Latitude: 13.99601<br>Longitude: 100.60255<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,300 kW,"CCS2: 300 kW, 200A
+Parking","คลองหนึ่ง, คลองหลวง, ปทุมธานี",13.99601,100.60255,EA,"
+            100.60255,13.99601,0
+          "
+อีบัส เอกชัย สเตชั่น1,"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 7x 150 kW, 200A<br>parking<br>Address: โคกขาม, เมืองสมุทรสาคร, สมุทรสาคร<br>Latitude: 13.576467<br>Longitude: 100.309811<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 7x 150 kW, 200A
+parking","โคกขาม, เมืองสมุทรสาคร, สมุทรสาคร",13.576467,100.309811,EA,"
+            100.309811,13.576467,0
+          "
+อีบัส เอกชัย สเตชั่น2,"Hours: 24 Hr<br>Power: 300 kW<br>Description: CCS2: 2x 300 kW, 200A<br>parking<br>Address: โคกขาม, เมืองสมุทรสาคร, สมุทรสาคร<br>Latitude: 13.576461<br>Longitude: 100.309811<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,300 kW,"CCS2: 2x 300 kW, 200A
+parking","โคกขาม, เมืองสมุทรสาคร, สมุทรสาคร",13.576461,100.309811,EA,"
+            100.309811,13.576461,0
+          "
+E-BUS อู่รังสิต 200ปี (Station 2),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 150 kW, 200A, CLOSED<br>Parking<br>Address: คลองหนึ่ง, คลองหลวง, ปทุมธานี<br>Latitude: 13.996353<br>Longitude: 100.602464<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 150 kW, 200A, CLOSED
+Parking","คลองหนึ่ง, คลองหลวง, ปทุมธานี",13.996353,100.602464,EA,"
+            100.602464,13.996353,0
+          "
+ศูนย์การค้า Porto Chino St.1 มหาชัย,"Hours: 24 Hr<br>Power: 75 kW<br>Description: Type2: 22 kW<br>CCS2: 75 kW<br>Parking<br>Address: นาดี, เมืองสมุทรสาคร, สมุทรสาคร<br>Latitude: 13.568521<br>Longitude: 100.289781<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"Type2: 22 kW
+CCS2: 75 kW
+Parking","นาดี, เมืองสมุทรสาคร, สมุทรสาคร",13.568521,100.289781,EA,"
+            100.289781,13.568521,0
+          "
+เอสเค โฮม,"Hours: Peak<br>Power: 110 kW<br>Description: Type2: 5 kW<br>CCS2: 2x 110 kW, 200A<br>parking<br>Address: บางโฉลง, บางพลี, สมุทรปราการ<br>Latitude: 13.623727<br>Longitude: 100.757497<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,110 kW,"Type2: 5 kW
+CCS2: 2x 110 kW, 200A
+parking","บางโฉลง, บางพลี, สมุทรปราการ",13.623727,100.757497,EA,"
+            100.757497,13.623727,0
+          "
+หจก. พีอาร์กรุ๊ป 1998,"Hours: 24 Hr<br>Power: 58 kW<br>Description: CCS2: 2x 58 kW<br>Type2: 22 kW<br>Parking<br>Address: ทับยาว, ลาดกระบัง, กรุงเทพมหานคร<br>Latitude: 13.719229<br>Longitude: 100.79471<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,58 kW,"CCS2: 2x 58 kW
+Type2: 22 kW
+Parking","ทับยาว, ลาดกระบัง, กรุงเทพมหานคร",13.719229,100.79471,EA,"
+            100.79471,13.719229,0
+          "
+บิ๊กซี ไทรน้อย,"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ไทรน้อย, ไทรน้อย, นนทบุรี<br>Latitude: 13.985333<br>Longitude: 100.319314<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 117 kW, 200A
+Type2: CLOSED
+Parking","ไทรน้อย, ไทรน้อย, นนทบุรี",13.985333,100.319314,EA,"
+            100.319314,13.985333,0
+          "
+MG กรุงเทพ (สาขาสุวินทวงศ์),"Hours: 24 Hr<br>Power: 117 kW<br>Description: CCS2: 2x 117 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: โคกแฝด, หนองจอก, กรุงเทพมหานคร<br>Latitude: 13.809549<br>Longitude: 100.803471<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,117 kW,"CCS2: 2x 117 kW, 200A
+Type2: CLOSED
+Parking","โคกแฝด, หนองจอก, กรุงเทพมหานคร",13.809549,100.803471,EA,"
+            100.803471,13.809549,0
+          "
+โอสุ เนเจอรัล แก๊ส ซ.คลองหลวง 50,"Hours: 24 Hr<br>Power: 30 kW<br>Description: Type2: 11 kW<br>CCS2: 30 kW<br>parking<br>Address: คลองหนึ่ง, คลองหลวง, ปทุมธานี<br>Latitude: 14.035751<br>Longitude: 100.616568<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,30 kW,"Type2: 11 kW
+CCS2: 30 kW
+parking","คลองหนึ่ง, คลองหลวง, ปทุมธานี",14.035751,100.616568,EA,"
+            100.616568,14.035751,0
+          "
+เอสที มอเตอร์สปอร์ต ถ.สุวินทวงศ์,"Hours: Closed<br>Power: 110 kW<br>Description: CCS2: 110 kW, 200A, CLOSED<br>Type2: 5 kW, CLOSED<br>Parking<br>Address: โคกแฝด, หนองจอก, กรุงเทพมหานคร<br>Latitude: 13.809473<br>Longitude: 100.808759<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,110 kW,"CCS2: 110 kW, 200A, CLOSED
+Type2: 5 kW, CLOSED
+Parking","โคกแฝด, หนองจอก, กรุงเทพมหานคร",13.809473,100.808759,EA,"
+            100.808759,13.809473,0
+          "
+SUSCO สาขาทับยาว,"Hours: 24 Hr<br>Power: 75 kW<br>Description: CCS2: 2x 75 kW<br>Type2: CLOSED<br>Parking<br>Address: ทับยาว, ลาดกระบัง, กรุงเทพมหานคร<br>Latitude: 13.713704<br>Longitude: 100.813221<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"CCS2: 2x 75 kW
+Type2: CLOSED
+Parking","ทับยาว, ลาดกระบัง, กรุงเทพมหานคร",13.713704,100.813221,EA,"
+            100.813221,13.713704,0
+          "
+คาลเท็กซ์ บางนา-ตราด กม.20,"Hours: Closed<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บางโฉลง, บางพลี, สมุทรปราการ<br>Latitude: 13.604462<br>Longitude: 100.776767<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","บางโฉลง, บางพลี, สมุทรปราการ",13.604462,100.776767,EA,"
+            100.776767,13.604462,0
+          "
+สยามพรีเมียมเอ้าท์เล็ต,"Hours: Peak<br>Power: 38 kW<br>Description: CCS2: 38 kW<br>Type2: 2x 22 kW<br>Parking<br>Address: บางเสาธง, บางเสาธง, สมุทรปราการ<br>Latitude: 13.693468<br>Longitude: 100.829465<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,38 kW,"CCS2: 38 kW
+Type2: 2x 22 kW
+Parking","บางเสาธง, บางเสาธง, สมุทรปราการ",13.693468,100.829465,EA,"
+            100.829465,13.693468,0
+          "
+E-BUS มีนบุรี (Station 1),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 5x 150 kW, 200A<br>Parking<br>Address: ลำผักชี, หนองจอก, กรุงเทพมหานคร<br>Latitude: 13.809186<br>Longitude: 100.832026<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 5x 150 kW, 200A
+Parking","ลำผักชี, หนองจอก, กรุงเทพมหานคร",13.809186,100.832026,EA,"
+            100.832026,13.809186,0
+          "
+E-BUS มีนบุรี (สเตชั่น 2),"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 3x 150 kW, 200A<br>Parking<br>Address: ลำผักชี, หนองจอก, กรุงเทพมหานคร<br>Latitude: 13.809186<br>Longitude: 100.832026<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 3x 150 kW, 200A
+Parking","ลำผักชี, หนองจอก, กรุงเทพมหานคร",13.809186,100.832026,EA,"
+            100.832026,13.809186,0
+          "
+ม.ธรรมศาสตร์ศูนย์รังสิต ST.1,"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW<br>CCS2: 50 kW<br>Parking<br>Address: คลองหนึ่ง, คลองหลวง, ปทุมธานี<br>Latitude: 14.076432<br>Longitude: 100.596284<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW
+CCS2: 50 kW
+Parking","คลองหนึ่ง, คลองหลวง, ปทุมธานี",14.076432,100.596284,EA,"
+            100.596284,14.076432,0
+          "
+อีบัส การเคหะบางพลี,"Hours: 24 Hr<br>Power: 150 kW<br>Description: CCS2: 6x 150 kW, 200A<br>Parking<br>Address: ท้ายบ้าน, เมืองสมุทรปราการ, สมุทรปราการ<br>Latitude: 13.587333<br>Longitude: 100.800398<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,150 kW,"CCS2: 6x 150 kW, 200A
+Parking","ท้ายบ้าน, เมืองสมุทรปราการ, สมุทรปราการ",13.587333,100.800398,EA,"
+            100.800398,13.587333,0
+          "
+สถาบัน AIT รังสิต ST.1,"Hours: 24 Hr<br>Power: 75 kW<br>Description: CCS2: 2x 75 kW<br>Type2: 2x 22 kW<br>Parking<br>Address: คลองหนึ่ง, คลองหลวง, ปทุมธานี<br>Latitude: 14.076571<br>Longitude: 100.613892<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"CCS2: 2x 75 kW
+Type2: 2x 22 kW
+Parking","คลองหนึ่ง, คลองหลวง, ปทุมธานี",14.076571,100.613892,EA,"
+            100.613892,14.076571,0
+          "
+ตลาดโรงเกลือท้ายเกาะ,"Hours: 24 Hr<br>Power: 38 kW<br>Description: CCS2: 2x 38 kW<br>Type2: 2x 22 kW<br>Parking<br>Address: ท้ายเกาะ, สามโคก, ปทุมธานี<br>Latitude: 14.108348<br>Longitude: 100.506996<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,38 kW,"CCS2: 2x 38 kW
+Type2: 2x 22 kW
+Parking","ท้ายเกาะ, สามโคก, ปทุมธานี",14.108348,100.506996,EA,"
+            100.506996,14.108348,0
+          "
+บิ๊กซี หนองจอก,"Hours: 24 Hr<br>Power: 110 kW<br>Description: CCS2: 2x 110 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: กระทุ่มราย, หนองจอก, กรุงเทพมหานคร<br>Latitude: 13.854351<br>Longitude: 100.854739<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"CCS2: 2x 110 kW, 200A
+Type2: CLOSED
+Parking","กระทุ่มราย, หนองจอก, กรุงเทพมหานคร",13.854351,100.854739,EA,"
+            100.854739,13.854351,0
+          "
+ไทยน้ำทิพย์,"Hours: 24 Hr<br>Power: 180 kW<br>Description: CCS2: 3x 180 kW, 200A<br>Parking<br>Address: พืชอุดม, ลำลูกกา, ปทุมธานี<br>Latitude: 13.96109<br>Longitude: 100.892545<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,180 kW,"CCS2: 3x 180 kW, 200A
+Parking","พืชอุดม, ลำลูกกา, ปทุมธานี",13.96109,100.892545,EA,"
+            100.892545,13.96109,0
+          "
+FN Factory Outlet สาขาฉะเชิงเทรา (Chachoengsao),"Hours: 24 Hr<br>Power: 75 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 75 kW<br>FN Factory Outlet <br>Address: ลาดขวาง, บ้านโพธิ์, ฉะเชิงเทรา<br>Latitude: 13.601652<br>Longitude: 101.02101<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"Type2: 22 kW
+CCS2: 2x 75 kW
+FN Factory Outlet ","ลาดขวาง, บ้านโพธิ์, ฉะเชิงเทรา",13.601652,101.02101,EA,"
+            101.02101,13.601652,0
+          "
+โรบินสัน ฉะเชิงเทรา (โซน วีไอพี พาร์คกิ้ง),"Hours: Peak<br>Power: 0 kW<br>Description: Type2: CLOSED<br>CCS2: CLOSED<br>Parking<br>Address: หน้าเมือง, เมืองฉะเชิงเทรา, ฉะเชิงเทรา<br>Latitude: 13.66788<br>Longitude: 101.048512<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,0 kW,"Type2: CLOSED
+CCS2: CLOSED
+Parking","หน้าเมือง, เมืองฉะเชิงเทรา, ฉะเชิงเทรา",13.66788,101.048512,EA,"
+            101.048512,13.66788,0
+          "
+อี-บัส เน็กซ์ เอ็กเพรส ฉะเชิงเทรา,"Hours: 24 Hr<br>Power: 100 kW<br>Description: CCS2: 2x 100 kW, 200A<br>Parking<br>Address: หน้าเมือง, เมืองฉะเชิงเทรา, ฉะเชิงเทรา<br>Latitude: 13.694369<br>Longitude: 101.065764<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,100 kW,"CCS2: 2x 100 kW, 200A
+Parking","หน้าเมือง, เมืองฉะเชิงเทรา, ฉะเชิงเทรา",13.694369,101.065764,EA,"
+            101.065764,13.694369,0
+          "
+MG อยุธยา,"Hours: 24 Hr<br>Power: 50 kW<br>Description: CCS2: 50 kW<br>Type2: CLOSED<br>Parking<br>Address: คลองสวนพลู, พระนครศรีอยุธยา, พระนครศรีอยุธยา<br>Latitude: 14.323089<br>Longitude: 100.614251<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"CCS2: 50 kW
+Type2: CLOSED
+Parking","คลองสวนพลู, พระนครศรีอยุธยา, พระนครศรีอยุธยา",14.323089,100.614251,EA,"
+            100.614251,14.323089,0
+          "
+E-BUS NEX Express ศรีราชา,"Hours: 24 Hr<br>Power: 100 kW<br>Description: CCS2: 3x 100 kW, 200A<br>Parking<br>Address: บางพระ, ศรีราชา, ชลบุรี<br>Latitude: 13.211488<br>Longitude: 100.944039<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,100 kW,"CCS2: 3x 100 kW, 200A
+Parking","บางพระ, ศรีราชา, ชลบุรี",13.211488,100.944039,EA,"
+            100.944039,13.211488,0
+          "
+ศูนย์การค้าแปซิฟิค พาร์ค ศรีราชา (อาคารจอดด้านหลัง P2),"Hours: 24 Hr<br>Power: 50 kW<br>Description: CCS2: 2x 50 kW<br>Type2: CLOSED<br>parking<br>Address: ศรีราชา, ศรีราชา, ชลบุรี<br>Latitude: 13.167714<br>Longitude: 100.929666<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"CCS2: 2x 50 kW
+Type2: CLOSED
+parking","ศรีราชา, ศรีราชา, ชลบุรี",13.167714,100.929666,EA,"
+            100.929666,13.167714,0
+          "
+MG ก้องกังวาล ราชบุรี,"Hours: 24 Hr<br>Power: 75 kW<br>Description: CCS2: 2x 75 kW<br>Type2: CLOSED<br>Parking<br>Address: อ่างทอง, เมืองราชบุรี, ราชบุรี<br>Latitude: 13.485609<br>Longitude: 99.79531<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"CCS2: 2x 75 kW
+Type2: CLOSED
+Parking","อ่างทอง, เมืองราชบุรี, ราชบุรี",13.485609,99.79531,EA,"
+            99.79531,13.485609,0
+          "
+เมเจอร์ เฟอร์นิเจอร์ มอลล์ จ.สุพรรณบุรี,"Hours: Peak<br>Power: 50 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 50 kW<br>Parking<br>Address: โคกคราม, บางปลาม้า, สุพรรณบุรี<br>Latitude: 14.429381<br>Longitude: 100.143567<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,50 kW,"Type2: 22 kW
+CCS2: 2x 50 kW
+Parking","โคกคราม, บางปลาม้า, สุพรรณบุรี",14.429381,100.143567,EA,"
+            100.143567,14.429381,0
+          "
+E-TRUCK บ่อดิน (Station4),"Hours: Closed<br>Power: 150 kW<br>Description: CCS2: 150 kW, 200A, CLOSED<br>Parking<br>Address: หนองปรือ, พนัสนิคม, ชลบุรี<br>Latitude: 13.528464<br>Longitude: 101.255728<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,150 kW,"CCS2: 150 kW, 200A, CLOSED
+Parking","หนองปรือ, พนัสนิคม, ชลบุรี",13.528464,101.255728,EA,"
+            101.255728,13.528464,0
+          "
+E-TRUCK บ่อดิน (Station2),"Hours: Closed<br>Power: 150 kW<br>Description: CCS2: 150 kW, 200A, CLOSED<br>Parking<br>Address: หนองปรือ, พนัสนิคม, ชลบุรี<br>Latitude: 13.528109<br>Longitude: 101.255879<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,150 kW,"CCS2: 150 kW, 200A, CLOSED
+Parking","หนองปรือ, พนัสนิคม, ชลบุรี",13.528109,101.255879,EA,"
+            101.255879,13.528109,0
+          "
+E-TRUCK บ่อดิน (Station3),"Hours: Closed<br>Power: 150 kW<br>Description: CCS2: 150 kW, 200A, CLOSED<br>Parking<br>Address: หนองปรือ, พนัสนิคม, ชลบุรี<br>Latitude: 13.528428<br>Longitude: 101.256077<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,150 kW,"CCS2: 150 kW, 200A, CLOSED
+Parking","หนองปรือ, พนัสนิคม, ชลบุรี",13.528428,101.256077,EA,"
+            101.256077,13.528428,0
+          "
+MG เอ็น.วี.เอ็ม. มอเตอร์เซลล์ สุพรรณบุรี,"Hours: 24 Hr<br>Power: 50 kW<br>Description: CCS2: 50 kW<br>Type2: CLOSED<br>Parking<br>Address: ท่าระหัด, เมืองสุพรรณบุรี, สุพรรณบุรี<br>Latitude: 14.44668<br>Longitude: 100.130913<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"CCS2: 50 kW
+Type2: CLOSED
+Parking","ท่าระหัด, เมืองสุพรรณบุรี, สุพรรณบุรี",14.44668,100.130913,EA,"
+            100.130913,14.44668,0
+          "
+ร้านอาหาร ครัวบ้านขวัญ วังมะนาว ST.2,"Hours: 24 Hr<br>Power: 50 kW<br>Description: CCS2: 2x 50 kW<br>Type2: 22 kW<br>parking<br>Address: ห้วยโรง, เขาย้อย, เพชรบุรี<br>Latitude: 13.322579<br>Longitude: 99.828651<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"CCS2: 2x 50 kW
+Type2: 22 kW
+parking","ห้วยโรง, เขาย้อย, เพชรบุรี",13.322579,99.828651,EA,"
+            99.828651,13.322579,0
+          "
+ร้านอาหาร ครัวบ้านขวัญ วังมะนาว ST.1,"Hours: 24 Hr<br>Power: 40 kW<br>Description: Type2: CLOSED<br>Type1: CLOSED<br>CCS2: 2x 40 kW<br>parking ครัวบ้านขวัญ<br>Address: ห้วยโรง, เขาย้อย, เพชรบุรี<br>Latitude: 13.322032<br>Longitude: 99.828791<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,40 kW,"Type2: CLOSED
+Type1: CLOSED
+CCS2: 2x 40 kW
+parking ครัวบ้านขวัญ","ห้วยโรง, เขาย้อย, เพชรบุรี",13.322032,99.828791,EA,"
+            99.828791,13.322032,0
+          "
+ศูนย์การค้า ซีซั่น ไลฟ์ (ศรีราชา),"Hours: 24 Hr<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 110 kW, 200A, CLOSED<br>Parking<br>Address: หนองขาม, ศรีราชา, ชลบุรี<br>Latitude: 13.150205<br>Longitude: 101.017345<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,110 kW,"Type2: 22 kW
+CCS2: 110 kW, 200A, CLOSED
+Parking","หนองขาม, ศรีราชา, ชลบุรี",13.150205,101.017345,EA,"
+            101.017345,13.150205,0
+          "
+โรงแรมโมริโน ศรีราชา,"Hours: 24 Hr<br>Power: 75 kW<br>Description: CCS2: 2x 75 kW<br>Type2: CLOSED<br>Parking<br>Address: หนองขาม, ศรีราชา, ชลบุรี<br>Latitude: 13.119127<br>Longitude: 100.999661<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"CCS2: 2x 75 kW
+Type2: CLOSED
+Parking","หนองขาม, ศรีราชา, ชลบุรี",13.119127,100.999661,EA,"
+            100.999661,13.119127,0
+          "
+เดอะ คอย,"Hours: 24 Hr<br>Power: 35 kW<br>Description: CCS2: 2x 35 kW<br>Type2: CLOSED<br>PARKING<br>Address: เขาพระ, เมืองนครนายก, นครนายก<br>Latitude: 14.234565<br>Longitude: 101.24179<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,35 kW,"CCS2: 2x 35 kW
+Type2: CLOSED
+PARKING","เขาพระ, เมืองนครนายก, นครนายก",14.234565,101.24179,EA,"
+            101.24179,14.234565,0
+          "
+เอฟเอ็น เอาท์เลท พัทยา,"Hours: 24 Hr<br>Power: 75 kW<br>Description: CCS2: 12x 75 kW<br>Type2: CLOSED<br>Parking<br>Address: นาเกลือ, บางละมุง, ชลบุรี<br>Latitude: 12.984983<br>Longitude: 100.920464<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"CCS2: 12x 75 kW
+Type2: CLOSED
+Parking","นาเกลือ, บางละมุง, ชลบุรี",12.984983,100.920464,EA,"
+            100.920464,12.984983,0
+          "
+FN Outlet สาขาเพชรบุรี (PHETCHABURI),"Hours: Peak<br>Power: 22 kW<br>Description: Type2: 2x 22 kW<br>CCS2: CLOSED<br>FN Outlet สาขาเพชรบุรี<br>Address: ต้นมะพร้าว, เมืองเพชรบุรี, เพชรบุรี<br>Latitude: 13.138882<br>Longitude: 99.855552<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,22 kW,"Type2: 2x 22 kW
+CCS2: CLOSED
+FN Outlet สาขาเพชรบุรี","ต้นมะพร้าว, เมืองเพชรบุรี, เพชรบุรี",13.138882,99.855552,EA,"
+            99.855552,13.138882,0
+          "
+โรบินสัน สระบุรี,"Hours: Peak<br>Power: 75 kW<br>Description: CCS2: 2x 75 kW<br>Type2: CLOSED<br>Parking<br>Address: ตลิ่งชัน, เมืองสระบุรี, สระบุรี<br>Latitude: 14.540879<br>Longitude: 100.949098<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"CCS2: 2x 75 kW
+Type2: CLOSED
+Parking","ตลิ่งชัน, เมืองสระบุรี, สระบุรี",14.540879,100.949098,EA,"
+            100.949098,14.540879,0
+          "
+Pattana Golf Club ศรีราชา,"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW<br>Type1: 22 kW<br>CCS2: 50 kW<br>Parking<br>Address: เขาคันทรง, ศรีราชา, ชลบุรี<br>Latitude: 13.085995<br>Longitude: 101.14515<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW
+Type1: 22 kW
+CCS2: 50 kW
+Parking","เขาคันทรง, ศรีราชา, ชลบุรี",13.085995,101.14515,EA,"
+            101.14515,13.085995,0
+          "
+7-11 ธาราพัทยา,"Hours: Closed<br>Power: 40 kW<br>Description: CCS2: 40 kW, CLOSED<br>Type2: CLOSED<br>parking<br>Address: หนองปรือ, บางละมุง, ชลบุรี<br>Latitude: 12.919872<br>Longitude: 100.89026<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,40 kW,"CCS2: 40 kW, CLOSED
+Type2: CLOSED
+parking","หนองปรือ, บางละมุง, ชลบุรี",12.919872,100.89026,EA,"
+            100.89026,12.919872,0
+          "
+โรบินสัน ปราจีนบุรี,"Hours: Peak<br>Power: 75 kW<br>Description: CCS2: 2x 75 kW<br>Type2: CLOSED<br>Parking<br>Address: บางบริบูรณ์, เมืองปราจีนบุรี, ปราจีนบุรี<br>Latitude: 14.058928<br>Longitude: 101.395934<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"CCS2: 2x 75 kW
+Type2: CLOSED
+Parking","บางบริบูรณ์, เมืองปราจีนบุรี, ปราจีนบุรี",14.058928,101.395934,EA,"
+            101.395934,14.058928,0
+          "
+โชว์รูม โตโยต้าชัวร์ เมืองเพชร,"Hours: Peak<br>Power: 110 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 110 kW, 200A<br>Paring<br>Address: ท่ายาง, ท่ายาง, เพชรบุรี<br>Latitude: 12.996351<br>Longitude: 99.907608<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,110 kW,"Type2: 22 kW
+CCS2: 2x 110 kW, 200A
+Paring","ท่ายาง, ท่ายาง, เพชรบุรี",12.996351,99.907608,EA,"
+            99.907608,12.996351,0
+          "
+Siam Country Club Pattaya Old Course,"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 50 kW<br>Parking<br>Address: โป่ง, บางละมุง, ชลบุรี<br>Latitude: 12.916087<br>Longitude: 100.987972<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW
+CCS2: 2x 50 kW
+Parking","โป่ง, บางละมุง, ชลบุรี",12.916087,100.987972,EA,"
+            100.987972,12.916087,0
+          "
+ปั๊มน้ำมันสยามคันทรีคลับ พัทยา,"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 50 kW<br>Parking<br>Address: โป่ง, บางละมุง, ชลบุรี<br>Latitude: 12.91277<br>Longitude: 100.992656<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW
+CCS2: 2x 50 kW
+Parking","โป่ง, บางละมุง, ชลบุรี",12.91277,100.992656,EA,"
+            100.992656,12.91277,0
+          "
+คาลเท็กซ์ พัทยา-นาจอมเทียน,"Hours: 24 Hr<br>Power: 50 kW<br>Description: CCS2: 50 kW<br>Type2: CLOSED<br>Praking<br>Address: หนองปรือ, บางละมุง, ชลบุรี<br>Latitude: 12.832686<br>Longitude: 100.913753<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"CCS2: 50 kW
+Type2: CLOSED
+Praking","หนองปรือ, บางละมุง, ชลบุรี",12.832686,100.913753,EA,"
+            100.913753,12.832686,0
+          "
+โกลบอลเฮ้าส์ (ลพบุรี),"Hours: Peak<br>Power: 75 kW<br>Description: CCS2: 2x 75 kW<br>Type2: CLOSED<br>Parking<br>Address: นิคมสร้างตนเอง, เมืองลพบุรี, ลพบุรี<br>Latitude: 14.763305<br>Longitude: 100.716476<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"CCS2: 2x 75 kW
+Type2: CLOSED
+Parking","นิคมสร้างตนเอง, เมืองลพบุรี, ลพบุรี",14.763305,100.716476,EA,"
+            100.716476,14.763305,0
+          "
+ศิลามั่นคง ปิโตรเลียม ระยอง,"Hours: 24 Hr<br>Power: 50 kW<br>Description: CCS2: 2x 50 kW<br>Type2: CLOSED<br>Parking<br>Address: มะขามคู่, นิคมพัฒนา, ระยอง<br>Latitude: 12.841976<br>Longitude: 101.118928<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"CCS2: 2x 50 kW
+Type2: CLOSED
+Parking","มะขามคู่, นิคมพัฒนา, ระยอง",12.841976,101.118928,EA,"
+            101.118928,12.841976,0
+          "
+เกษราเบเกอรี่ (จ.สิงห์บุรี),"Hours: 24 Hr<br>Power: 20 kW<br>Description: CCS2: 20 kW<br>Type2: CLOSED<br>Parking<br>Address: พรหมบุรี, พรหมบุรี, สิงห์บุรี<br>Latitude: 14.853201<br>Longitude: 100.444044<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,20 kW,"CCS2: 20 kW
+Type2: CLOSED
+Parking","พรหมบุรี, พรหมบุรี, สิงห์บุรี",14.853201,100.444044,EA,"
+            100.444044,14.853201,0
+          "
+ESCAPE KHAO YAI HOTEL,"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type1: 22 kW<br>Type2: 22 kW<br>CCS2: 2x 50 kW<br>Parking<br>Address: พญาเย็น, ปากช่อง, นครราชสีมา<br>Latitude: 14.567057<br>Longitude: 101.296117<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type1: 22 kW
+Type2: 22 kW
+CCS2: 2x 50 kW
+Parking","พญาเย็น, ปากช่อง, นครราชสีมา",14.567057,101.296117,EA,"
+            101.296117,14.567057,0
+          "
+พลูตาหลวง-อู่ตะเภา,"Hours: Closed<br>Power: 75 kW<br>Description: CCS2: 75 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: พลูตาหลวง, สัตหีบ, ชลบุรี<br>Latitude: 12.695681<br>Longitude: 100.976415<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,75 kW,"CCS2: 75 kW, CLOSED
+Type2: CLOSED
+Parking","พลูตาหลวง, สัตหีบ, ชลบุรี",12.695681,100.976415,EA,"
+            100.976415,12.695681,0
+          "
+ร้านอาหารสวนสิริ อ.กลางดง จ.นครราชสีมา,"Hours: Closed<br>Power: 22 kW<br>Description: CCS2: CLOSED<br>Type2: 22 kW, CLOSED<br>Parking<br>Address: กลางดง, ปากช่อง, นครราชสีมา<br>Latitude: 14.644483<br>Longitude: 101.287503<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,22 kW,"CCS2: CLOSED
+Type2: 22 kW, CLOSED
+Parking","กลางดง, ปากช่อง, นครราชสีมา",14.644483,101.287503,EA,"
+            101.287503,14.644483,0
+          "
+โรงแรม เขาใหญ่ พาโนราม่า ฟาร์ม จำกัด (สำนักงานใหญ่),"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type1: 22 kW<br>Type2: 22 kW<br>CCS2: 2x 50 kW<br>Parking<br>Address: หนองน้ำแดง, ปากช่อง, นครราชสีมา<br>Latitude: 14.585561<br>Longitude: 101.401012<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type1: 22 kW
+Type2: 22 kW
+CCS2: 2x 50 kW
+Parking","หนองน้ำแดง, ปากช่อง, นครราชสีมา",14.585561,101.401012,EA,"
+            101.401012,14.585561,0
+          "
+FN Factory Outlet สาขาหัวหิน (HUA HIN),"Hours: Peak<br>Power: 75 kW<br>Description: Type2: 22 kW<br>Type1: 22 kW<br>CCS2: 2x 75 kW<br>FN Factory Outlet สาขาหัวหิน<br>Address: ชะอำ, ชะอำ, เพชรบุรี<br>Latitude: 12.66626<br>Longitude: 99.95199<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"Type2: 22 kW
+Type1: 22 kW
+CCS2: 2x 75 kW
+FN Factory Outlet สาขาหัวหิน","ชะอำ, ชะอำ, เพชรบุรี",12.66626,99.95199,EA,"
+            99.95199,12.66626,0
+          "
+ร้านคุณพราว,"Hours: Closed<br>Power: 50 kW<br>Description: CCS2: 50 kW, CLOSED<br>Type2: 22 kW, CLOSED<br>Parking<br>Address: ท่างาม, อินทร์บุรี, สิงห์บุรี<br>Latitude: 15.021624<br>Longitude: 100.339315<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,50 kW,"CCS2: 50 kW, CLOSED
+Type2: 22 kW, CLOSED
+Parking","ท่างาม, อินทร์บุรี, สิงห์บุรี",15.021624,100.339315,EA,"
+            100.339315,15.021624,0
+          "
+ไชยแสง ปิโตรเลียม จ.สิงห์บุรี,"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type1: 22 kW<br>Type2: 22 kW, CLOSED<br>CCS2: 2x 50 kW<br>Parking<br>Address: ท่างาม, อินทร์บุรี, สิงห์บุรี<br>Latitude: 15.033252<br>Longitude: 100.335272<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type1: 22 kW
+Type2: 22 kW, CLOSED
+CCS2: 2x 50 kW
+Parking","ท่างาม, อินทร์บุรี, สิงห์บุรี",15.033252,100.335272,EA,"
+            100.335272,15.033252,0
+          "
+ศูนย์การค้า แสงทอง พลัส จ.ระยอง,"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 50 kW<br>parking<br>Address: เนินพระ, เมืองระยอง, ระยอง<br>Latitude: 12.682672<br>Longitude: 101.264925<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW
+CCS2: 2x 50 kW
+parking","เนินพระ, เมืองระยอง, ระยอง",12.682672,101.264925,EA,"
+            101.264925,12.682672,0
+          "
+ตลาดสตาร์ระยอง (จ.ระยอง),"Hours: 24 Hr<br>Power: 50 kW<br>Description: CCS2: 2x 50 kW<br>Type2: 22 kW<br>Parking<br>Address: เนินพระ, เมืองระยอง, ระยอง<br>Latitude: 12.687207<br>Longitude: 101.272193<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"CCS2: 2x 50 kW
+Type2: 22 kW
+Parking","เนินพระ, เมืองระยอง, ระยอง",12.687207,101.272193,EA,"
+            101.272193,12.687207,0
+          "
+สตาร์ โฮเต็ล จ.ระยอง,"Hours: Closed<br>Power: 22 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: CLOSED<br>Parking<br>Address: ท่าประดู่, เมืองระยอง, ระยอง<br>Latitude: 12.686131<br>Longitude: 101.271089<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,22 kW,"Type2: 22 kW, CLOSED
+CCS2: CLOSED
+Parking","ท่าประดู่, เมืองระยอง, ระยอง",12.686131,101.271089,EA,"
+            101.271089,12.686131,0
+          "
+บ้านราชดำเนิน หัวหิน รีสอร์ท,"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 50 kW<br>Parking<br>Address: หัวหิน, หัวหิน, ประจวบคีรีขันธ์<br>Latitude: 12.557457<br>Longitude: 99.961173<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW
+CCS2: 2x 50 kW
+Parking","หัวหิน, หัวหิน, ประจวบคีรีขันธ์",12.557457,99.961173,EA,"
+            99.961173,12.557457,0
+          "
+บลูพอร์ต หัวหิน ซั้นG,"Hours: 24 Hr<br>Power: 35 kW<br>Description: CCS2: 2x 35 kW<br>Type2: 2x 22 kW<br>Parknig<br>Address: หนองแก, หัวหิน, ประจวบคีรีขันธ์<br>Latitude: 12.547687<br>Longitude: 99.962177<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,35 kW,"CCS2: 2x 35 kW
+Type2: 2x 22 kW
+Parknig","หนองแก, หัวหิน, ประจวบคีรีขันธ์",12.547687,99.962177,EA,"
+            99.962177,12.547687,0
+          "
+HOLIDAY INN HOTEL 2 (ด้านหลังอาคาร),"Hours: 24 Hr<br>Power: 75 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 75 kW<br>Type1: CLOSED<br>parking<br>Address: หนองแก, หัวหิน, ประจวบคีรีขันธ์<br>Latitude: 12.531887<br>Longitude: 99.963009<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"Type2: 22 kW
+CCS2: 2x 75 kW
+Type1: CLOSED
+parking","หนองแก, หัวหิน, ประจวบคีรีขันธ์",12.531887,99.963009,EA,"
+            99.963009,12.531887,0
+          "
+เฮฟเว่น แคว รีสอร์ท (ไทรโยค) จ.กาญจนบุรี,"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type1: 11 kW<br>Type2: 22 kW, CLOSED<br>CCS2: 2x 50 kW<br>Parking<br>Address: ลุ่มสุ่ม, ไทรโยค, กาญจนบุรี<br>Latitude: 14.111251<br>Longitude: 99.131227<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type1: 11 kW
+Type2: 22 kW, CLOSED
+CCS2: 2x 50 kW
+Parking","ลุ่มสุ่ม, ไทรโยค, กาญจนบุรี",14.111251,99.131227,EA,"
+            99.131227,14.111251,0
+          "
+เอสโซ่ สหกิจ ระยอง,"Hours: Closed<br>Power: 110 kW<br>Description: CCS2: 110 kW, 200A, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: กระแสบน, แกลง, ระยอง<br>Latitude: 12.837588<br>Longitude: 101.625606<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,110 kW,"CCS2: 110 kW, 200A, CLOSED
+Type2: CLOSED
+Parking","กระแสบน, แกลง, ระยอง",12.837588,101.625606,EA,"
+            101.625606,12.837588,0
+          "
+สุวรรณาริเวอร์ไซด์รีสอร์ท (จ.ชัยนาท),"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 50 kW<br>Parking<br>Address: บ้านกล้วย, เมืองชัยนาท, ชัยนาท<br>Latitude: 15.167415<br>Longitude: 100.134198<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW
+CCS2: 2x 50 kW
+Parking","บ้านกล้วย, เมืองชัยนาท, ชัยนาท",15.167415,100.134198,EA,"
+            100.134198,15.167415,0
+          "
+ECF (ระยอง),"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 2x 22 kW<br>CCS2: 2x 50 kW<br>parking<br>Address: ทางเกวียน, แกลง, ระยอง<br>Latitude: 12.800445<br>Longitude: 101.63971<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 2x 22 kW
+CCS2: 2x 50 kW
+parking","ทางเกวียน, แกลง, ระยอง",12.800445,101.63971,EA,"
+            101.63971,12.800445,0
+          "
+ชัยนาท รีสอร์ท จ.ชัยนาท,"Hours: 24 Hr<br>Power: 65 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 65 kW<br>parking<br>Address: เขาท่าพระ, เมืองชัยนาท, ชัยนาท<br>Latitude: 15.190431<br>Longitude: 100.131758<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,65 kW,"Type2: 22 kW
+CCS2: 2x 65 kW
+parking","เขาท่าพระ, เมืองชัยนาท, ชัยนาท",15.190431,100.131758,EA,"
+            100.131758,15.190431,0
+          "
+เลค เฮฟเว่น รีสอร์ท (จ.กาญจนบุรี),"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 50 kW<br>Parking<br>Address: ท่ากระดาน, ศรีสวัสดิ์, กาญจนบุรี<br>Latitude: 14.431049<br>Longitude: 99.127515<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW
+CCS2: 2x 50 kW
+Parking","ท่ากระดาน, ศรีสวัสดิ์, กาญจนบุรี",14.431049,99.127515,EA,"
+            99.127515,14.431049,0
+          "
+แฟนตาซี รีสอร์ท จ.ชัยนาท,"Hours: 24 Hr<br>Power: 58 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 58 kW<br>Parking<br>Address: บ้านกล้วย, เมืองชัยนาท, ชัยนาท<br>Latitude: 15.218229<br>Longitude: 100.168941<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,58 kW,"Type2: 22 kW
+CCS2: 2x 58 kW
+Parking","บ้านกล้วย, เมืองชัยนาท, ชัยนาท",15.218229,100.168941,EA,"
+            100.168941,15.218229,0
+          "
+ปั๊มแก๊ส ไทยแก๊สปิโตรเลี่ยม จำกัด (ปราณบุรี),"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW<br>CCS2: 50 kW<br>Parking<br>Address: เขาน้อย, ปราณบุรี, ประจวบคีรีขันธ์<br>Latitude: 12.378388<br>Longitude: 99.891013<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW
+CCS2: 50 kW
+Parking","เขาน้อย, ปราณบุรี, ประจวบคีรีขันธ์",12.378388,99.891013,EA,"
+            99.891013,12.378388,0
+          "
+ณัฐชนน ฟาร์ม รีสอร์ท จ.ชัยนาท,"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type1: 22 kW<br>Type2: 22 kW<br>CCS2: 2x 50 kW<br>Parking<br>Address: เขาท่าพระ, เมืองชัยนาท, ชัยนาท<br>Latitude: 15.217633<br>Longitude: 100.115591<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type1: 22 kW
+Type2: 22 kW
+CCS2: 2x 50 kW
+Parking","เขาท่าพระ, เมืองชัยนาท, ชัยนาท",15.217633,100.115591,EA,"
+            100.115591,15.217633,0
+          "
+มิตซูรัตนหิรัญ,"Hours: 24 Hr<br>Power: 50 kW<br>Description: CCS2: 2x 50 kW<br>Type2: CLOSED<br>Parking<br>Address: พลับพลา, โชคชัย, นครราชสีมา<br>Latitude: 14.7383<br>Longitude: 102.136234<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"CCS2: 2x 50 kW
+Type2: CLOSED
+Parking","พลับพลา, โชคชัย, นครราชสีมา",14.7383,102.136234,EA,"
+            102.136234,14.7383,0
+          "
+MG Chanthaburi,"Hours: Peak<br>Power: 40 kW<br>Description: CCS2: 2x 40 kW<br>Type2: CLOSED<br>Parking<br>Address: ท่าช้าง, เมืองจันทบุรี, จันทบุรี<br>Latitude: 12.620122<br>Longitude: 102.104563<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,40 kW,"CCS2: 2x 40 kW
+Type2: CLOSED
+Parking","ท่าช้าง, เมืองจันทบุรี, จันทบุรี",12.620122,102.104563,EA,"
+            102.104563,12.620122,0
+          "
+ดูโฮม สาขานครราชสีมา,"Hours: Peak<br>Power: 75 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 75 kW<br>Parking<br>Address: หนองบัวศาลา, เมืองนครราชสีมา, นครราชสีมา<br>Latitude: 14.933957<br>Longitude: 102.137269<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"Type2: 22 kW
+CCS2: 2x 75 kW
+Parking","หนองบัวศาลา, เมืองนครราชสีมา, นครราชสีมา",14.933957,102.137269,EA,"
+            102.137269,14.933957,0
+          "
+โรงแรม บ้านสวนรีสอร์ท (จ.นครสรรค์),"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW<br>Type1: 22 kW<br>CCS2: 2x 50 kW<br>Parking<br>Address: นครสวรรค์ตก, เมืองนครสวรรค์, นครสวรรค์<br>Latitude: 15.697618<br>Longitude: 100.119573<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW
+Type1: 22 kW
+CCS2: 2x 50 kW
+Parking","นครสวรรค์ตก, เมืองนครสวรรค์, นครสวรรค์",15.697618,100.119573,EA,"
+            100.119573,15.697618,0
+          "
+ร้านอาหาร กุ้งเผา2 น้ำปิงรีสอร์ท จ.นครสวรรค์,"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: CLOSED<br>Type1: CLOSED<br>CCS2: 50 kW<br>Parking<br>Address: บ้านมะเกลือ, เมืองนครสวรรค์, นครสวรรค์<br>Latitude: 15.730931<br>Longitude: 100.115442<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: CLOSED
+Type1: CLOSED
+CCS2: 50 kW
+Parking","บ้านมะเกลือ, เมืองนครสวรรค์, นครสวรรค์",15.730931,100.115442,EA,"
+            100.115442,15.730931,0
+          "
+โกลบอลเฮ้าส์ (นครราชสีมา),"Hours: 24 Hr<br>Power: 100 kW<br>Description: CCS2: 2x 100 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บ้านเกาะ, เมืองนครราชสีมา, นครราชสีมา<br>Latitude: 15.008553<br>Longitude: 102.124686<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,100 kW,"CCS2: 2x 100 kW, 200A
+Type2: CLOSED
+Parking","บ้านเกาะ, เมืองนครราชสีมา, นครราชสีมา",15.008553,102.124686,EA,"
+            102.124686,15.008553,0
+          "
+ปั้มแก๊ส เกษตรพัฒนา 1993 (จ.นครสวรรค์),"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: 2x 50 kW<br>Parking<br>Address: นครสวรรค์ตก, เมืองนครสวรรค์, นครสวรรค์<br>Latitude: 15.775353<br>Longitude: 100.121294<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW, CLOSED
+CCS2: 2x 50 kW
+Parking","นครสวรรค์ตก, เมืองนครสวรรค์, นครสวรรค์",15.775353,100.121294,EA,"
+            100.121294,15.775353,0
+          "
+MG ไฮเทค ทีแอนด์เอ็น จำกัด (นางรอง),"Hours: Peak<br>Power: 50 kW<br>Description: CCS2: 2x 50 kW<br>Type2: CLOSED<br>Parking<br>Address: ถนนหัก, นางรอง, บุรีรัมย์<br>Latitude: 14.631931<br>Longitude: 102.816796<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,50 kW,"CCS2: 2x 50 kW
+Type2: CLOSED
+Parking","ถนนหัก, นางรอง, บุรีรัมย์",14.631931,102.816796,EA,"
+            102.816796,14.631931,0
+          "
+โรบินสัน ชัยภูมิ,"Hours: Peak<br>Power: 75 kW<br>Description: CCS2: 2x 75 kW<br>Type2: CLOSED<br>Paring<br>Address: ในเมือง, เมืองชัยภูมิ, ชัยภูมิ<br>Latitude: 15.788194<br>Longitude: 102.032721<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"CCS2: 2x 75 kW
+Type2: CLOSED
+Paring","ในเมือง, เมืองชัยภูมิ, ชัยภูมิ",15.788194,102.032721,EA,"
+            102.032721,15.788194,0
+          "
+MG ไฮเทค ทีแอนด์เอ็น จำกัด (บุรีรัมย์),"Hours: Peak<br>Power: 100 kW<br>Description: CCS2: 2x 100 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: กระสัง, เมืองบุรีรัมย์, บุรีรัมย์<br>Latitude: 14.967098<br>Longitude: 103.059429<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,100 kW,"CCS2: 2x 100 kW, 200A
+Type2: CLOSED
+Parking","กระสัง, เมืองบุรีรัมย์, บุรีรัมย์",14.967098,103.059429,EA,"
+            103.059429,14.967098,0
+          "
+โรบินสัน บุรีรัมย์,"Hours: Peak<br>Power: 75 kW<br>Description: CCS2: 2x 75 kW<br>Type2: CLOSED<br>Parking<br>Address: กระสัง, เมืองบุรีรัมย์, บุรีรัมย์<br>Latitude: 14.973103<br>Longitude: 103.064246<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"CCS2: 2x 75 kW
+Type2: CLOSED
+Parking","กระสัง, เมืองบุรีรัมย์, บุรีรัมย์",14.973103,103.064246,EA,"
+            103.064246,14.973103,0
+          "
+MG กำแพงเพชร,"Hours: Closed<br>Power: 50 kW<br>Description: CCS2: 50 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: นครชุม, เมืองกำแพงเพชร, กำแพงเพชร<br>Latitude: 16.438343<br>Longitude: 99.510322<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,50 kW,"CCS2: 50 kW, CLOSED
+Type2: CLOSED
+Parking","นครชุม, เมืองกำแพงเพชร, กำแพงเพชร",16.438343,99.510322,EA,"
+            99.510322,16.438343,0
+          "
+โรบินสัน กำแพงเพชร,"Hours: Peak<br>Power: 22 kW<br>Description: Type2: 22 kW<br>CCS2: CLOSED<br>Parking<br>Address: ในเมือง, เมืองกำแพงเพชร, กำแพงเพชร<br>Latitude: 16.476111<br>Longitude: 99.549222<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,22 kW,"Type2: 22 kW
+CCS2: CLOSED
+Parking","ในเมือง, เมืองกำแพงเพชร, กำแพงเพชร",16.476111,99.549222,EA,"
+            99.549222,16.476111,0
+          "
+พิษณุโลกแดนพรีท (Solar Rest Station),"Hours: 24 Hr<br>Power: 40 kW<br>Description: Type2: 3x 22 kW<br>CCS2: 2x 40 kW<br>Parking<br>Address: สมอแข, เมืองพิษณุโลก, พิษณุโลก<br>Latitude: 16.849142<br>Longitude: 100.338223<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,40 kW,"Type2: 3x 22 kW
+CCS2: 2x 40 kW
+Parking","สมอแข, เมืองพิษณุโลก, พิษณุโลก",16.849142,100.338223,EA,"
+            100.338223,16.849142,0
+          "
+โรบินสัน สุรินทร์,"Hours: Peak<br>Power: 75 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 75 kW<br>Parking<br>Address: สลักได, เมืองสุรินทร์, สุรินทร์<br>Latitude: 14.876193<br>Longitude: 103.531895<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"Type2: 22 kW
+CCS2: 2x 75 kW
+Parking","สลักได, เมืองสุรินทร์, สุรินทร์",14.876193,103.531895,EA,"
+            103.531895,14.876193,0
+          "
+โกลบอลเฮ้าส์ สุโขทัย,"Hours: Peak<br>Power: 100 kW<br>Description: CCS2: 100 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: บ้านกล้วย, เมืองสุโขทัย, สุโขทัย<br>Latitude: 17.009002<br>Longitude: 99.770365<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,100 kW,"CCS2: 100 kW, 200A
+Type2: CLOSED
+Parking","บ้านกล้วย, เมืองสุโขทัย, สุโขทัย",17.009002,99.770365,EA,"
+            99.770365,17.009002,0
+          "
+โรบินสัน แม่สอด,"Hours: Peak<br>Power: 75 kW<br>Description: CCS2: 75 kW, CLOSED<br>Type2: 22 kW<br>Parking<br>Address: แม่สอด, แม่สอด, ตาก<br>Latitude: 16.722565<br>Longitude: 98.583574<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"CCS2: 75 kW, CLOSED
+Type2: 22 kW
+Parking","แม่สอด, แม่สอด, ตาก",16.722565,98.583574,EA,"
+            98.583574,16.722565,0
+          "
+MG อารีมิตร (มหาสารคาม),"Hours: 24 Hr<br>Power: 135 kW<br>Description: CCS2: 2x 135 kW, 200A<br>Type2: CLOSED<br>PARKING<br>Address: แก่งเลิงจาน, เมืองมหาสารคาม, มหาสารคาม<br>Latitude: 16.167094<br>Longitude: 103.282363<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,135 kW,"CCS2: 2x 135 kW, 200A
+Type2: CLOSED
+PARKING","แก่งเลิงจาน, เมืองมหาสารคาม, มหาสารคาม",16.167094,103.282363,EA,"
+            103.282363,16.167094,0
+          "
+โรบินสัน ร้อยเอ็ด,"Hours: Peak<br>Power: 100 kW<br>Description: CCS2: 100 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: ดงลาน, เมืองร้อยเอ็ด, ร้อยเอ็ด<br>Latitude: 16.060749<br>Longitude: 103.617304<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,100 kW,"CCS2: 100 kW, 200A
+Type2: CLOSED
+Parking","ดงลาน, เมืองร้อยเอ็ด, ร้อยเอ็ด",16.060749,103.617304,EA,"
+            103.617304,16.060749,0
+          "
+Global house อุตรดิตถ์,"Hours: Peak<br>Power: 75 kW<br>Description: CCS2: 75 kW<br>Type2: CLOSED<br>Parking<br>Address: ป่าเซ่า, เมืองอุตรดิตถ์, อุตรดิตถ์<br>Latitude: 17.611077<br>Longitude: 100.129759<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"CCS2: 75 kW
+Type2: CLOSED
+Parking","ป่าเซ่า, เมืองอุตรดิตถ์, อุตรดิตถ์",17.611077,100.129759,EA,"
+            100.129759,17.611077,0
+          "
+MG ร่วมใจMGเมืองเลย,"Hours: Closed<br>Power: 50 kW<br>Description: CCS2: 50 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: กุดป่อง, เมืองเลย, เลย<br>Latitude: 17.47328<br>Longitude: 101.724767<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,50 kW,"CCS2: 50 kW, CLOSED
+Type2: CLOSED
+Parking","กุดป่อง, เมืองเลย, เลย",17.47328,101.724767,EA,"
+            101.724767,17.47328,0
+          "
+MG ร่วมใจMGหนองบัวลำภู,"Hours: Closed<br>Power: 50 kW<br>Description: CCS2: 50 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: หนองภัยศูนย์, เมืองหนองบัวลำภู, หนองบัวลำภู<br>Latitude: 17.234447<br>Longitude: 102.398653<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,50 kW,"CCS2: 50 kW, CLOSED
+Type2: CLOSED
+Parking","หนองภัยศูนย์, เมืองหนองบัวลำภู, หนองบัวลำภู",17.234447,102.398653,EA,"
+            102.398653,17.234447,0
+          "
+เพทโทรล พลัส (จ.ศรีสะเกษ),"Hours: Peak<br>Power: 50 kW<br>Description: CCS2: 2x 50 kW<br>Type2: CLOSED<br>Parking<br>Address: โพนเขวา, เมืองศรีสะเกษ, ศรีสะเกษ<br>Latitude: 15.099109<br>Longitude: 104.459167<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,50 kW,"CCS2: 2x 50 kW
+Type2: CLOSED
+Parking","โพนเขวา, เมืองศรีสะเกษ, ศรีสะเกษ",15.099109,104.459167,EA,"
+            104.459167,15.099109,0
+          "
+MG อุดรธานี,"Hours: Closed<br>Power: 50 kW<br>Description: CCS2: 50 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: บ้านจั่น, เมืองอุดรธานี, อุดรธานี<br>Latitude: 17.331154<br>Longitude: 102.839093<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,50 kW,"CCS2: 50 kW, CLOSED
+Type2: CLOSED
+Parking","บ้านจั่น, เมืองอุดรธานี, อุดรธานี",17.331154,102.839093,EA,"
+            102.839093,17.331154,0
+          "
+โชว์รูมเกียร์ จ.อุดรธานี,"Hours: Closed<br>Power: 75 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: 75 kW, CLOSED<br>Parking<br>Address: หมากแข้ง, เมืองอุดรธานี, อุดรธานี<br>Latitude: 17.36863<br>Longitude: 102.813749<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,75 kW,"Type2: 22 kW, CLOSED
+CCS2: 75 kW, CLOSED
+Parking","หมากแข้ง, เมืองอุดรธานี, อุดรธานี",17.36863,102.813749,EA,"
+            102.813749,17.36863,0
+          "
+Global house แพร่,"Hours: Closed<br>Power: 0 kW<br>Description: CCS2: CLOSED<br>Type2: CLOSED<br>Parking<br>Address: ร่องกาศ, สูงเม่น, แพร่<br>Latitude: 18.107636<br>Longitude: 100.137151<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,0 kW,"CCS2: CLOSED
+Type2: CLOSED
+Parking","ร่องกาศ, สูงเม่น, แพร่",18.107636,100.137151,EA,"
+            100.137151,18.107636,0
+          "
+MG เอ็มทู มอเตอร์สปอร์ต (จ.อุบลราชธานี),"Hours: 24 Hr<br>Power: 50 kW<br>Description: CCS2: 2x 50 kW<br>Type2: CLOSED<br>Parking<br>Address: หนองกินเพล, วารินชำราบ, อุบลราชธานี<br>Latitude: 15.183089<br>Longitude: 104.8081<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"CCS2: 2x 50 kW
+Type2: CLOSED
+Parking","หนองกินเพล, วารินชำราบ, อุบลราชธานี",15.183089,104.8081,EA,"
+            104.8081,15.183089,0
+          "
+โกลบอลเฮ้าส์ (อุบลราชธานี),"Hours: Closed<br>Power: 75 kW<br>Description: CCS2: 75 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: โนนผึ้ง, วารินชำราบ, อุบลราชธานี<br>Latitude: 15.180998<br>Longitude: 104.825283<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,75 kW,"CCS2: 75 kW, CLOSED
+Type2: CLOSED
+Parking","โนนผึ้ง, วารินชำราบ, อุบลราชธานี",15.180998,104.825283,EA,"
+            104.825283,15.180998,0
+          "
+Ubon Square (บ.เจริญพัฒนาอาเขต จำกัด),"Hours: 24 Hr<br>Power: 50 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: 2x 50 kW<br>Parking<br>Address: ในเมือง, เมืองอุบลราชธานี, อุบลราชธานี<br>Latitude: 15.270113<br>Longitude: 104.842517<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"Type2: 22 kW, CLOSED
+CCS2: 2x 50 kW
+Parking","ในเมือง, เมืองอุบลราชธานี, อุบลราชธานี",15.270113,104.842517,EA,"
+            104.842517,15.270113,0
+          "
+MGดีเลิศ ออโต้คาร์ (จ.อำนาจเจริญ),"Hours: Closed<br>Power: 50 kW<br>Description: CCS2: 50 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: ไก่คำ, เมืองอำนาจเจริญ, อำนาจเจริญ<br>Latitude: 15.79754<br>Longitude: 104.633502<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,50 kW,"CCS2: 50 kW, CLOSED
+Type2: CLOSED
+Parking","ไก่คำ, เมืองอำนาจเจริญ, อำนาจเจริญ",15.79754,104.633502,EA,"
+            104.633502,15.79754,0
+          "
+ปั๊มน้ำมัน มิตรดีเซล จำกัด จ.ลำปาง,"Hours: Closed<br>Power: 50 kW<br>Description: Type2: 22 kW, CLOSED<br>CCS2: 50 kW, CLOSED<br>Parking<br>Address: สบตุ๋ย, เมืองลำปาง, ลำปาง<br>Latitude: 18.234161<br>Longitude: 99.434418<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,50 kW,"Type2: 22 kW, CLOSED
+CCS2: 50 kW, CLOSED
+Parking","สบตุ๋ย, เมืองลำปาง, ลำปาง",18.234161,99.434418,EA,"
+            99.434418,18.234161,0
+          "
+ถ่านเมืองน่าน (จ.น่าน),"Hours: 24 Hr<br>Power: 40 kW<br>Description: Type2: 22 kW<br>CCS2: 2x 40 kW<br>Parking<br>Address: น้ำปั้ว, เวียงสา, น่าน<br>Latitude: 18.625593<br>Longitude: 100.739505<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,40 kW,"Type2: 22 kW
+CCS2: 2x 40 kW
+Parking","น้ำปั้ว, เวียงสา, น่าน",18.625593,100.739505,EA,"
+            100.739505,18.625593,0
+          "
+MG พิจิตรเพชรมุกดาหาร,"Hours: Closed<br>Power: 75 kW<br>Description: CCS2: 75 kW, CLOSED<br>Type2: CLOSED<br>Parking<br>Address: มุกดาหาร, เมืองมุกดาหาร, มุกดาหาร<br>Latitude: 16.565567<br>Longitude: 104.720092<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,75 kW,"CCS2: 75 kW, CLOSED
+Type2: CLOSED
+Parking","มุกดาหาร, เมืองมุกดาหาร, มุกดาหาร",16.565567,104.720092,EA,"
+            104.720092,16.565567,0
+          "
+โรบินสัน มุกดาหาร,"Hours: Peak<br>Power: 75 kW<br>Description: Type2: 22 kW<br>CCS2: 75 kW, CLOSED<br>Parking<br>Address: มุกดาหาร, เมืองมุกดาหาร, มุกดาหาร<br>Latitude: 16.568231<br>Longitude: 104.718869<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,75 kW,"Type2: 22 kW
+CCS2: 75 kW, CLOSED
+Parking","มุกดาหาร, เมืองมุกดาหาร, มุกดาหาร",16.568231,104.718869,EA,"
+            104.718869,16.568231,0
+          "
+ฟอร์ตี้ ไนน์,"Hours: 24 Hr<br>Power: 50 kW<br>Description: CCS2: 2x 50 kW<br>Type2: CLOSED<br>Parking<br>Address: หนองควาย, หางดง, เชียงใหม่<br>Latitude: 18.740252<br>Longitude: 98.93572<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,50 kW,"CCS2: 2x 50 kW
+Type2: CLOSED
+Parking","หนองควาย, หางดง, เชียงใหม่",18.740252,98.93572,EA,"
+            98.93572,18.740252,0
+          "
+คาลเท็กซ์ เอ็ม เอ็นเนอร์จี้,"Hours: 24 Hr<br>Power: 40 kW<br>Description: CCS2: 2x 40 kW<br>Type2: CLOSED<br>Parking<br>Address: สันกลาง, สันกำแพง, เชียงใหม่<br>Latitude: 18.778977<br>Longitude: 99.06931<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,40 kW,"CCS2: 2x 40 kW
+Type2: CLOSED
+Parking","สันกลาง, สันกำแพง, เชียงใหม่",18.778977,99.06931,EA,"
+            99.06931,18.778977,0
+          "
+มายฮิป คอนโด 2 (เชียงใหม่),"Hours: Peak<br>Power: 100 kW<br>Description: CCS2: 2x 100 kW, 200A<br>Type2: CLOSED<br>Parking<br>Address: หนองป่าครั่ง, เมืองเชียงใหม่, เชียงใหม่<br>Latitude: 18.800042<br>Longitude: 99.024041<br>Provider: EA",#icon-1899-DB4436-labelson,Peak,100 kW,"CCS2: 2x 100 kW, 200A
+Type2: CLOSED
+Parking","หนองป่าครั่ง, เมืองเชียงใหม่, เชียงใหม่",18.800042,99.024041,EA,"
+            99.024041,18.800042,0
+          "
+MG รวมกิจ (นครพนม),"Hours: Closed<br>Power: 50 kW<br>Description: CCS2: 50 kW, CLOSED<br>Type1: CLOSED<br>Parking<br>Address: หนองญาติ, เมืองนครพนม, นครพนม<br>Latitude: 17.383532<br>Longitude: 104.773257<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,50 kW,"CCS2: 50 kW, CLOSED
+Type1: CLOSED
+Parking","หนองญาติ, เมืองนครพนม, นครพนม",17.383532,104.773257,EA,"
+            104.773257,17.383532,0
+          "
+หาดกังหัน (HKH),"Hours: 24 Hr<br>Power: 40 kW<br>Description: CCS2: 2x 40 kW<br>Parking<br>Address: หน้าสตน, หัวไทร, นครศรีธรรมราช<br>Latitude: 7.9867<br>Longitude: 100.32438<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,40 kW,"CCS2: 2x 40 kW
+Parking","หน้าสตน, หัวไทร, นครศรีธรรมราช",7.9867,100.32438,EA,"
+            100.32438,7.9867,0
+          "
+พีชลากูน่า รีสอร์ท จ.กระบี่,"Hours: 24 Hr<br>Power: 22 kW<br>Description: Type2: 22 kW<br>CCS2: CLOSED<br>parking<br>Address: อ่าวนาง, เมืองกระบี่, กระบี่<br>Latitude: 8.031277<br>Longitude: 98.825052<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,22 kW,"Type2: 22 kW
+CCS2: CLOSED
+parking","อ่าวนาง, เมืองกระบี่, กระบี่",8.031277,98.825052,EA,"
+            98.825052,8.031277,0
+          "
+อินเตอร์คอนติเนตัล ภูเก็ต,"Hours: 24 Hr<br>Power: 75 kW<br>Description: Type2: 4x 11 kW<br>CCS2: 75 kW, CLOSED<br>Parking<br>Address: กมลา, กะทู้, ภูเก็ต<br>Latitude: 7.962614<br>Longitude: 98.284893<br>Provider: EA",#icon-1899-DB4436-labelson,24 Hr,75 kW,"Type2: 4x 11 kW
+CCS2: 75 kW, CLOSED
+Parking","กมลา, กะทู้, ภูเก็ต",7.962614,98.284893,EA,"
+            98.284893,7.962614,0
+          "
+E-TRUCK บ่อดิน (Station1),"Hours: Closed<br>Power: 180 kW<br>Description: CCS2: 180 kW, 200A, CLOSED<br>Parking<br>Address: หนองปรือ, พนัสนิคม, ชลบุรี<br>Latitude: 13.528291<br>Longitude: 101.256126<br>Provider: EA",#icon-1899-DB4436-labelson,Closed,180 kW,"CCS2: 180 kW, 200A, CLOSED
+Parking","หนองปรือ, พนัสนิคม, ชลบุรี",13.528291,101.256126,EA,"
+            101.256126,13.528291,0
+          "

@@ -1,0 +1,406 @@
+Name,Description,styleUrl,Power,Dealership,ChargeCoreDescription,Address,Latitude,Longitude,Provider,Coordinates
+MG เบส ออโต้ เซลส์ (สาขาพัทยา),Power: <br>Dealership: Dealership<br>Description: <br>Address: 365 หมู่ที่ 3 ตำบลนาจอมเทียน อำเภอสัตหีบ จังหวัดชลบุรี 20250<br>Latitude: 12.793603<br>Longitude: 100.917452<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,365 หมู่ที่ 3 ตำบลนาจอมเทียน อำเภอสัตหีบ จังหวัดชลบุรี 20250,12.793603,100.917452,MG,"
+            100.917452,12.793603,0
+          "
+MG เซควอญ่า,Power: <br>Dealership: Dealership<br>Description: <br>Address: 599 ถนนรามอินทรา แขวงคันนายาว เขตคันนายาว กรุงเทพฯ 10230<br>Latitude: 13.822372<br>Longitude: 100.679676<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,599 ถนนรามอินทรา แขวงคันนายาว เขตคันนายาว กรุงเทพฯ 10230,13.822372,100.679676,MG,"
+            100.679676,13.822372,0
+          "
+MG เบส ออโต้ เซลส์ (สาขาแม่โจ้),Power: <br>Dealership: Dealership<br>Description: <br>Address: 555 หมู่ที่ 6 ตำบลหนองจ๊อม อำเภอสันทราย จังหวัดเชียงใหม่ 50210<br>Latitude: 18.85216318<br>Longitude: 99.01422188<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,555 หมู่ที่ 6 ตำบลหนองจ๊อม อำเภอสันทราย จังหวัดเชียงใหม่ 50210,18.85216318,99.01422188,MG,"
+            99.01422188,18.85216318,0
+          "
+MG เบส ออโต้ เซลส์ (สาขาชลบุรี),Power: <br>Dealership: Dealership<br>Description: <br>Address: 191 หมู่ที่ 3 ถนนบายพาส ตำบลบ้านสวน อำเภอเมือง จังหวัดชลบุรี 20000<br>Latitude: 13.3313469<br>Longitude: 100.9817888<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,191 หมู่ที่ 3 ถนนบายพาส ตำบลบ้านสวน อำเภอเมือง จังหวัดชลบุรี 20000,13.3313469,100.9817888,MG,"
+            100.9817888,13.3313469,0
+          "
+MG พรีเมียร์ ออโต้ โมบิล (สาขากาญจนบุรี),Power: <br>Dealership: Dealership<br>Description: <br>Address: 65/7 ถนนแสงชูโต ตำบลท่าล้อ อำเภอท่าม่วง จังหวัดกาญจนบุรี 71110<br>Latitude: 13.9946842<br>Longitude: 99.5594613<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,65/7 ถนนแสงชูโต ตำบลท่าล้อ อำเภอท่าม่วง จังหวัดกาญจนบุรี 71110,13.9946842,99.5594613,MG,"
+            99.5594613,13.9946842,0
+          "
+MG ลักซูรี่ ทุ่งสง,Power: <br>Dealership: Dealership<br>Description: <br>Address: อำเภอทุ่งสง จังหวัดนครศรีธรรมราช<br>Latitude: 8.172660<br>Longitude: 99.640620<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,อำเภอทุ่งสง จังหวัดนครศรีธรรมราช,8.172660,99.640620,MG,"
+            99.64062,8.17266,0
+          "
+MG อนันตภัณฑ์ ออโตเซลส์,Power: <br>Dealership: Dealership<br>Description: <br>Address: 409 หมู่ที่ 3 ตำบลบ้านเกาะ อำเภอเมืองนครราชสีมา จังหวัดนครราชสีมา 30000<br>Latitude: 15.010854<br>Longitude: 102.12567<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,409 หมู่ที่ 3 ตำบลบ้านเกาะ อำเภอเมืองนครราชสีมา จังหวัดนครราชสีมา 30000,15.010854,102.12567,MG,"
+            102.12567,15.010854,0
+          "
+MG อนันตภัณฑ์ ออโตเซลส์ (สาขาโชคชัย),Power: <br>Dealership: Dealership<br>Description: <br>Address: 298/1 หมู่ที่2 ถนนโชคชัย-เดชอุดม ตำบลโชคชัย อำเภอโชคชัย จังหวัดนครราชสีมา 30190<br>Latitude: 14.7440258<br>Longitude: 102.1912126<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,298/1 หมู่ที่2 ถนนโชคชัย-เดชอุดม ตำบลโชคชัย อำเภอโชคชัย จังหวัดนครราชสีมา 30190,14.7440258,102.1912126,MG,"
+            102.1912126,14.7440258,0
+          "
+วีจี คาร์ (สาขานครสวรรค์),Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 1351/2 หมู่ 10 ถนนนครสวรรค์-พิษณุโลก ตำบลนครสวรรค์ตก อำเภอเมือง จังหวัด นครสวรรค์ 60000<br>Latitude: 15.700716<br>Longitude: 100.12101<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,1351/2 หมู่ 10 ถนนนครสวรรค์-พิษณุโลก ตำบลนครสวรรค์ตก อำเภอเมือง จังหวัด นครสวรรค์ 60000,15.700716,100.12101,MG,"
+            100.12101,15.700716,0
+          "
+MG ส. อรุณ ออโต้โมบิล,Power: <br>Dealership: Dealership<br>Description: <br>Address: 67/3 หมู่ที่ 7 ถนนพหลโยธิน ตำบลกลางแดด อำเภอเมืองนครสวรรค์ จังหวัดนครสวรรค์ 60000<br>Latitude: 15.64005<br>Longitude: 100.13326<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,67/3 หมู่ที่ 7 ถนนพหลโยธิน ตำบลกลางแดด อำเภอเมืองนครสวรรค์ จังหวัดนครสวรรค์ 60000,15.64005,100.13326,MG,"
+            100.13326,15.64005,0
+          "
+MG ลักซูรี่ หาดใหญ่ (สาขาพังงา),Power: <br>Dealership: Dealership<br>Description: <br>Address: 4/3 หมู่10 ตำบลโคกกลอย อำเภอตะกั่วทุ่ง จังหวัดพังงา 82130<br>Latitude: 8.284749<br>Longitude: 98.306063<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,4/3 หมู่10 ตำบลโคกกลอย อำเภอตะกั่วทุ่ง จังหวัดพังงา 82130,8.284749,98.306063,MG,"
+            98.306063,8.284749,0
+          "
+MG พัทลุง,Power: <br>Dealership: Dealership<br>Description: <br>Address: 60 หมู่ที่ 7 ตำบลแพรกหา อำเภอควนขนุน จังหวัดพัทลุง 93110<br>Latitude: 7.646118<br>Longitude: 100.036108<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,60 หมู่ที่ 7 ตำบลแพรกหา อำเภอควนขนุน จังหวัดพัทลุง 93110,7.646118,100.036108,MG,"
+            100.036108,7.646118,0
+          "
+MG ห้างหุ้นส่วน มิตรศิลป์ ออโต้,Power: <br>Dealership: Dealership<br>Description: <br>Address: 129 หมู่2 ตำบลบ้านโตก อำเภอเมือง จังหวัดเพชรบูรณ์ 67000<br>Latitude: 16.3669820808213<br>Longitude: 101.109222653743<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,129 หมู่2 ตำบลบ้านโตก อำเภอเมือง จังหวัดเพชรบูรณ์ 67000,16.3669820808213,101.109222653743,MG,"
+            101.109222653743,16.3669820808213,0
+          "
+วีจี คาร์ (สาขาพิษณุโลก),Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 273/5-6-7 ถนนพิชัยสงคราม  ตำบลในเมือง อำเภอเมือง จังหวัดพิษณุโลก 65000<br>Latitude: 16.815393<br>Longitude: 100.284608<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,273/5-6-7 ถนนพิชัยสงคราม  ตำบลในเมือง อำเภอเมือง จังหวัดพิษณุโลก 65000,16.815393,100.284608,MG,"
+            100.284608,16.815393,0
+          "
+MG แพร่ (2019),Power: <br>Dealership: Dealership<br>Description: <br>Address: 173 หมู่ที่ 7 บ้านสองแคว ถนนยันตรกิจโกศล ตำบล ป่าแมต อำเภอเมืองแพร่ จังหวัดแพร่ 54000<br>Latitude: 18.1203095<br>Longitude: 100.1402213<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,173 หมู่ที่ 7 บ้านสองแคว ถนนยันตรกิจโกศล ตำบล ป่าแมต อำเภอเมืองแพร่ จังหวัดแพร่ 54000,18.1203095,100.1402213,MG,"
+            100.1402213,18.1203095,0
+          "
+MG ลักซูรี่ หาดใหญ่ (สาขาภูเก็ต),Power: <br>Dealership: Dealership<br>Description: <br>Address: 108/2 หมู่5 ตำบลรัษฎา อำเภอเมือง จังหวัดภูเก็ต 83000<br>Latitude: 7.917943<br>Longitude: 98.369011<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,108/2 หมู่5 ตำบลรัษฎา อำเภอเมือง จังหวัดภูเก็ต 83000,7.917943,98.369011,MG,"
+            98.369011,7.917943,0
+          "
+MG ดีไลท์,Power: <br>Dealership: Dealership<br>Description: <br>Address: 22/9 หมู่ที่ 4 ตำบลทับมา อำเภอเมืองระยอง จังหวัดระยอง 21000<br>Latitude: 12.7044203<br>Longitude: 101.2432298<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,22/9 หมู่ที่ 4 ตำบลทับมา อำเภอเมืองระยอง จังหวัดระยอง 21000,12.7044203,101.2432298,MG,"
+            101.2432298,12.7044203,0
+          "
+MG บีเคเค ยูไนเต็ด สระแก้ว,Power: <br>Dealership: Dealership<br>Description: <br>Address: 362  ถนนสุวรรณศร ตำบลสระแก้ว อำเภอเมือง จังหวัดสระแก้ว 27000<br>Latitude: 13.8089138884709<br>Longitude: 102.0804<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,362  ถนนสุวรรณศร ตำบลสระแก้ว อำเภอเมือง จังหวัดสระแก้ว 27000,13.8089138884709,102.0804,MG,"
+            102.0804,13.8089138884709,0
+          "
+MG วัชรเซลส์ แอนด์ เซอร์วิส,Power: <br>Dealership: Dealership<br>Description: <br>Address: 111 หมู่ 10 ตำบลหนองยาว อำเภอเมือง จังหวัดสระบุรี 18000<br>Latitude: 14.4810270517831<br>Longitude: 100.912035119649<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,111 หมู่ 10 ตำบลหนองยาว อำเภอเมือง จังหวัดสระบุรี 18000,14.4810270517831,100.912035119649,MG,"
+            100.912035119649,14.4810270517831,0
+          "
+MG คิงส์คชา,"Power: <br>Dealership: Dealership<br>Description: <br>Address: 1030,1030/1-2  หมู่ที่ 4 ตำบลคลองขุด อำเภอเมือง จังหวัดสตูล 91000<br>Latitude: 6.646659<br>Longitude: 100.074723<br>Provider: MG",#icon-1899-DB4436-labelson,,Dealership,,"1030,1030/1-2  หมู่ที่ 4 ตำบลคลองขุด อำเภอเมือง จังหวัดสตูล 91000",6.646659,100.074723,MG,"
+            100.074723,6.646659,0
+          "
+MG ที ออโต้,Power: <br>Dealership: Dealership<br>Description: <br>Address: 93 หมู่ที่ 4 ตำบลบางมัญ อำเภอเมืองสิงห์บุรี จังหวัดสิงห์บุรี 16000<br>Latitude: 14.924654<br>Longitude: 100.397961<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,93 หมู่ที่ 4 ตำบลบางมัญ อำเภอเมืองสิงห์บุรี จังหวัดสิงห์บุรี 16000,14.924654,100.397961,MG,"
+            100.397961,14.924654,0
+          "
+MG ลักซูรี่หาดใหญ่ (สำนักงานใหญ่),Power: <br>Dealership: Dealership<br>Description: <br>Address: 88 หมู่ที่ 7 ตำบลท่าช้าง อำเภอบางกล่ำ จังหวัดสงขลา 90110<br>Latitude: 7.023743<br>Longitude: 100.439731<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,88 หมู่ที่ 7 ตำบลท่าช้าง อำเภอบางกล่ำ จังหวัดสงขลา 90110,7.023743,100.439731,MG,"
+            100.439731,7.023743,0
+          "
+MG ลักซูรี่ หาดใหญ่ (สาขาเมืองสงขลา),Power: <br>Dealership: Dealership<br>Description: <br>Address: 88/88 ถนนกาญจนวณิช หมู่1 ตำบลพะวง อำเภอเมืองสงขลา จังหวัดสงขลา 90100<br>Latitude: 7.140857<br>Longitude: 100.588405<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,88/88 ถนนกาญจนวณิช หมู่1 ตำบลพะวง อำเภอเมืองสงขลา จังหวัดสงขลา 90100,7.140857,100.588405,MG,"
+            100.588405,7.140857,0
+          "
+MG สุโขทัย,Power: <br>Dealership: Dealership<br>Description: <br>Address: 88 หมู่ 4 ตำบลบ้านหลุม อำเภอเมือง จังหวัดสุโขทัย 64000<br>Latitude: 17.0168740723499<br>Longitude: 99.8532269120182<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,88 หมู่ 4 ตำบลบ้านหลุม อำเภอเมือง จังหวัดสุโขทัย 64000,17.0168740723499,99.8532269120182,MG,"
+            99.8532269120182,17.0168740723499,0
+          "
+MG ลักซูรี่ หาดใหญ่ (สาขาสุราษฎร์ธานี),Power: <br>Dealership: Dealership<br>Description: <br>Address: 168 หมู่ที่ 1 ตำบลวัดประดู่ อำเภอเมืองสุราษฎร์ธานี จังหวัดสุราษฎร์ธานี 84000<br>Latitude: 9.123634<br>Longitude: 99.282694<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,168 หมู่ที่ 1 ตำบลวัดประดู่ อำเภอเมืองสุราษฎร์ธานี จังหวัดสุราษฎร์ธานี 84000,9.123634,99.282694,MG,"
+            99.282694,9.123634,0
+          "
+MG มิตรแท้ มอเตอร์,Power: <br>Dealership: Dealership<br>Description: <br>Address: 8/11 หมู่1 ถนนเลี่ยงเมือง ตำบลบางกุ้ง อำเภอเมืองสุราษฎร์ธานี จังหวัดสุราษฎร์ธานี 84000<br>Latitude: 9.145768<br>Longitude: 99.366376<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,8/11 หมู่1 ถนนเลี่ยงเมือง ตำบลบางกุ้ง อำเภอเมืองสุราษฎร์ธานี จังหวัดสุราษฎร์ธานี 84000,9.145768,99.366376,MG,"
+            99.366376,9.145768,0
+          "
+MG ดุสิต มอเตอร์ (สาขาตรัง),Power: <br>Dealership: Dealership<br>Description: <br>Address: 62/11 หมู่4 ถนนตรัง-ปะเหลียน ตำบลบ้านควน อำเภอเมือง จังหวัดตรัง 92000<br>Latitude: 7.535016<br>Longitude: 99.620886<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,62/11 หมู่4 ถนนตรัง-ปะเหลียน ตำบลบ้านควน อำเภอเมือง จังหวัดตรัง 92000,7.535016,99.620886,MG,"
+            99.620886,7.535016,0
+          "
+MG แพร่ยนตรการ เซลส์ แอนด์ เซอร์วิส (สาขาอุตรดิตถ์),Power: <br>Dealership: Dealership<br>Description: <br>Address: 168/1 หมู่ที่1 ตำบลหาดกรวด อำเภอเมืองอุตรดิตถ์ จังหวัดอุตรดิตถ์ 53000<br>Latitude: 17.5727648<br>Longitude: 100.1500462<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,168/1 หมู่ที่1 ตำบลหาดกรวด อำเภอเมืองอุตรดิตถ์ จังหวัดอุตรดิตถ์ 53000,17.5727648,100.1500462,MG,"
+            100.1500462,17.5727648,0
+          "
+MG เอ.เอส.กรุ๊ป (สุรินทร์),Power: <br>Dealership: Dealership<br>Description: <br>Address: 286 หมู่ที่ 9 ถนนสายกระสัง ตำบลคอโค อำเภอเมือง จังหวัดสุรินทร์ 32000<br>Latitude: 14.890784<br>Longitude: 103.422627<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,286 หมู่ที่ 9 ถนนสายกระสัง ตำบลคอโค อำเภอเมือง จังหวัดสุรินทร์ 32000,14.890784,103.422627,MG,"
+            103.422627,14.890784,0
+          "
+MG ศรีเมืองยนต์ศรีสะเกษ,Power: <br>Dealership: Dealership<br>Description: <br>Address: 130 หมู่ที่ 6 ตำบลโพธิ์ อำเภอเมือง จังหวัดศรีสะเกษ 33000<br>Latitude: 15.1061387<br>Longitude: 104.3790188<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,130 หมู่ที่ 6 ตำบลโพธิ์ อำเภอเมือง จังหวัดศรีสะเกษ 33000,15.1061387,104.3790188,MG,"
+            104.3790188,15.1061387,0
+          "
+เอเลแกนซ์ วีฮีเคิล,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 99/9 หมู่ที่ 3 ถนนกรุงเทพฯ-ปทุมธานี ตำบลบ้านฉาง อำเภอเมืองปทุมธานี จังหวัดปทุมธานี 12000<br>Latitude: 14.007025<br>Longitude: 100.521757<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,99/9 หมู่ที่ 3 ถนนกรุงเทพฯ-ปทุมธานี ตำบลบ้านฉาง อำเภอเมืองปทุมธานี จังหวัดปทุมธานี 12000,14.007025,100.521757,MG,"
+            100.521757,14.007025,0
+          "
+MG อารีมิตร  (สาขาขอนแก่น),Power: <br>Dealership: Dealership<br>Description: <br>Address: 199 หมู่ 16 ถนนมะลิวัลย์ ตำบลบ้านเป็ด อำเภอเมือง จังหวัดขอนแก่น 40000<br>Latitude: 16.4440922<br>Longitude: 102.8009193<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,199 หมู่ 16 ถนนมะลิวัลย์ ตำบลบ้านเป็ด อำเภอเมือง จังหวัดขอนแก่น 40000,16.4440922,102.8009193,MG,"
+            102.8009193,16.4440922,0
+          "
+MG เบส ออโต้ เซลส์ (สาขาหางดง),Power: <br>Dealership: Dealership<br>Description: <br>Address: 107 หมู่ที่ 7 ตำบลป่าแดด อำเภอเมือง จังหวัดเชียงใหม่ 50100<br>Latitude: 18.744207656549<br>Longitude: 98.9769236329004<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,107 หมู่ที่ 7 ตำบลป่าแดด อำเภอเมือง จังหวัดเชียงใหม่ 50100,18.744207656549,98.9769236329004,MG,"
+            98.9769236329004,18.744207656549,0
+          "
+MG ชัยภูมิ,Power: <br>Dealership: Dealership<br>Description: <br>Address: 199 หมู่ที่7 ตำบลหนองนาแซง อำเภอเมือง จังหวัดชัยภูมิ 36000<br>Latitude: 15.754203<br>Longitude: 102.023158<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,199 หมู่ที่7 ตำบลหนองนาแซง อำเภอเมือง จังหวัดชัยภูมิ 36000,15.754203,102.023158,MG,"
+            102.023158,15.754203,0
+          "
+MG บูรพา,Power: <br>Dealership: Dealership<br>Description: <br>Address: 88 หมู่ 6 ตำบลโสธร อำเภอเมือง จังหวัดฉะเชิงเทรา 24000<br>Latitude: 13.693802561742<br>Longitude: 101.050996233573<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,88 หมู่ 6 ตำบลโสธร อำเภอเมือง จังหวัดฉะเชิงเทรา 24000,13.693802561742,101.050996233573,MG,"
+            101.050996233573,13.693802561742,0
+          "
+MG ระยอง,Power: <br>Dealership: Dealership<br>Description: <br>Address: 558/1 ถนนสุขุวิท ตำบลเนินพระ อำเภอเมือง จังหวัดระยอง 21000<br>Latitude: 12.683599<br>Longitude: 101.246678<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,558/1 ถนนสุขุวิท ตำบลเนินพระ อำเภอเมือง จังหวัดระยอง 21000,12.683599,101.246678,MG,"
+            101.246678,12.683599,0
+          "
+MG พระนคร (ถนนกาญจนาภิเษก),Power: <br>Dealership: Dealership<br>Description: <br>Address: 612 ถนนกาญจนาภิเษก แขวงบางไผ่ เขตบางแค กรุงเทพฯ 10160<br>Latitude: 13.7366826<br>Longitude: 100.4063373<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,612 ถนนกาญจนาภิเษก แขวงบางไผ่ เขตบางแค กรุงเทพฯ 10160,13.7366826,100.4063373,MG,"
+            100.4063373,13.7366826,0
+          "
+MG นครหลวง (สำนักงานใหญ่),Power: <br>Dealership: Dealership<br>Description: <br>Address: 129/39 หมู่ที่ 4 ถนนบางนา-ตราด ตำบลบางโฉลง อำเภอบางพลี จังหวัดสมุทรปราการ 10540<br>Latitude: 13.629698<br>Longitude: 100.719819<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,129/39 หมู่ที่ 4 ถนนบางนา-ตราด ตำบลบางโฉลง อำเภอบางพลี จังหวัดสมุทรปราการ 10540,13.629698,100.719819,MG,"
+            100.719819,13.629698,0
+          "
+MG เอ.เอ็น.เอ็น.ออโต้เซลส์ (2016),Power: <br>Dealership: Dealership<br>Description: <br>Address: 1173 ถนนสิโรรส ตำบลสะเตง อำเภอเมืองยะลา จังหวัดยะลา 95000<br>Latitude: 6.57653854<br>Longitude: 101.29883875<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,1173 ถนนสิโรรส ตำบลสะเตง อำเภอเมืองยะลา จังหวัดยะลา 95000,6.57653854,101.29883875,MG,"
+            101.29883875,6.57653854,0
+          "
+พี.ที. เจริญธุรกิจ (ปัตตานี),Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 80 หมู่ที่ 1 ตำบลปะกาฮะรัง อำเภอเมือง จังหวัดปัตตานี 94000<br>Latitude: 6.851898<br>Longitude: 101.249645<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,80 หมู่ที่ 1 ตำบลปะกาฮะรัง อำเภอเมือง จังหวัดปัตตานี 94000,6.851898,101.249645,MG,"
+            101.249645,6.851898,0
+          "
+MG เอ.เอ็น.เอ็น.ออโต้เซลส์ (2016) (สาขานราธิวาส),Power: <br>Dealership: Dealership<br>Description: <br>Address: 280-280/4 ถนนสุริยะประดิษฐ์ ตำบลบางนาค อำเภอเมือง จังหวัดนราธิวาส 96000<br>Latitude: 6.4158773595764<br>Longitude: 101.810631540148<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,280-280/4 ถนนสุริยะประดิษฐ์ ตำบลบางนาค อำเภอเมือง จังหวัดนราธิวาส 96000,6.4158773595764,101.810631540148,MG,"
+            101.810631540148,6.4158773595764,0
+          "
+MG เพนต้า พี ออโตเซลส์,Power: <br>Dealership: Dealership<br>Description: <br>Address: 129/1 ถนนเทวาภิบาล ตำบลในเมือง อำเภอเมืองร้อยเอ็ด จังหวัดร้อยเอ็ด 45000<br>Latitude: 16.054557<br>Longitude: 103.642660<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,129/1 ถนนเทวาภิบาล ตำบลในเมือง อำเภอเมืองร้อยเอ็ด จังหวัดร้อยเอ็ด 45000,16.054557,103.642660,MG,"
+            103.64266,16.054557,0
+          "
+MG ช.เอราวัณ ออโตโมบิล นครปฐม,Power: <br>Dealership: Dealership<br>Description: <br>Address: 199 หมู่ 1 ถนนเพชรเกษม ตำบลธรรมศาลา อำเภอเมืองนครปฐม จังหวัดนครปฐม 73000<br>Latitude: 13.811987<br>Longitude: 100.119322<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,199 หมู่ 1 ถนนเพชรเกษม ตำบลธรรมศาลา อำเภอเมืองนครปฐม จังหวัดนครปฐม 73000,13.811987,100.119322,MG,"
+            100.119322,13.811987,0
+          "
+MG ภูเก็ตปิยะ,Power: <br>Dealership: Dealership<br>Description: <br>Address: 5/2 หมู่3 ถนนเทพกษัตรี ตำบลรัชดา อำเภอเมืองภูเก็ต จังหวัดภูเก็ต 83000<br>Latitude: 7.90744<br>Longitude: 98.39081<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,5/2 หมู่3 ถนนเทพกษัตรี ตำบลรัชดา อำเภอเมืองภูเก็ต จังหวัดภูเก็ต 83000,7.90744,98.39081,MG,"
+            98.39081,7.90744,0
+          "
+โรงแรมประจวบสามอ่าว,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: <br>Latitude: 11.794793<br>Longitude: 99.774254<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,,11.794793,99.774254,MG,"
+            99.774254,11.794793,0
+          "
+MG เบส ออโต้ เซลส์ (สาขาเชียงใหม่),Power: <br>Dealership: Dealership<br>Description: <br>Address: 4/9 ถนนมหิดล ตำบลป่าแดด อำเภอเมือง จังหวัดเชียงใหม่ 50100<br>Latitude: 18.767945<br>Longitude: 98.980497<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,4/9 ถนนมหิดล ตำบลป่าแดด อำเภอเมือง จังหวัดเชียงใหม่ 50100,18.767945,98.980497,MG,"
+            98.980497,18.767945,0
+          "
+MG ศรีเมืองยนต์อุบล,Power: <br>Dealership: Dealership<br>Description: <br>Address: 92 หมู่ที่ 19 ตำบลขามใหญ่ อำเภอเมือง จังหวัดอุบลราชธานี 34000<br>Latitude: 15.303500<br>Longitude: 104.837722<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,92 หมู่ที่ 19 ตำบลขามใหญ่ อำเภอเมือง จังหวัดอุบลราชธานี 34000,15.303500,104.837722,MG,"
+            104.837722,15.3035,0
+          "
+MG แอล.เค.เอส. ลำนารายณ์,Power: <br>Dealership: Dealership<br>Description: <br>Address: 59/2 หมู่ที่ 1 ตำบลชัยนารายณ์ อำเภอชัยบาดาล จังหวัดลพบุรี 15130<br>Latitude: 15.21224<br>Longitude: 101.12126<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,59/2 หมู่ที่ 1 ตำบลชัยนารายณ์ อำเภอชัยบาดาล จังหวัดลพบุรี 15130,15.21224,101.12126,MG,"
+            101.12126,15.21224,0
+          "
+MG ออโต้ แกลเลอรี่ ไดนามิค (สาขาหัวหิน),Power: <br>Dealership: Dealership<br>Description: <br>Address: 2/259 ซอยหมู่บ้านหนองแก ถนนเพชรเกษม ตำบลหนองแก อำเภอหัวหิน จังหวัดประจวบคีรีขันธ์ 77110<br>Latitude: 12.55232<br>Longitude: 99.961906<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,2/259 ซอยหมู่บ้านหนองแก ถนนเพชรเกษม ตำบลหนองแก อำเภอหัวหิน จังหวัดประจวบคีรีขันธ์ 77110,12.55232,99.961906,MG,"
+            99.961906,12.55232,0
+          "
+MG ชลบุรี ออโต้เซลส์,Power: <br>Dealership: Dealership<br>Description: <br>Address: 6/10 หมู่ 6 ตำบลบ่อวิน อำเภอศรีราชา จังหวัดชลบุรี 20230<br>Latitude: 13.055799<br>Longitude: 101.09723<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,6/10 หมู่ 6 ตำบลบ่อวิน อำเภอศรีราชา จังหวัดชลบุรี 20230,13.055799,101.09723,MG,"
+            101.09723,13.055799,0
+          "
+MG กรุงเทพ,Power: <br>Dealership: Dealership<br>Description: <br>Address: 89 หมู่ 8 ถนนสุวินทวงศ์ แขวงโคกแฝด เขตหนองจอก กรุงเทพมหานคร 10530<br>Latitude: 13.809840<br>Longitude: 100.805236<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,89 หมู่ 8 ถนนสุวินทวงศ์ แขวงโคกแฝด เขตหนองจอก กรุงเทพมหานคร 10530,13.809840,100.805236,MG,"
+            100.805236,13.80984,0
+          "
+MG อุดรธานี (สาขาบายพาส),Power: <br>Dealership: Dealership<br>Description: <br>Address: 99 หมู่ 5 ซอยบ้านดงอุดม ตำบลหมากแข้ง อำเภอเมืองอุดรธานี จังหวัดอุดรธานี 41000<br>Latitude: 17.410495<br>Longitude: 102.817484<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,99 หมู่ 5 ซอยบ้านดงอุดม ตำบลหมากแข้ง อำเภอเมืองอุดรธานี จังหวัดอุดรธานี 41000,17.410495,102.817484,MG,"
+            102.817484,17.410495,0
+          "
+MG พิจิตรเพชร หนองคาย,Power: <br>Dealership: Dealership<br>Description: <br>Address: 199 หมู่ 2 ถนนมิตรภาพ ตำบลโพธิ์ชัย  อำเภอเมือง จังหวัดหนองคาย 43000<br>Latitude: 17.836756<br>Longitude: 102.754242<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,199 หมู่ 2 ถนนมิตรภาพ ตำบลโพธิ์ชัย  อำเภอเมือง จังหวัดหนองคาย 43000,17.836756,102.754242,MG,"
+            102.754242,17.836756,0
+          "
+โรงแรมดิอิมเพลส น่าน,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 99 หมู่ 4 ถนนยันตรกิจโกศล ตำบลดู่ใต้ อำเภอเมืองน่าน จังหวัดน่าน 55000<br>Latitude: 18.75920978<br>Longitude: 100.7612459<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,99 หมู่ 4 ถนนยันตรกิจโกศล ตำบลดู่ใต้ อำเภอเมืองน่าน จังหวัดน่าน 55000,18.75920978,100.7612459,MG,"
+            100.7612459,18.75920978,0
+          "
+MG เคพี ออโต้ คลองหลวง,Power: <br>Dealership: Dealership<br>Description: <br>Address: 96/63 หมู่ที่ 7 ตำบลคลองสอง อำเภอคลองหลวง จังหวัดปทุมธานี 12120<br>Latitude: 14.065101<br>Longitude: 100.633998<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,96/63 หมู่ที่ 7 ตำบลคลองสอง อำเภอคลองหลวง จังหวัดปทุมธานี 12120,14.065101,100.633998,MG,"
+            100.633998,14.065101,0
+          "
+MG พารากอน เซลล์,Power: <br>Dealership: Dealership<br>Description: <br>Address: 5/48 ถนนสายไหม แขวงสายไหม เขตสายไหม กรุงเทพฯ 10220<br>Latitude: 13.921228<br>Longitude: 100.657312<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,5/48 ถนนสายไหม แขวงสายไหม เขตสายไหม กรุงเทพฯ 10220,13.921228,100.657312,MG,"
+            100.657312,13.921228,0
+          "
+MG ล้านนา (สาขาพะเยา),Power: <br>Dealership: Dealership<br>Description: <br>Address: 413/2 ถนนพหลโยธิน ตำบลแม่ต๋ำ อำเภอเมือง จังหวัดพะเยา 56000<br>Latitude: 19.1532058592303<br>Longitude: 99.9132485018341<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,413/2 ถนนพหลโยธิน ตำบลแม่ต๋ำ อำเภอเมือง จังหวัดพะเยา 56000,19.1532058592303,99.9132485018341,MG,"
+            99.9132485018341,19.1532058592303,0
+          "
+MG ล้านนา (สาขาเชียงราย),Power: <br>Dealership: Dealership<br>Description: <br>Address: 111/21-22 หมู่ที่13 ถนนพหลโยธิน ตำบลสันทราย อำเภอเมือง จังหวัดเชียงราย 57000<br>Latitude: 19.8788165<br>Longitude: 99.8331808<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,111/21-22 หมู่ที่13 ถนนพหลโยธิน ตำบลสันทราย อำเภอเมือง จังหวัดเชียงราย 57000,19.8788165,99.8331808,MG,"
+            99.8331808,19.8788165,0
+          "
+MG วิชช์ มอเตอร์ส,Power: <br>Dealership: Dealership<br>Description: <br>Address: 333/33 ถนนประดิษฐ์มนูธรรม แขวงวังทองหลาง เขตวังทองหลาง กรุงเทพฯ 10310<br>Latitude: 13.784151<br>Longitude: 100.607481<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,333/33 ถนนประดิษฐ์มนูธรรม แขวงวังทองหลาง เขตวังทองหลาง กรุงเทพฯ 10310,13.784151,100.607481,MG,"
+            100.607481,13.784151,0
+          "
+MG ช.เอราวัณ ออโตโมบิล ราชบุรี,Power: <br>Dealership: Dealership<br>Description: <br>Address: 19/1 หมู่ 5 ถนนเพชรเกษม ตำบลสามเรือน อำเภอเมืองราชบุรี จังหวัดราชบุรี  70000<br>Latitude: 13.613062<br>Longitude: 99.839137<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,19/1 หมู่ 5 ถนนเพชรเกษม ตำบลสามเรือน อำเภอเมืองราชบุรี จังหวัดราชบุรี  70000,13.613062,99.839137,MG,"
+            99.839137,13.613062,0
+          "
+ศูนย์เทคโนโลยีไมโครอิเล็กทรอนิกส์ (TMEC),Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 51/4 หมู่ 1 ตำบลวังตะเคียน อำเภอเมือง จังหวัดฉะเชิงเทรา 24000<br>Latitude: 13.740348<br>Longitude: 101.015562<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,51/4 หมู่ 1 ตำบลวังตะเคียน อำเภอเมือง จังหวัดฉะเชิงเทรา 24000,13.740348,101.015562,MG,"
+            101.015562,13.740348,0
+          "
+สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช.),Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 111 อุทยานวิทยาศาสตร์ประเทศไทย ถนนพหลโยธิน ตำบลคลองหนึ่ง อำเภอคลองหลวง จังหวัดปทุมธานี 12120<br>Latitude: 14.078291<br>Longitude: 100.604027<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,111 อุทยานวิทยาศาสตร์ประเทศไทย ถนนพหลโยธิน ตำบลคลองหนึ่ง อำเภอคลองหลวง จังหวัดปทุมธานี 12120,14.078291,100.604027,MG,"
+            100.604027,14.078291,0
+          "
+สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช.) – โยธี,Power: 24 kW<br>Dealership: Non-dealership<br>Description: <br>Address: 73/1 ถนนพระรามที่ 6 แขวงทุ่งพญาไท เขตราชเทวี กรุงเทพฯ 10400<br>Latitude: 13.763949<br>Longitude: 100.526989<br>Provider: MG,#icon-1899-DB4436-labelson,24 kW,Non-dealership,,73/1 ถนนพระรามที่ 6 แขวงทุ่งพญาไท เขตราชเทวี กรุงเทพฯ 10400,13.763949,100.526989,MG,"
+            100.526989,13.763949,0
+          "
+MG พิจิตรเพชรออโต้,Power: <br>Dealership: Dealership<br>Description: <br>Address: 370 หมู่ที่ 1 ถนนบึงกาฬ-พังโคน ตำบลบึงกาฬ อำเภอเมืองบึงกาฬ จังหวัดบึงกาฬ 38000<br>Latitude: 18.376354<br>Longitude: 103.631772<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,370 หมู่ที่ 1 ถนนบึงกาฬ-พังโคน ตำบลบึงกาฬ อำเภอเมืองบึงกาฬ จังหวัดบึงกาฬ 38000,18.376354,103.631772,MG,"
+            103.631772,18.376354,0
+          "
+ไลม์ไลท์อเวนิว,Power: 50 kW<br>Dealership: Non-dealership<br>Description: <br>Address: 2/23 ถนนดีบุก ตำบลตลาดใหญ่ อำเภอเมืองภูเก็ต จังหวัดภูเก็ต 83000<br>Latitude: 7.88623<br>Longitude: 98.39179<br>Provider: MG,#icon-1899-DB4436-labelson,50 kW,Non-dealership,,2/23 ถนนดีบุก ตำบลตลาดใหญ่ อำเภอเมืองภูเก็ต จังหวัดภูเก็ต 83000,7.88623,98.39179,MG,"
+            98.39179,7.88623,0
+          "
+ดับเบิลทรี บาย ฮิลตัน ภูเก็ต บ้านไทยรีสอร์ต,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 94 ถนนทวีวงศ์ ตำบลป่าตอง อำเภอกะทู้ จังหวัดภูเก็ต 83150<br>Latitude: 7.890781<br>Longitude: 98.294715<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,94 ถนนทวีวงศ์ ตำบลป่าตอง อำเภอกะทู้ จังหวัดภูเก็ต 83150,7.890781,98.294715,MG,"
+            98.294715,7.890781,0
+          "
+MG บางปูแลนด์ แอนด์ ออโต้โมบิล,Power: <br>Dealership: Dealership<br>Description: <br>Address: 99/9 หมู่ที่ 2 ตำบลท้ายบ้าน อำเภอเมืองสมุทรปราการ จังหวัดสมุทรปราการ 10280<br>Latitude: 13.5626805553399<br>Longitude: 100.609919450263<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,99/9 หมู่ที่ 2 ตำบลท้ายบ้าน อำเภอเมืองสมุทรปราการ จังหวัดสมุทรปราการ 10280,13.5626805553399,100.609919450263,MG,"
+            100.609919450263,13.5626805553399,0
+          "
+MG รุ่งเจริญ (สาขามหาชัย),Power: <br>Dealership: Dealership<br>Description: <br>Address: 12/2 หมู่ที่ 4 ตำบลนาดี อำเภอเมืองสมุทรสาคร จังหวัดสมุทรสาคร 74000<br>Latitude: 13.5708951484896<br>Longitude: 100.289012383461<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,12/2 หมู่ที่ 4 ตำบลนาดี อำเภอเมืองสมุทรสาคร จังหวัดสมุทรสาคร 74000,13.5708951484896,100.289012383461,MG,"
+            100.289012383461,13.5708951484896,0
+          "
+MG รุ่งเจริญ (สาขาสุขสวัสดิ์),Power: <br>Dealership: Dealership<br>Description: <br>Address: 123 หมู่ที่ 2 ถนนสุขสวัสดิ์ ตำบลในคลองบางปลากด  อำเภอพระสมุทรเจดีย์ จังหวัดสมุทรปราการ 10290<br>Latitude: 13.593428<br>Longitude: 100.572095<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,123 หมู่ที่ 2 ถนนสุขสวัสดิ์ ตำบลในคลองบางปลากด  อำเภอพระสมุทรเจดีย์ จังหวัดสมุทรปราการ 10290,13.593428,100.572095,MG,"
+            100.572095,13.593428,0
+          "
+MG สกาย ออโต้โมทีฟ (สาขาสิรินธร),Power: <br>Dealership: Dealership<br>Description: <br>Address: 346 ถนนสิรินธร แขวงบางพลัด เขตบางพลัด กรุงเทพมหานคร 10700<br>Latitude: 13.790375<br>Longitude: 100.476237<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,346 ถนนสิรินธร แขวงบางพลัด เขตบางพลัด กรุงเทพมหานคร 10700,13.790375,100.476237,MG,"
+            100.476237,13.790375,0
+          "
+MG เคเอเอส มอเตอร์ส,Power: <br>Dealership: Dealership<br>Description: <br>Address: 804 ถนนจรัญสนิทวงศ์ แขวงบางอ้อ เขตบางพลัด กรุงเทพมหานคร 10700<br>Latitude: 13.8063947907318<br>Longitude: 100.512433057991<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,804 ถนนจรัญสนิทวงศ์ แขวงบางอ้อ เขตบางพลัด กรุงเทพมหานคร 10700,13.8063947907318,100.512433057991,MG,"
+            100.512433057991,13.8063947907318,0
+          "
+โรมแรมอะตอมภูเก็ต,Power: 24 kW<br>Dealership: Non-dealership<br>Description: <br>Address: 127 ม.1 ต.สาคู อ.ถลาง จ.ภูเก็ต 83110<br>Latitude: 8.095443<br>Longitude: 98.306877<br>Provider: MG,#icon-1899-DB4436-labelson,24 kW,Non-dealership,,127 ม.1 ต.สาคู อ.ถลาง จ.ภูเก็ต 83110,8.095443,98.306877,MG,"
+            98.306877,8.095443,0
+          "
+MG ทริปเปิล ที มอเตอร์ (เชียงใหม่),Power: <br>Dealership: Dealership<br>Description: <br>Address: 104 หมู่ที่ 1 ถนนไฮเวย์-ลำปาง ตำบลไชยสถาน อำเภอสารภี จังหวัดเชียงใหม่ 50140<br>Latitude: 18.727518<br>Longitude: 99.040228<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,104 หมู่ที่ 1 ถนนไฮเวย์-ลำปาง ตำบลไชยสถาน อำเภอสารภี จังหวัดเชียงใหม่ 50140,18.727518,99.040228,MG,"
+            99.040228,18.727518,0
+          "
+MG ลพบุรี,Power: <br>Dealership: Dealership<br>Description: <br>Address: 99/9 หมู่ที่2 ตำบลนิคมสร้างตนเอง อำเภอเมืองลพบุรี จังหวัดลพบุรี 15000<br>Latitude: 14.769917<br>Longitude: 100.704861<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,99/9 หมู่ที่2 ตำบลนิคมสร้างตนเอง อำเภอเมืองลพบุรี จังหวัดลพบุรี 15000,14.769917,100.704861,MG,"
+            100.704861,14.769917,0
+          "
+MG สุพรีม,Power: <br>Dealership: Dealership<br>Description: <br>Address: 1640 ถนนอ่อนนุช แขวงอ่อนนุช เขตสวนหลวง กรุงเทพมหานคร 10250<br>Latitude: 13.71056<br>Longitude: 100.63478<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,1640 ถนนอ่อนนุช แขวงอ่อนนุช เขตสวนหลวง กรุงเทพมหานคร 10250,13.71056,100.63478,MG,"
+            100.63478,13.71056,0
+          "
+MG แสงอารี ออโต้ (สาขาหทัยราษฎร์),Power: <br>Dealership: Dealership<br>Description: <br>Address: เลขที่ 251 ถนนหทัยราษฎร์ แขวงสามวาตะวันตก เขตคลองสามวา กรุงเทพมหานคร 10510<br>Latitude: 13.868622<br>Longitude: 100.722352<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,เลขที่ 251 ถนนหทัยราษฎร์ แขวงสามวาตะวันตก เขตคลองสามวา กรุงเทพมหานคร 10510,13.868622,100.722352,MG,"
+            100.722352,13.868622,0
+          "
+MG ทริปเปิ้ลเอ็มออโต้เซลส์,Power: <br>Dealership: Dealership<br>Description: <br>Address: 776/1 ถ.รัชดาภิเษก (ท่าพระ-ตากสิน) แขวงดาวคะนอง เขตธนบุรี กรุงเทพมหานคร 10600<br>Latitude: 13.70591<br>Longitude: 100.48288<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,776/1 ถ.รัชดาภิเษก (ท่าพระ-ตากสิน) แขวงดาวคะนอง เขตธนบุรี กรุงเทพมหานคร 10600,13.70591,100.48288,MG,"
+            100.48288,13.70591,0
+          "
+MG อาร์เฮงวัฒนา,Power: <br>Dealership: Dealership<br>Description: <br>Address: 89/1 หมู่ที่12 ถนนมิตรภาพ ตำบลในเมือง อำเภอเมือง จังหวัดขอนแก่น 40000<br>Latitude: 16.3942092962111<br>Longitude: 102.812523538486<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,89/1 หมู่ที่12 ถนนมิตรภาพ ตำบลในเมือง อำเภอเมือง จังหวัดขอนแก่น 40000,16.3942092962111,102.812523538486,MG,"
+            102.812523538486,16.3942092962111,0
+          "
+MG ลักซูรี่ นครศรีธรรมราช สำนักงานใหญ่ (พระพรหม),Power: <br>Dealership: Dealership<br>Description: <br>Address: 174 หมู่13 ตำบลช้างซ้าย อำเภอพระพรหม จังหวัดนครศรีธรรมราช 80000<br>Latitude: 8.3705776<br>Longitude: 99.948794<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,174 หมู่13 ตำบลช้างซ้าย อำเภอพระพรหม จังหวัดนครศรีธรรมราช 80000,8.3705776,99.948794,MG,"
+            99.948794,8.3705776,0
+          "
+MG พิจิตรเพชร สกลนคร,Power: <br>Dealership: Dealership<br>Description: <br>Address: 343 ถนนสกลนคร-กาฬสินธุ์ ตำบลธาตุเชิงชุม อำเภอเมือง จังหวัดสกลนคร 47000<br>Latitude: 17.1468055<br>Longitude: 104.1276321<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,343 ถนนสกลนคร-กาฬสินธุ์ ตำบลธาตุเชิงชุม อำเภอเมือง จังหวัดสกลนคร 47000,17.1468055,104.1276321,MG,"
+            104.1276321,17.1468055,0
+          "
+MG นครราชสีมา,Power: <br>Dealership: Dealership<br>Description: <br>Address: 2300 ถนนมิตรภาพ ตำบลในเมือง อำเภอเมือง จังหวัดนครราชสีมา 30000<br>Latitude: 14.960703<br>Longitude: 102.0597629<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,2300 ถนนมิตรภาพ ตำบลในเมือง อำเภอเมือง จังหวัดนครราชสีมา 30000,14.960703,102.0597629,MG,"
+            102.0597629,14.960703,0
+          "
+MG ดุสิต ออโต้โมบิล,Power: <br>Dealership: Dealership<br>Description: <br>Address: 56/6 ถนนศรีพังงา ตำบลกระบี่ใหญ่ อำเภอเมืองกระบี่ จังหวัดกระบี่ 81000<br>Latitude: 8.102991<br>Longitude: 98.891534<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,56/6 ถนนศรีพังงา ตำบลกระบี่ใหญ่ อำเภอเมืองกระบี่ จังหวัดกระบี่ 81000,8.102991,98.891534,MG,"
+            98.891534,8.102991,0
+          "
+MG ร่วมใจเมืองเลย (สาขาด่านซ้าย),Power: <br>Dealership: Dealership<br>Description: <br>Address: 698 หมู่ 3 ตำบลด่านซ้าย อำเภอด่านซ้าย จังหวัดเลย 42120<br>Latitude: 17.27468<br>Longitude: 101.15544<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,698 หมู่ 3 ตำบลด่านซ้าย อำเภอด่านซ้าย จังหวัดเลย 42120,17.27468,101.15544,MG,"
+            101.15544,17.27468,0
+          "
+MG ปราจีนบุรี ออโต้เซลส์,Power: <br>Dealership: Dealership<br>Description: <br>Address: 88 หมู่ที่9 ถนนสุวินทวงศ์ ตำบลบ้านพระ อำเภอเมือง จังหวัดปราจีนบุรี 25230<br>Latitude: 14.08147269<br>Longitude: 101.3512035<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,88 หมู่ที่9 ถนนสุวินทวงศ์ ตำบลบ้านพระ อำเภอเมือง จังหวัดปราจีนบุรี 25230,14.08147269,101.3512035,MG,"
+            101.3512035,14.08147269,0
+          "
+ปฐพีทองโคราช (หัวทะเล),Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 1814 หมู่ 1 ตำบลหัวทะเล อำเภอเมืองนครราชสีมา จังหวัดนครราชสีมา 30000<br>Latitude: 14.956455<br>Longitude: 102.123717<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,1814 หมู่ 1 ตำบลหัวทะเล อำเภอเมืองนครราชสีมา จังหวัดนครราชสีมา 30000,14.956455,102.123717,MG,"
+            102.123717,14.956455,0
+          "
+MG ปฐพีทองออโต้ (ในเมือง),"Power: <br>Dealership: Dealership<br>Description: <br>Address: 1196, 1198, 1200 ถนนมิตรภาพ ตำบลในเมือง อำเภอเมืองนครราชสีมา จังหวัดนครราชสีมา 30000<br>Latitude: 14.97961256<br>Longitude: 102.081917<br>Provider: MG",#icon-1899-DB4436-labelson,,Dealership,,"1196, 1198, 1200 ถนนมิตรภาพ ตำบลในเมือง อำเภอเมืองนครราชสีมา จังหวัดนครราชสีมา 30000",14.97961256,102.081917,MG,"
+            102.081917,14.97961256,0
+          "
+MG พรนุภาพ,Power: <br>Dealership: Dealership<br>Description: <br>Address: 66/9 หมู่ 3 ถนนเพชรเกษม ตำบลบ้านหม้อ อำเภอเมือง จังหวัดเพชรบุรี 76000<br>Latitude: 13.091128<br>Longitude: 99.940602<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,66/9 หมู่ 3 ถนนเพชรเกษม ตำบลบ้านหม้อ อำเภอเมือง จังหวัดเพชรบุรี 76000,13.091128,99.940602,MG,"
+            99.940602,13.091128,0
+          "
+MG ประจวบคีรีขันธ์ บาย พร้อมพงศ์,Power: <br>Dealership: Dealership<br>Description: <br>Address: 17/12 ถนนประจวบคีรีขันธ์ ตำบลประจวบคีรีขันธ์ อำเภอเมืองประจวบคีรีขันธ์ จังหวัดประจวบคีรีขันธ์ 77000<br>Latitude: 11.8088703<br>Longitude: 99.77827572<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,17/12 ถนนประจวบคีรีขันธ์ ตำบลประจวบคีรีขันธ์ อำเภอเมืองประจวบคีรีขันธ์ จังหวัดประจวบคีรีขันธ์ 77000,11.8088703,99.77827572,MG,"
+            99.77827572,11.8088703,0
+          "
+"WHA ESIE, Plaza 1",Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 24/1 หมู่ที่ 4 ตำบลปลวกแดง อำเภอปลวกแดง จังหวัดระยอง 21140<br>Latitude: 13.01531043<br>Longitude: 101.1515885<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,24/1 หมู่ที่ 4 ตำบลปลวกแดง อำเภอปลวกแดง จังหวัดระยอง 21140,13.01531043,101.1515885,MG,"
+            101.1515885,13.01531043,0
+          "
+"WHA ESIE, Plaza 2",Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 300/7 หมู่ที่ 1 ตำบลตาสิทธิ์ อำเภอปลวกแดง จังหวัดระยอง 21140<br>Latitude: 13.00664656<br>Longitude: 101.2027063<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,300/7 หมู่ที่ 1 ตำบลตาสิทธิ์ อำเภอปลวกแดง จังหวัดระยอง 21140,13.00664656,101.2027063,MG,"
+            101.2027063,13.00664656,0
+          "
+"WHA ESIE1, Plaza 3",Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 121 หมู่ที่ 3 ตำบลตาสิทธิ์ อำเภอปลวกแดง จังหวัดระยอง 21140<br>Latitude: 13.06903171<br>Longitude: 101.1849465<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,121 หมู่ที่ 3 ตำบลตาสิทธิ์ อำเภอปลวกแดง จังหวัดระยอง 21140,13.06903171,101.1849465,MG,"
+            101.1849465,13.06903171,0
+          "
+"WHA ESIE2, WHA City Park",Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 475/5 หมู่ที่ 7 ตำบลคลองกิ่ว อำเภอบ้านบึง จังหวัดชลบุรี 20220<br>Latitude: 13.13131344<br>Longitude: 101.1649<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,475/5 หมู่ที่ 7 ตำบลคลองกิ่ว อำเภอบ้านบึง จังหวัดชลบุรี 20220,13.13131344,101.1649,MG,"
+            101.1649,13.13131344,0
+          "
+"WHA SIL, Office","Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 111 หมู่ 7, ถนนหนองปลากระดี่ อำเภอหนองแค จังหวัดสระบุรี 18140<br>Latitude: 14.36891414<br>Longitude: 100.8419205<br>Provider: MG",#icon-1899-DB4436-labelson,,Non-dealership,,"111 หมู่ 7, ถนนหนองปลากระดี่ อำเภอหนองแค จังหวัดสระบุรี 18140",14.36891414,100.8419205,MG,"
+            100.8419205,14.36891414,0
+          "
+บางจาก คู่ขนานเอกมัย – รามอินทรา,Power: 50 kW<br>Dealership: Non-dealership<br>Description: <br>Address: 569 ถนนประดิษฐ์มนูธรรม แขวงลาดพร้าว เขตลาดพร้าว กรุงเทพมหานคร 10230<br>Latitude: 13.83518<br>Longitude: 100.63125<br>Provider: MG,#icon-1899-DB4436-labelson,50 kW,Non-dealership,,569 ถนนประดิษฐ์มนูธรรม แขวงลาดพร้าว เขตลาดพร้าว กรุงเทพมหานคร 10230,13.83518,100.63125,MG,"
+            100.63125,13.83518,0
+          "
+บางจาก กาญจนาภิเษก,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 95/3 ถนนกาญจนาภิเษก แขวงบางบอน เขตบางบอน กรุงเทพมหานคร 10150<br>Latitude: 13.6709300<br>Longitude: 100.4051600<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,95/3 ถนนกาญจนาภิเษก แขวงบางบอน เขตบางบอน กรุงเทพมหานคร 10150,13.6709300,100.4051600,MG,"
+            100.40516,13.67093,0
+          "
+บางจาก บรมราชชนนี กม. 10 ขาเข้า,Power: 50 kW<br>Dealership: Non-dealership<br>Description: <br>Address: 474 ถนนบรมราชชนนี แขวงศาลาธรรมสพน์ เขตทวีวัฒนา กรุงเทพมหานคร 10170<br>Latitude: 13.787376<br>Longitude: 100.371300<br>Provider: MG,#icon-1899-DB4436-labelson,50 kW,Non-dealership,,474 ถนนบรมราชชนนี แขวงศาลาธรรมสพน์ เขตทวีวัฒนา กรุงเทพมหานคร 10170,13.787376,100.371300,MG,"
+            100.3713,13.787376,0
+          "
+บางจาก ก้าวไกลแก๊ส,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 698/1 ถนนพระรามที่ 2 แขวงแสมดำ เขตบางขุนเทียน จังหวัดกรุงเทพมหานคร 10150<br>Latitude: 13.619159<br>Longitude: 100.385863<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,698/1 ถนนพระรามที่ 2 แขวงแสมดำ เขตบางขุนเทียน จังหวัดกรุงเทพมหานคร 10150,13.619159,100.385863,MG,"
+            100.385863,13.619159,0
+          "
+บางจาก พัฒนาการ 27,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 1348 ถนนพัฒนาการ แขวงสวนหลวง เขตสวนหลวง กรุงเทพมหานคร 10250<br>Latitude: 13.736749<br>Longitude: 100.617914<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,1348 ถนนพัฒนาการ แขวงสวนหลวง เขตสวนหลวง กรุงเทพมหานคร 10250,13.736749,100.617914,MG,"
+            100.617914,13.736749,0
+          "
+บางจาก รามคำแหง 164,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 8/4 ถนนรามคำแหง แขวงมีนบุรี เขตมีนบุรี จังหวัดกรุงเทพมหานคร 10510<br>Latitude: 13.796889<br>Longitude: 100.710495<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,8/4 ถนนรามคำแหง แขวงมีนบุรี เขตมีนบุรี จังหวัดกรุงเทพมหานคร 10510,13.796889,100.710495,MG,"
+            100.710495,13.796889,0
+          "
+บางจาก ร่มเกล้า,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 179/9 ถนนร่มเกล้า แขวงคลองสามประเวศ เขตลาดกระบัง กรุงเทพมหานคร 10520<br>Latitude: 13.745626<br>Longitude: 100.746935<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,179/9 ถนนร่มเกล้า แขวงคลองสามประเวศ เขตลาดกระบัง กรุงเทพมหานคร 10520,13.745626,100.746935,MG,"
+            100.746935,13.745626,0
+          "
+บางจาก ราชพฤกษ์ 2,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 54/11 หมู่ 2 ถนนราชพฤกษ์ ตำบลบางพลับ อำเภอปากเกร็ด จังหวัดนนทบุรี 11120<br>Latitude: 13.9151<br>Longitude: 100.45145<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,54/11 หมู่ 2 ถนนราชพฤกษ์ ตำบลบางพลับ อำเภอปากเกร็ด จังหวัดนนทบุรี 11120,13.9151,100.45145,MG,"
+            100.45145,13.9151,0
+          "
+บางจาก บางนา – ตราด กม.16,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 4/43 หมู่ที่ 1 ตำบลบางโฉลง อำเภอบางพลี จังหวัดสมุทรปราการ 10540<br>Latitude: 13.617978<br>Longitude: 100.745479<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,4/43 หมู่ที่ 1 ตำบลบางโฉลง อำเภอบางพลี จังหวัดสมุทรปราการ 10540,13.617978,100.745479,MG,"
+            100.745479,13.617978,0
+          "
+บางจาก เสรีไทย,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 131 ถนนเสรีไทย แขวงคลองกุ่ม เขตบึงกุ่ม กรุงเทพมหานคร 10230<br>Latitude: 13.776675<br>Longitude: 100.660484<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,131 ถนนเสรีไทย แขวงคลองกุ่ม เขตบึงกุ่ม กรุงเทพมหานคร 10230,13.776675,100.660484,MG,"
+            100.660484,13.776675,0
+          "
+บางจาก สตรีวิทย์ 2,Power: 50 kW<br>Dealership: Non-dealership<br>Description: <br>Address: 392/1 ถนนสุคนธสวัสดิ์ แขวงลาดพร้าว เขตลาดพร้าว กรุงเทพมหานคร 10230<br>Latitude: 13.825431<br>Longitude: 100.619851<br>Provider: MG,#icon-1899-DB4436-labelson,50 kW,Non-dealership,,392/1 ถนนสุคนธสวัสดิ์ แขวงลาดพร้าว เขตลาดพร้าว กรุงเทพมหานคร 10230,13.825431,100.619851,MG,"
+            100.619851,13.825431,0
+          "
+บางจาก ศรีนครินทร์,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 887 หมู่ที่ 5 ตำบลสำโรงเหนือ อำเภอเมืองสมุทรปราการ จังหวัดสมุทรปราการ 10270<br>Latitude: 13.650875<br>Longitude: 100.640145<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,887 หมู่ที่ 5 ตำบลสำโรงเหนือ อำเภอเมืองสมุทรปราการ จังหวัดสมุทรปราการ 10270,13.650875,100.640145,MG,"
+            100.640145,13.650875,0
+          "
+MG แอ๊นท์ (2019),Power: 50 kW<br>Dealership: Dealership<br>Description: <br>Address: 99/99 หมู่ 13 ถนนกาญจนาภิเษก ตำบลบางบัวทอง อำเภอบางบัวทอง จังหวัดนนทบุรี 11110<br>Latitude: 13.932022<br>Longitude: 100.414721<br>Provider: MG,#icon-1899-DB4436-labelson,50 kW,Dealership,,99/99 หมู่ 13 ถนนกาญจนาภิเษก ตำบลบางบัวทอง อำเภอบางบัวทอง จังหวัดนนทบุรี 11110,13.932022,100.414721,MG,"
+            100.414721,13.932022,0
+          "
+MG รุ่งเจริญ (สาขานวมินทร์),Power: <br>Dealership: Dealership<br>Description: <br>Address: 24/99 ถนนนวมินทร์ แขวงคลองกุ่ม เขตบึงกุ่ม กรุงเทพมหานคร 10240<br>Latitude: 13.819602159594<br>Longitude: 100.654705377193<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,24/99 ถนนนวมินทร์ แขวงคลองกุ่ม เขตบึงกุ่ม กรุงเทพมหานคร 10240,13.819602159594,100.654705377193,MG,"
+            100.654705377193,13.819602159594,0
+          "
+MG รุ่งเจริญ (สาขาฉะเชิงเทรา),Power: <br>Dealership: Dealership<br>Description: <br>Address: 42 หมู่ 5 ตำบลบางพระ อำเภอเมืองฉะเชิงเทรา จังหวัดฉะเชิงเทรา 24000<br>Latitude: 13.65894<br>Longitude: 101.05746<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,42 หมู่ 5 ตำบลบางพระ อำเภอเมืองฉะเชิงเทรา จังหวัดฉะเชิงเทรา 24000,13.65894,101.05746,MG,"
+            101.05746,13.65894,0
+          "
+MG ทริปเปิล ที มอเตอร์ (ลำปาง),Power: <br>Dealership: Dealership<br>Description: <br>Address: 449 หมู่ที่ 1 ตำบลชมพู อำเภอเมือง จังหวัดลำปาง 52100<br>Latitude: 18.25383<br>Longitude: 99.45686<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,449 หมู่ที่ 1 ตำบลชมพู อำเภอเมือง จังหวัดลำปาง 52100,18.25383,99.45686,MG,"
+            99.45686,18.25383,0
+          "
+MG เบส ออโต้ เซลส์ (สาขาอมตะนคร),Power: <br>Dealership: Dealership<br>Description: <br>Address: 82 หมู่ที่ 6 ถนนบ้านเก่า5 ตำบลดอนหัวฬ่อ อำเภอเมือง จังหวัดชลบุรี 20000<br>Latitude: 13.442421<br>Longitude: 101.030155<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,82 หมู่ที่ 6 ถนนบ้านเก่า5 ตำบลดอนหัวฬ่อ อำเภอเมือง จังหวัดชลบุรี 20000,13.442421,101.030155,MG,"
+            101.030155,13.442421,0
+          "
+MG ส.อรุณ ออโต้โมบิล (สาขาพิษณุโลก),Power: <br>Dealership: Dealership<br>Description: <br>Address: 36/2 หมู่ที่ 4 ตำบลสมอแข อำเภอเมืองพิษณุโลก จังหวัดพิษณุโลก 65000<br>Latitude: 16.83091855<br>Longitude: 100.3610766<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,36/2 หมู่ที่ 4 ตำบลสมอแข อำเภอเมืองพิษณุโลก จังหวัดพิษณุโลก 65000,16.83091855,100.3610766,MG,"
+            100.3610766,16.83091855,0
+          "
+วี.จี. คาร์ (สาขากระบี่),"Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 60 Moo 2, Petchkasem Rd., Krabinoi Sub-District, Muang Krabi District, Krabi Province 81000<br>Latitude: 6.415738<br>Longitude: 101.810615<br>Provider: MG",#icon-1899-DB4436-labelson,,Non-dealership,,"60 Moo 2, Petchkasem Rd., Krabinoi Sub-District, Muang Krabi District, Krabi Province 81000",6.415738,101.810615,MG,"
+            101.810615,6.415738,0
+          "
+MG พัทยา ออโต้เฮ้าส์,Power: <br>Dealership: Dealership<br>Description: <br>Address: 16/119 หมู่ที่ 8 ถนนสุขุมวิท ตำบลหนองปลาไหล อำเภอบางละมุง จังหวัดชลบุรี 20150<br>Latitude: 12.986883<br>Longitude: 100.923526<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,16/119 หมู่ที่ 8 ถนนสุขุมวิท ตำบลหนองปลาไหล อำเภอบางละมุง จังหวัดชลบุรี 20150,12.986883,100.923526,MG,"
+            100.923526,12.986883,0
+          "
+MG เอเบิล มอเตอร์ส,Power: <br>Dealership: Dealership<br>Description: <br>Address: 88 หมู่ 5 ถนนบางบัวทอง-บางพูน(ซ่อมสร้าง) ตำบลบางพูน อำเภอเมืองปทุมธานี จังหวัดปทุมธานี 12000<br>Latitude: 13.975671<br>Longitude: 100.57933<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,88 หมู่ 5 ถนนบางบัวทอง-บางพูน(ซ่อมสร้าง) ตำบลบางพูน อำเภอเมืองปทุมธานี จังหวัดปทุมธานี 12000,13.975671,100.57933,MG,"
+            100.57933,13.975671,0
+          "
+บางจาก อ่อนนุช 55,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 287/3 ถนนอ่อนนุช แขวงประเวศ เขตประเวศ จังหวัดกรุงเทพมหานคร 10250<br>Latitude: 13.718240<br>Longitude: 100.662849<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,287/3 ถนนอ่อนนุช แขวงประเวศ เขตประเวศ จังหวัดกรุงเทพมหานคร 10250,13.718240,100.662849,MG,"
+            100.662849,13.71824,0
+          "
+บางจาก บางนา – ตราด กม. 22,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 46/1 หมู่ที่ 1 ตำบลศรีษะจรเข้ใหญ่ อำเภอบางเสาธง จังหวัดสมุทรปรการ 10540<br>Latitude: 13.598877<br>Longitude: 100.792169<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,46/1 หมู่ที่ 1 ตำบลศรีษะจรเข้ใหญ่ อำเภอบางเสาธง จังหวัดสมุทรปรการ 10540,13.598877,100.792169,MG,"
+            100.792169,13.598877,0
+          "
+บางจาก นิมิตใหม่ 2,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 3/1 ถนนนิมิตใหม่ แขวงมีนบุรี เขตมีนบุรี กรุงเทพมหานคร 10510<br>Latitude: 13.822769<br>Longitude: 100.740784<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,3/1 ถนนนิมิตใหม่ แขวงมีนบุรี เขตมีนบุรี กรุงเทพมหานคร 10510,13.822769,100.740784,MG,"
+            100.740784,13.822769,0
+          "
+บางจาก เลียบวารี,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 77 ถนนเลียบวารี แขวงกระทุ่มราย เขตหนองจอก กรุงเทพมหานคร 10530<br>Latitude: 13.85555<br>Longitude: 100.85672<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,77 ถนนเลียบวารี แขวงกระทุ่มราย เขตหนองจอก กรุงเทพมหานคร 10530,13.85555,100.85672,MG,"
+            100.85672,13.85555,0
+          "
+บางจาก เทพารักษ์ กม.9,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 6/3 หมู่ที่ 3 ตำบลบางพลีใหญ่ อำเภอบางพลี จังหวัดสมุทรปราการ 10540<br>Latitude: 13.611028<br>Longitude: 100.670534<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,6/3 หมู่ที่ 3 ตำบลบางพลีใหญ่ อำเภอบางพลี จังหวัดสมุทรปราการ 10540,13.611028,100.670534,MG,"
+            100.670534,13.611028,0
+          "
+บางจาก เทพารักษ์ กม.11,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 72 หมู่ที่ 4 ตำบลบางพลีใหญ่ อำเภอบางพลี จังหวัดสมุทรปราการ 10540<br>Latitude: 13.606314<br>Longitude: 100.692026<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,72 หมู่ที่ 4 ตำบลบางพลีใหญ่ อำเภอบางพลี จังหวัดสมุทรปราการ 10540,13.606314,100.692026,MG,"
+            100.692026,13.606314,0
+          "
+บางจาก บางนา – ตราด กม.27,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 557 หมู่ที่ 1 ตำบลบางบ่อ อำเภอบางบ่อ จังหวัดสมุทรปราการ 10560<br>Latitude: 13.586703<br>Longitude: 100.840578<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,557 หมู่ที่ 1 ตำบลบางบ่อ อำเภอบางบ่อ จังหวัดสมุทรปราการ 10560,13.586703,100.840578,MG,"
+            100.840578,13.586703,0
+          "
+บางจาก บางบัวทอง 2,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 80 หมู่ที่ 9 ตำบลละหาร อำเภอบางบัวทอง จังหวัดนนทบุรี 11110<br>Latitude: 13.955938<br>Longitude: 100.405487<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,80 หมู่ที่ 9 ตำบลละหาร อำเภอบางบัวทอง จังหวัดนนทบุรี 11110,13.955938,100.405487,MG,"
+            100.405487,13.955938,0
+          "
+บางจาก รามอินทรา 71 (คู้บอน),Power: 120 kW<br>Dealership: Non-dealership<br>Description: 2x CCS2<br>Address: 92 คู้บอน รามอินทรา คันนายาว กรุงเทพมหานคร 10230<br>Latitude: 13.844191<br>Longitude: 100.66358<br>Provider: MG,#icon-1899-DB4436-labelson,120 kW,Non-dealership,2x CCS2,92 คู้บอน รามอินทรา คันนายาว กรุงเทพมหานคร 10230,13.844191,100.66358,MG,"
+            100.66358,13.844191,0
+          "
+บางจาก ราชพฤกษ์,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 14/5 หมู่ที่ 5 บางรักน้อย เมืองนนทบุรี นนทบุรี 11000<br>Latitude: 13.88478<br>Longitude: 100.45015<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,14/5 หมู่ที่ 5 บางรักน้อย เมืองนนทบุรี นนทบุรี 11000,13.88478,100.45015,MG,"
+            100.45015,13.88478,0
+          "
+บางจาก รัตนาธิเบศน์,Power: 120 kW<br>Dealership: Non-dealership<br>Description: 2x CCS2<br>Address: 79/12 หมู่ที่ 3 ตำบลบางรักน้อย อำเภอเมืองนนทบุรี จังหวัดนนทบุรี 11000<br>Latitude: 13.87455<br>Longitude: 100.45802<br>Provider: MG,#icon-1899-DB4436-labelson,120 kW,Non-dealership,2x CCS2,79/12 หมู่ที่ 3 ตำบลบางรักน้อย อำเภอเมืองนนทบุรี จังหวัดนนทบุรี 11000,13.87455,100.45802,MG,"
+            100.45802,13.87455,0
+          "
+MG ช้าง อุดรธานี,Power: <br>Dealership: Dealership<br>Description: <br>Address: 237/1 ถนนประจักษ์ศิลปาคม ตำบลหมากแข้ง อำเภอเมือง จังหวัดอุดรธานี 41000<br>Latitude: 17.40571<br>Longitude: 102.795601<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,237/1 ถนนประจักษ์ศิลปาคม ตำบลหมากแข้ง อำเภอเมือง จังหวัดอุดรธานี 41000,17.40571,102.795601,MG,"
+            102.795601,17.40571,0
+          "
+บางจาก กาญจนาภิเษก กม.41,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 67 หมู่6 ตำบลบางรักพัฒนา อำเภอบางบัวทอง จังหวัดนนทบุรี 11110<br>Latitude: 13.89184<br>Longitude: 100.40774<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,67 หมู่6 ตำบลบางรักพัฒนา อำเภอบางบัวทอง จังหวัดนนทบุรี 11110,13.89184,100.40774,MG,"
+            100.40774,13.89184,0
+          "
+MG เบส ออโต้ เซลส์,Power: <br>Dealership: Dealership<br>Description: <br>Address: 1687/1 ถนนเพชรเกษม แขวงหลักสอง เขตบางแค กรุงเทพฯ 10160<br>Latitude: 13.708323<br>Longitude: 100.384271<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,1687/1 ถนนเพชรเกษม แขวงหลักสอง เขตบางแค กรุงเทพฯ 10160,13.708323,100.384271,MG,"
+            100.384271,13.708323,0
+          "
+MG เบส ออโต้ เซลส์ (สาขารามคำแหง),Power: <br>Dealership: Dealership<br>Description: <br>Address: 878/1 ถนนรามคำแหง แขวงหัวหมาก เขตบางกะปิ กรุงเทพมหานคร 10240<br>Latitude: 13.764074<br>Longitude: 100.652041<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,878/1 ถนนรามคำแหง แขวงหัวหมาก เขตบางกะปิ กรุงเทพมหานคร 10240,13.764074,100.652041,MG,"
+            100.652041,13.764074,0
+          "
+MG รุ่งเจริญ (สาขาบางนา กม.26),Power: <br>Dealership: Dealership<br>Description: <br>Address: 345 หมู่ 7 ถนนบางนา-ตราด ตำบลบางเสาธง อำเภอบางเสาธง จังหวัดสมุทรปราการ 10540<br>Latitude: 13.590022<br>Longitude: 100.829638<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,345 หมู่ 7 ถนนบางนา-ตราด ตำบลบางเสาธง อำเภอบางเสาธง จังหวัดสมุทรปราการ 10540,13.590022,100.829638,MG,"
+            100.829638,13.590022,0
+          "
+ฺบางจาก สายไหม 63,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 529 หมู่ 1 ถ. สายไหม แขวงสายไหม เขตสายไหม กรุงเทพมหานคร 10220<br>Latitude: 13.92145<br>Longitude: 100.67558<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,529 หมู่ 1 ถ. สายไหม แขวงสายไหม เขตสายไหม กรุงเทพมหานคร 10220,13.92145,100.67558,MG,"
+            100.67558,13.92145,0
+          "
+บางจาก ปากน้ำ,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 125/2 ถนนสุขุมวิท ตำบลปากน้ำ อำเภอเมืองสมุทรปราการ จังหวัดสมุทรปราการ 10270<br>Latitude: 13.596901<br>Longitude: 100.604198<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,125/2 ถนนสุขุมวิท ตำบลปากน้ำ อำเภอเมืองสมุทรปราการ จังหวัดสมุทรปราการ 10270,13.596901,100.604198,MG,"
+            100.604198,13.596901,0
+          "
+บางจาก พหลโยธิน กม.26,Power: <br>Dealership: Non-dealership<br>Description: <br>Address: พหลโยธิน 73 (ซอยหงวน เหวียนระวิ) แขวงสนามบิน เขตดอนเมือง กรุงเทพมหานคร 10210<br>Latitude: 13.936793<br>Longitude: 100.62448<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,พหลโยธิน 73 (ซอยหงวน เหวียนระวิ) แขวงสนามบิน เขตดอนเมือง กรุงเทพมหานคร 10210,13.936793,100.62448,MG,"
+            100.62448,13.936793,0
+          "
+MG ออโต้เฮาส์ สระบุรี,Power: <br>Dealership: Dealership<br>Description: <br>Address: 111 หมู่ที่ 1 ตำบลคำพราน อำเภอวังม่วง จังหวัดสระบุรี 18220<br>Latitude: 14.549055<br>Longitude: 100.938756<br>Provider: MG,#icon-1899-DB4436-labelson,,Dealership,,111 หมู่ที่ 1 ตำบลคำพราน อำเภอวังม่วง จังหวัดสระบุรี 18220,14.549055,100.938756,MG,"
+            100.938756,14.549055,0
+          "
+บางจาก พระราม 2 (กม.12),Power: <br>Dealership: Non-dealership<br>Description: <br>Address: 39/45 ถนนพระราม 2 แขวงแสมแดง เขตบางขุนเทียน กรุงเทพมหานคร 10150<br>Latitude: 13.618681<br>Longitude: 100.386575<br>Provider: MG,#icon-1899-DB4436-labelson,,Non-dealership,,39/45 ถนนพระราม 2 แขวงแสมแดง เขตบางขุนเทียน กรุงเทพมหานคร 10150,13.618681,100.386575,MG,"
+            100.386575,13.618681,0
+          "

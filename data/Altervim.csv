@@ -1,0 +1,301 @@
+Name,Description,styleUrl,NameEN,Power,ChargeCoreDescription,Address,Latitude,Longitude,Provider,Coordinates
+สถาบันผู้นำเครือเจริญโภคภัณฑ์ (***สถานีนี้เปิดให้บริการภายในเฉพาะสถาบันฯเท่านั้น***),"Name-EN: CP LEADERSHIP INSTITUE (***Only for CPLI internal use***)<br>Power: <br>Description: 4x CCS2, 2x Type2<br>Address: 999 หนองน้ำแดง อำเภอปากช่อง นครราชสีมา 30450<br>Latitude: 14.59010141148864<br>Longitude: 101.3678877172<br>Provider: Altervim",#icon-1899-DB4436-labelson,CP LEADERSHIP INSTITUE (***Only for CPLI internal use***),,"4x CCS2, 2x Type2",999 หนองน้ำแดง อำเภอปากช่อง นครราชสีมา 30450,14.59010141148864,101.3678877172,Altervim,"
+            101.3678877172,14.5901014114886,0
+          "
+โลตัส ปิ่นเกล้า,"Name-EN: Lotus’s Pinklao<br>Power: 160 kW<br>Description: 2x CCS2: 160 kW, Type2: 11 kW<br>Address: 3 ถนน บรมราชชนนี แขวง อรุณอมรินทร์ เขตบางกอกน้อย กรุงเทพมหานคร 10700<br>Latitude: 13.77654108831116<br>Longitude: 100.4784296423898<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Pinklao,160 kW,"2x CCS2: 160 kW, Type2: 11 kW",3 ถนน บรมราชชนนี แขวง อรุณอมรินทร์ เขตบางกอกน้อย กรุงเทพมหานคร 10700,13.77654108831116,100.4784296423898,Altervim,"
+            100.47842964239,13.7765410883112,0
+          "
+โลตัส สุขาภิบาล 1,"Name-EN: Lotus's Sukhapiban 1<br>Power: 160 kW<br>Description: 2x CCS2: 160 kW, Type2: 11 kW<br>Address: 629 799 ถนน นวมินทร์ แขวง นวลจันทร์ เขต บึงกุ่ม กรุงเทพมหานคร 10230<br>Latitude: 13.8248563<br>Longitude: 100.6588743<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Sukhapiban 1,160 kW,"2x CCS2: 160 kW, Type2: 11 kW",629 799 ถนน นวมินทร์ แขวง นวลจันทร์ เขต บึงกุ่ม กรุงเทพมหานคร 10230,13.8248563,100.6588743,Altervim,"
+            100.6588743,13.8248563,0
+          "
+โลตัส บางนา-ตราด,"Name-EN: Lotus's Bang Na-Trat<br>Power: <br>Description: 4x CCS2, 2x Type2<br>Address: 14/9 หมู่ที่ 13 ถ. เทพรัตน ตำบล บางแก้ว อำเภอบางพลี สมุทรปราการ 10540<br>Latitude: 13.6528607<br>Longitude: 100.6781882<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Bang Na-Trat,,"4x CCS2, 2x Type2",14/9 หมู่ที่ 13 ถ. เทพรัตน ตำบล บางแก้ว อำเภอบางพลี สมุทรปราการ 10540,13.6528607,100.6781882,Altervim,"
+            100.6781882,13.6528607,0
+          "
+โลตัส นอร์ธ ราชพฤกษ์,"Name-EN: Lotus's North Ratchapruek<br>Power: 150 kW<br>Description: 4x CCS2: 150 kW (1000V 200A), 2x Type2: 11 kW<br>Address: ถนนราชพฤกษ์, ตำบลอ้อมเกร็ด อำเภอปากเกร็ด นนทบุรี 11120<br>Latitude: 13.91254330746163<br>Longitude: 100.4514313531822<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's North Ratchapruek,150 kW,"4x CCS2: 150 kW (1000V 200A), 2x Type2: 11 kW","ถนนราชพฤกษ์, ตำบลอ้อมเกร็ด อำเภอปากเกร็ด นนทบุรี 11120",13.91254330746163,100.4514313531822,Altervim,"
+            100.451431353182,13.9125433074616,0
+          "
+โลตัส อ่างทอง,"Name-EN: Lotus's Ang Thong<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: เลขที่ 73 ถ.เลี่ยงเมือง ต.โพสะ อ.เมืองอ่างทอง จ.อ่างทอง 14000<br>Latitude: 14.580418<br>Longitude: 100.460229<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Ang Thong,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",เลขที่ 73 ถ.เลี่ยงเมือง ต.โพสะ อ.เมืองอ่างทอง จ.อ่างทอง 14000,14.580418,100.460229,Altervim,"
+            100.460229,14.580418,0
+          "
+โลตัส โรจนะ,"Name-EN: Lotus's Rojana<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: เลขที่ 101 ม. 3 ต.สามเรือน อ.บางปะอิน จ.พระนครศรีอยุธยา 13160<br>Latitude: 14.31121104093369<br>Longitude: 100.6453425<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Rojana,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",เลขที่ 101 ม. 3 ต.สามเรือน อ.บางปะอิน จ.พระนครศรีอยุธยา 13160,14.31121104093369,100.6453425,Altervim,"
+            100.6453425,14.3112110409337,0
+          "
+โลตัส บางปะอิน,"Name-EN: Lotus Bang Pa-in<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 88 ม.9 ต.เชียงรากน้อย อ.บางปะอิน จ.พระนครศรีอยุธยา 13180<br>Latitude: 14.18873<br>Longitude: 100.60944<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus Bang Pa-in,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",88 ม.9 ต.เชียงรากน้อย อ.บางปะอิน จ.พระนครศรีอยุธยา 13180,14.18873,100.60944,Altervim,"
+            100.60944,14.18873,0
+          "
+โลตัส สุขุมวิท50,"Name-EN: Lotus's Sukhumvit 50<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: เลขที่ 1710 ถ.สุขุมวิท 50 แขวงพระโขนง เขตคลองเตย กทม. 10110<br>Latitude: 13.70524516043091<br>Longitude: 100.6004240059956<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Sukhumvit 50,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",เลขที่ 1710 ถ.สุขุมวิท 50 แขวงพระโขนง เขตคลองเตย กทม. 10110,13.70524516043091,100.6004240059956,Altervim,"
+            100.600424005996,13.7052451604309,0
+          "
+โลตัส บางกะปิ,"Name-EN: Lotus's Bangkapi<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 3109 ถ. ลาดพร้าว แขวงคลองจั่น เขตบางกะปิ กรุงเทพมหานคร 10240<br>Latitude: 13.7692901386824<br>Longitude: 100.644905448156<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Bangkapi,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",3109 ถ. ลาดพร้าว แขวงคลองจั่น เขตบางกะปิ กรุงเทพมหานคร 10240,13.7692901386824,100.644905448156,Altervim,"
+            100.644905448156,13.7692901386824,0
+          "
+โลตัส หลักสี่,"Name-EN: Lotus's Lak Si<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: เลขที่ 599 ม. 3 ถ.พหลโยธิน แขวงอนุสาวรีย์ เขตบางเขน กทม. 10220<br>Latitude: 13.87966902768068<br>Longitude: 100.6000378561918<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Lak Si,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",เลขที่ 599 ม. 3 ถ.พหลโยธิน แขวงอนุสาวรีย์ เขตบางเขน กทม. 10220,13.87966902768068,100.6000378561918,Altervim,"
+            100.600037856192,13.8796690276807,0
+          "
+โลตัส ลาดพร้าว,"Name-EN: Lotus's Ladprao<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 1190 ถ. พหลโยธิน แขวงจอมพล เขตจตุจักร กรุงเทพมหานคร 10900<br>Latitude: 13.81843175004459<br>Longitude: 100.5633641957669<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Ladprao,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",1190 ถ. พหลโยธิน แขวงจอมพล เขตจตุจักร กรุงเทพมหานคร 10900,13.81843175004459,100.5633641957669,Altervim,"
+            100.563364195767,13.8184317500446,0
+          "
+โลตัส แจ้งวัฒนะ,"Name-EN: Lotus's Chaengwattana<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: เลขที่ 300 ม.1 ถ.แจ้งวัฒนะ แขวงทุ่งสองห้อง เขตหลักสี่ กทม. 10210<br>Latitude: 13.89580422139578<br>Longitude: 100.5564390936948<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Chaengwattana,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",เลขที่ 300 ม.1 ถ.แจ้งวัฒนะ แขวงทุ่งสองห้อง เขตหลักสี่ กทม. 10210,13.89580422139578,100.5564390936948,Altervim,"
+            100.556439093695,13.8958042213958,0
+          "
+โลตัส สุขาภิบาล 3,"Name-EN: Lotus's (Sukhaphiban 3)<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: เลขที่ 101,101/1 ถ.รามคำแหง แขวงมีนบุรี เขตมีนบุรี กทม. 10510<br>Latitude: 13.807364<br>Longitude: 100.725035<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's (Sukhaphiban 3),150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW","เลขที่ 101,101/1 ถ.รามคำแหง แขวงมีนบุรี เขตมีนบุรี กทม. 10510",13.807364,100.725035,Altervim,"
+            100.725035,13.807364,0
+          "
+โลตัส จรัญสนิทวงศ์ 70,"Name-EN: Lotus's Charan Sanitwong 70<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 244 ซ.จรัญสนิทวงศ์ ถ.จรัญสนิทวงศ์ แขวงบางพลัด เขตบางพลัด กทม. 10700<br>Latitude: 13.78826<br>Longitude: 100.50189<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Charan Sanitwong 70,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",244 ซ.จรัญสนิทวงศ์ ถ.จรัญสนิทวงศ์ แขวงบางพลัด เขตบางพลัด กทม. 10700,13.78826,100.50189,Altervim,"
+            100.50189,13.78826,0
+          "
+โลตัส บางปะกอก,"Name-EN: Lotus's Bangpakok												<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 538/2 ม.4 แขวงบางปะกอก เขตราษฎร์บูรณะ กทม 10140<br>Latitude: 13.67701<br>Longitude: 100.50105<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Bangpakok												,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",538/2 ม.4 แขวงบางปะกอก เขตราษฎร์บูรณะ กทม 10140,13.67701,100.50105,Altervim,"
+            100.50105,13.67701,0
+          "
+โลตัส บางแค,"Name-EN: Lotus’s Bang Khae<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 266 ถ. เพชรเกษม แขวงบางแคเหนือ เขตบางแค กทม. 10160<br>Latitude: 13.71269026247377<br>Longitude: 100.4191148966803<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Bang Khae,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",266 ถ. เพชรเกษม แขวงบางแคเหนือ เขตบางแค กทม. 10160,13.71269026247377,100.4191148966803,Altervim,"
+            100.41911489668,13.7126902624738,0
+          "
+โลตัส หนองจอก,"Name-EN: Lotus’s Nong Chok<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 46 ถนน เชื่อมสัมพันธ์ แขวงกระทุ่มราย เขตหนองจอก กรุงเทพมหานคร 10530<br>Latitude: 13.85106612489866<br>Longitude: 100.8599958236716<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Nong Chok,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",46 ถนน เชื่อมสัมพันธ์ แขวงกระทุ่มราย เขตหนองจอก กรุงเทพมหานคร 10530,13.85106612489866,100.8599958236716,Altervim,"
+            100.859995823672,13.8510661248987,0
+          "
+โลตัส อ่อนนุช 80,"Name-EN: Lotus’s On Nut 80<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 172/5 ถ.อ่อนนุช แขวงประเวศ เขตประเวศ กทม.10250<br>Latitude: 13.7178<br>Longitude: 100.6703<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s On Nut 80,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",172/5 ถ.อ่อนนุช แขวงประเวศ เขตประเวศ กทม.10250,13.7178,100.6703,Altervim,"
+            100.6703,13.7178,0
+          "
+โลตัส ลาดกระบัง,"Name-EN: Lotus's Lat Krabang<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 362 ถ. หลวงแพ่ง แขวงทับยาว เขตลาดกระบัง กรุงเทพมหานคร 10520<br>Latitude: 13.71947<br>Longitude: 100.7931<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Lat Krabang,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",362 ถ. หลวงแพ่ง แขวงทับยาว เขตลาดกระบัง กรุงเทพมหานคร 10520,13.71947,100.7931,Altervim,"
+            100.7931,13.71947,0
+          "
+โลตัส ประชาอุทิศ,"Name-EN: Lotus's Pracha Uthit<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address:  137 1 ถ. ประชาอุทิศ แขวงทุ่งครุ เขตทุ่งครุ กรุงเทพมหานคร 10140<br>Latitude: 13.63867<br>Longitude: 100.50035<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Pracha Uthit,60 kW,"2x CCS2: 60 kW, Type2: 11 kW", 137 1 ถ. ประชาอุทิศ แขวงทุ่งครุ เขตทุ่งครุ กรุงเทพมหานคร 10140,13.63867,100.50035,Altervim,"
+            100.50035,13.63867,0
+          "
+โลตัส เลียบคลองสอง,"Name-EN: Lotus's Liap Khlong Song<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: เลขที่ 153 ถ.เลียบคลองสอง แขวงบางชัน เขตคลองสามวา กรุงเทพมหานคร 10510<br>Latitude: 13.86142880218416<br>Longitude: 100.6998474280877<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Liap Khlong Song,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",เลขที่ 153 ถ.เลียบคลองสอง แขวงบางชัน เขตคลองสามวา กรุงเทพมหานคร 10510,13.86142880218416,100.6998474280877,Altervim,"
+            100.699847428088,13.8614288021842,0
+          "
+โลตัส นางรอง,"Name-EN: Lotus’s Nang Rong<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 904/7 ถ.โชคชัย - เดชอุดม ต.นางรอง อ.นางรอง จ.บุรีรัมย์ 31110<br>Latitude: 14.63669<br>Longitude: 102.7765<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Nang Rong,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",904/7 ถ.โชคชัย - เดชอุดม ต.นางรอง อ.นางรอง จ.บุรีรัมย์ 31110,14.63669,102.7765,Altervim,"
+            102.7765,14.63669,0
+          "
+โลตัส พัทยาใต้,"Name-EN: Lotus's South Pattaya<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: เลขที่ 408/2 ม. 12 ถ.สุขุมวิท ต.หนองปรือ อ.บางละมุง จ.ชลบุรี 20150<br>Latitude: 12.9061847<br>Longitude: 100.894688<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's South Pattaya,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",เลขที่ 408/2 ม. 12 ถ.สุขุมวิท ต.หนองปรือ อ.บางละมุง จ.ชลบุรี 20150,12.9061847,100.894688,Altervim,"
+            100.894688,12.9061847,0
+          "
+โลตัส พัทยาเหนือ,"Name-EN: Lotus's North Pattaya<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 221/19 ม.5 ถ.พัทยาเหนือ ต.นาเกลือ อ.บางละมุง จ.ชลบุรี<br>Latitude: 12.9508<br>Longitude: 100.89338<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's North Pattaya,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",221/19 ม.5 ถ.พัทยาเหนือ ต.นาเกลือ อ.บางละมุง จ.ชลบุรี,12.9508,100.89338,Altervim,"
+            100.89338,12.9508,0
+          "
+โลตัส อู่ตะเภา,"Name-EN: Lotus’s U-Tapao<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 26/62 ม. 1 ต.พลูตาหลวง อ.สัตหีบ จ.ชลบุรี 20180<br>Latitude: 12.69254<br>Longitude: 100.97612<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s U-Tapao,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",26/62 ม. 1 ต.พลูตาหลวง อ.สัตหีบ จ.ชลบุรี 20180,12.69254,100.97612,Altervim,"
+            100.97612,12.69254,0
+          "
+โลตัส บ้านสวน,"Name-EN: Lotus's Ban Suan<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 57/37 ม.6 ต.บ้านสวน อ.เมืองชลบุรี จ.ชลบุรี 20000<br>Latitude: 13.35348<br>Longitude: 101.00257<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Ban Suan,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",57/37 ม.6 ต.บ้านสวน อ.เมืองชลบุรี จ.ชลบุรี 20000,13.35348,101.00257,Altervim,"
+            101.00257,13.35348,0
+          "
+โลตัส บ้านบึง,"Name-EN: Lotus's Ban Bueng<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 64 ถ.บ้านบึง-บ้านค่าย ต.บ้านบึง อ.บ้านบึง จ.ชลบุรี 20170<br>Latitude: 13.3056082<br>Longitude: 101.1212344<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Ban Bueng,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",64 ถ.บ้านบึง-บ้านค่าย ต.บ้านบึง อ.บ้านบึง จ.ชลบุรี 20170,13.3056082,101.1212344,Altervim,"
+            101.1212344,13.3056082,0
+          "
+โลตัส บ่อวิน ,"Name-EN: Lotus's Bowin<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: เลขที่ 114/46 ม. 3 ต.บ่อวิน อ.ศรีราชา จ.ชลบุรี 20110<br>Latitude: 13.03482043033877<br>Longitude: 101.0903550643659<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Bowin,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",เลขที่ 114/46 ม. 3 ต.บ่อวิน อ.ศรีราชา จ.ชลบุรี 20110,13.03482043033877,101.0903550643659,Altervim,"
+            101.090355064366,13.0348204303388,0
+          "
+โลตัส นครชัยศรี,"Name-EN: Lotus's Nakhon Chai Si<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address:  68/2 หมู่ที่ 2 ถ.เพชรเกษม ตำบล ท่าตำหนัก อำเภอนครชัยศรี นครปฐม 73120<br>Latitude: 13.79324294784488<br>Longitude: 100.1718754141685<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Nakhon Chai Si,60 kW,"2x CCS2: 60 kW, Type2: 11 kW", 68/2 หมู่ที่ 2 ถ.เพชรเกษม ตำบล ท่าตำหนัก อำเภอนครชัยศรี นครปฐม 73120,13.79324294784488,100.1718754141685,Altervim,"
+            100.171875414168,13.7932429478449,0
+          "
+​โลตัส บางปะกง,"Name-EN: Lotus's Bangpakong<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 99 หมู่ที่ 2 ตำบล บางวัว อำเภอบางปะกง จ.ฉะเชิงเทรา 24180<br>Latitude: 13.55049<br>Longitude: 100.95999<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Bangpakong,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",99 หมู่ที่ 2 ตำบล บางวัว อำเภอบางปะกง จ.ฉะเชิงเทรา 24180,13.55049,100.95999,Altervim,"
+            100.95999,13.55049,0
+          "
+โลตัส เชียงใหม่คำเที่ยง,"Name-EN: Lotus’s Chiang Mai Kham Thiang<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 19 ถ.ตลาดคำเที่ยง ต.ป่าตัน อ.เมือง จ.เชียงใหม่ 50300<br>Latitude: 18.8083972<br>Longitude: 98.9969404<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Chiang Mai Kham Thiang,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",19 ถ.ตลาดคำเที่ยง ต.ป่าตัน อ.เมือง จ.เชียงใหม่ 50300,18.8083972,98.9969404,Altervim,"
+            98.9969404,18.8083972,0
+          "
+โลตัส เชียงใหม่ หางดง,"Name-EN: Lotus’s Chiang Mai Hangdong<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 132 ม.1 ต.ป่าแดด อ.เมือง จ.เชียงใหม่ 50100<br>Latitude: 18.75881<br>Longitude: 98.97237<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Chiang Mai Hangdong,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",132 ม.1 ต.ป่าแดด อ.เมือง จ.เชียงใหม่ 50100,18.75881,98.97237,Altervim,"
+            98.97237,18.75881,0
+          "
+โลตัส จอมทอง,"Name-EN: โลตัส จอมทอง<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 100 ม.11 ต.ข่วงเปา อ.จอมทอง จ.เชียงใหม่ 50160<br>Latitude: 18.42984<br>Longitude: 98.6812<br>Provider: Altervim",#icon-1899-DB4436-labelson,โลตัส จอมทอง,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",100 ม.11 ต.ข่วงเปา อ.จอมทอง จ.เชียงใหม่ 50160,18.42984,98.6812,Altervim,"
+            98.6812,18.42984,0
+          "
+โลตัส ชัยนาท,"Name-EN: Lotus's Chai Nat<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 364/25 ถ.ทางหลวงหมายเลข 340 ต.บ้านกล้วย อ.เมือง จ.ชัยนาท 17000<br>Latitude: 15.1827<br>Longitude: 100.1336<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Chai Nat,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",364/25 ถ.ทางหลวงหมายเลข 340 ต.บ้านกล้วย อ.เมือง จ.ชัยนาท 17000,15.1827,100.1336,Altervim,"
+            100.1336,15.1827,0
+          "
+โลตัส ชุมพร,"Name-EN: Lotus's Chumphon<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: เลขที่ 176 ม. 3 ต.วังไผ่ อ.เมืองชุมพร จ.ชุมพร 86000<br>Latitude: 10.50364077457516<br>Longitude: 99.13846752534337<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Chumphon,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",เลขที่ 176 ม. 3 ต.วังไผ่ อ.เมืองชุมพร จ.ชุมพร 86000,10.50364077457516,99.13846752534337,Altervim,"
+            99.1384675253434,10.5036407745752,0
+          "
+โลตัส จันทบุรี,"Name-EN: Lotus’s Chanthaburi<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 25/4 ถนน พระยาตรัง ตำบล ท่าช้าง อำเภอเมืองจันทบุรี จันทบุรี 22000<br>Latitude: 12.61586626488968<br>Longitude: 102.1017046681119<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Chanthaburi,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",25/4 ถนน พระยาตรัง ตำบล ท่าช้าง อำเภอเมืองจันทบุรี จันทบุรี 22000,12.61586626488968,102.1017046681119,Altervim,"
+            102.101704668112,12.6158662648897,0
+          "
+โลตัส ขอนแก่น 2,"Name-EN: Lotus's Khon Kaen 2<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 709 ถ. มิตรภาพ ตำบล ศิลา อำเภอเมืองขอนแก่น ขอนแก่น 40000<br>Latitude: 16.49225273298925<br>Longitude: 102.8312497514059<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Khon Kaen 2,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",709 ถ. มิตรภาพ ตำบล ศิลา อำเภอเมืองขอนแก่น ขอนแก่น 40000,16.49225273298925,102.8312497514059,Altervim,"
+            102.831249751406,16.4922527329893,0
+          "
+โลตัส ขอนแก่น,"Name-EN: Lotus's Khonkaen<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 356 ม.3 ถ.มิตรภาพ ต.เมืองเก่า อ.เมือง จ.ขอนแก่น 40000<br>Latitude: 16.40078<br>Longitude: 102.81665<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Khonkaen,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",356 ม.3 ถ.มิตรภาพ ต.เมืองเก่า อ.เมือง จ.ขอนแก่น 40000,16.40078,102.81665,Altervim,"
+            102.81665,16.40078,0
+          "
+โลตัส พล,"Name-EN: Lotus’s Phon<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 11 ถ.มิตรภาพ ต.เมืองพล อ.พล จ.ขอนแก่น 40120<br>Latitude: 15.80293<br>Longitude: 102.60606<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Phon,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",11 ถ.มิตรภาพ ต.เมืองพล อ.พล จ.ขอนแก่น 40120,15.80293,102.60606,Altervim,"
+            102.60606,15.80293,0
+          "
+โลตัส กาญจนบุรี,"Name-EN: Lotus's Kanchanaburi<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 355/3 ถ. แสงชูโต ตำบล ปากแพรก อำเภอเมืองกาญจนบุรี กาญจนบุรี 71000<br>Latitude: 14.00429<br>Longitude: 99.54448<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Kanchanaburi,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",355/3 ถ. แสงชูโต ตำบล ปากแพรก อำเภอเมืองกาญจนบุรี กาญจนบุรี 71000,14.00429,99.54448,Altervim,"
+            99.54448,14.00429,0
+          "
+โลตัส เลย,"Name-EN: Lotus's Loei<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 99 ม. 8 ต.นาอาน อ.เมืองเลย จ.เลย 42000<br>Latitude: 17.43675<br>Longitude: 101.7242<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Loei,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",99 ม. 8 ต.นาอาน อ.เมืองเลย จ.เลย 42000,17.43675,101.7242,Altervim,"
+            101.7242,17.43675,0
+          "
+โลตัส ลำปาง,"Name-EN: Lotus's Lampang<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 222 ถ.ไฮเวย์ ลำปาง-งาว ต.พระบาท อ.เมืองลำปาง จ.ลำปาง 52000<br>Latitude: 18.2799437<br>Longitude: 99.4932242<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Lampang,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",222 ถ.ไฮเวย์ ลำปาง-งาว ต.พระบาท อ.เมืองลำปาง จ.ลำปาง 52000,18.2799437,99.4932242,Altervim,"
+            99.4932242,18.2799437,0
+          "
+โลตัส มุกดาหาร,"Name-EN: Lotus's Mukdahan<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 35 ถ.ชยางกูร ต.มุกดาหาร อ.เมือง จ.มุกดาหาร 49000<br>Latitude: 16.54881<br>Longitude: 104.71636<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Mukdahan,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",35 ถ.ชยางกูร ต.มุกดาหาร อ.เมือง จ.มุกดาหาร 49000,16.54881,104.71636,Altervim,"
+            104.71636,16.54881,0
+          "
+โลตัส น่าน,"Name-EN: Lotus’s Nan<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 320 หมู่ 4 ถนนยันตรกิจโกศล ตำบล ดู่ใต้ อำเภอเมืองน่าน น่าน 55000<br>Latitude: 18.76481371286322<br>Longitude: 100.7615576851717<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Nan,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",320 หมู่ 4 ถนนยันตรกิจโกศล ตำบล ดู่ใต้ อำเภอเมืองน่าน น่าน 55000,18.76481371286322,100.7615576851717,Altervim,"
+            100.761557685172,18.7648137128632,0
+          "
+โลตัส รัตนาธิเบศร์,"Name-EN: Lotus's Rattanathibet<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 245 ถ.ติวานนท์ ต.บางกระสอ อ.เมืองนนทบุรี จ.นนทบุรี 11000<br>Latitude: 13.861919<br>Longitude: 100.518856<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Rattanathibet,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",245 ถ.ติวานนท์ ต.บางกระสอ อ.เมืองนนทบุรี จ.นนทบุรี 11000,13.861919,100.518856,Altervim,"
+            100.518856,13.861919,0
+          "
+โลตัส บางใหญ่,"Name-EN: Lotus's Bang Yai<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 90 หมู่ที่ 5 ถ. กาญจนาภิเษก ตำบล บางคูเวียง อำเภอบางกรวย นนทบุรี 11130<br>Latitude: 13.82412093821432<br>Longitude: 100.409937035595<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Bang Yai,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",90 หมู่ที่ 5 ถ. กาญจนาภิเษก ตำบล บางคูเวียง อำเภอบางกรวย นนทบุรี 11130,13.82412093821432,100.409937035595,Altervim,"
+            100.409937035595,13.8241209382143,0
+          "
+โลตัส พงษ์เพชร,"Name-EN: Lotus's Pongphet<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 99/9 ม.3 ต.บางเขน อ.เมือง จ.นนทบุรี 11000<br>Latitude: 13.854498<br>Longitude: 100.544172<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Pongphet,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",99/9 ม.3 ต.บางเขน อ.เมือง จ.นนทบุรี 11000,13.854498,100.544172,Altervim,"
+            100.544172,13.854498,0
+          "
+โลตัส นครอินทร์,"Name-EN: Lotus's Nakhon in<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 444 ม.4 ต.บางสีทอง อ.บางกรวย จ.นนทบุรี 11130<br>Latitude: 13.82354<br>Longitude: 100.48044<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Nakhon in,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",444 ม.4 ต.บางสีทอง อ.บางกรวย จ.นนทบุรี 11130,13.82354,100.48044,Altervim,"
+            100.48044,13.82354,0
+          "
+โลตัส บางกรวย-ไทรน้อย,"Name-EN: Lotus's : Bang Kruai - Sai Noi<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 888 ม.2 ต.บางบัวทอง อ.บางบัวทอง จ.นนทบุรี 11110<br>Latitude: 13.92387<br>Longitude: 100.41147<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's : Bang Kruai - Sai Noi,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",888 ม.2 ต.บางบัวทอง อ.บางบัวทอง จ.นนทบุรี 11110,13.92387,100.41147,Altervim,"
+            100.41147,13.92387,0
+          "
+​โลตัส ติวานนท์ (ปากเกร็ด​),"Name-EN: Lotus's Tiwanon (Pak Kret)<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: เลขที่ 75 หมู่ที่ 5 ต.บ้านใหม่ อ.ปากเกร็ด จ.นนทบุรี 11120<br>Latitude: 13.92661528725318<br>Longitude: 100.5259708766214<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Tiwanon (Pak Kret),150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",เลขที่ 75 หมู่ที่ 5 ต.บ้านใหม่ อ.ปากเกร็ด จ.นนทบุรี 11120,13.92661528725318,100.5259708766214,Altervim,"
+            100.525970876621,13.9266152872532,0
+          "
+โลตัส หนองบัวลำภู,"Name-EN: Lotus's Nong Bua Lam Phu<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 36 ม.2 ต.ลำภู อ.เมืองหนองบัวลำภู จ.หนองบัวลำภู 39000<br>Latitude: 17.214806<br>Longitude: 102.431416<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Nong Bua Lam Phu,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",36 ม.2 ต.ลำภู อ.เมืองหนองบัวลำภู จ.หนองบัวลำภู 39000,17.214806,102.431416,Altervim,"
+            102.431416,17.214806,0
+          "
+โลตัส โคราช,"Name-EN: Lotus's Korat<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 719 5ถ. มิตรภาพ ตำบลในเมือง อำเภอเมืองนครราชสีมา นครราชสีมา 30000<br>Latitude: 14.9779293<br>Longitude: 102.070676<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Korat,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",719 5ถ. มิตรภาพ ตำบลในเมือง อำเภอเมืองนครราชสีมา นครราชสีมา 30000,14.9779293,102.070676,Altervim,"
+            102.070676,14.9779293,0
+          "
+โลตัส ปักธงชัย,"Name-EN: Lotus's Pak Thong Chai<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address:  255 ม. 10 ต.เมืองปัก อ.ปักธงชัย จ.นครราชสีมา 30150<br>Latitude: 14.72107991<br>Longitude: 102.0158978<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Pak Thong Chai,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW", 255 ม. 10 ต.เมืองปัก อ.ปักธงชัย จ.นครราชสีมา 30150,14.72107991,102.0158978,Altervim,"
+            102.0158978,14.72107991,0
+          "
+โลตัส โคราช 2,"Name-EN: Lotus's Korat 2<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 223 ม. 1 ถ.ราชสีมา-โชคชัย ต.หนองบัวศาลา อ.เมือง จ.นครราชสีมา 30000<br>Latitude: 14.94872<br>Longitude: 102.12716<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Korat 2,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",223 ม. 1 ถ.ราชสีมา-โชคชัย ต.หนองบัวศาลา อ.เมือง จ.นครราชสีมา 30000,14.94872,102.12716,Altervim,"
+            102.12716,14.94872,0
+          "
+โลตัส ด่านขุนทด,"Name-EN: Lotus's Dan Khun Thot<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 147 ม.2 ต.ด่านขุนทด อ.ด่านขุนทด จ.นครราชสีมา 30210<br>Latitude: 15.21524<br>Longitude: 101.76839<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Dan Khun Thot,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",147 ม.2 ต.ด่านขุนทด อ.ด่านขุนทด จ.นครราชสีมา 30210,15.21524,101.76839,Altervim,"
+            101.76839,15.21524,0
+          "
+โลตัส ธาตุพนม ,"Name-EN: Tesco Lotus Thatphanom<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: เลขที่ 212 ม.4 ต.ธาตุพนมเหนือ อ.ธาตุพนม จ.นครพนม 48110<br>Latitude: 16.9575<br>Longitude: 104.72681<br>Provider: Altervim",#icon-1899-DB4436-labelson,Tesco Lotus Thatphanom,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",เลขที่ 212 ม.4 ต.ธาตุพนมเหนือ อ.ธาตุพนม จ.นครพนม 48110,16.9575,104.72681,Altervim,"
+            104.72681,16.9575,0
+          "
+โลตัส นครปฐม,"Name-EN: Lotus's Nakhon Pathom<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 1048 ถ. เพชรเกษม ตำบลสนามจันทร์ อำเภอเมืองนครปฐม นครปฐม<br>Latitude: 13.80875<br>Longitude: 100.05259<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Nakhon Pathom,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",1048 ถ. เพชรเกษม ตำบลสนามจันทร์ อำเภอเมืองนครปฐม นครปฐม,13.80875,100.05259,Altervim,"
+            100.05259,13.80875,0
+          "
+โลตัส สามพราน,"Name-EN: Lotus's Sam Phran<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 20/10 หมู่ที่ 1 ถ. เพชรเกษม ตาบล ท่าตลาด อาเภอสามพราน นครปฐม 73110<br>Latitude: 13.74286<br>Longitude: 100.21976<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Sam Phran,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",20/10 หมู่ที่ 1 ถ. เพชรเกษม ตาบล ท่าตลาด อาเภอสามพราน นครปฐม 73110,13.74286,100.21976,Altervim,"
+            100.21976,13.74286,0
+          "
+โลตัส นครสวรรค์1,"Name-EN: Lotus’s Nakhon Sawan 1<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 124/12 หมู่ที่ 10 ถ. พหลโยธิน ตำบลวัดไทร อำเภอเมืองนครสวรรค์ นครสวรรค์ 60000<br>Latitude: 15.707913<br>Longitude: 100.094699<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Nakhon Sawan 1,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",124/12 หมู่ที่ 10 ถ. พหลโยธิน ตำบลวัดไทร อำเภอเมืองนครสวรรค์ นครสวรรค์ 60000,15.707913,100.094699,Altervim,"
+            100.094699,15.707913,0
+          "
+โลตัส นครนายก,"Name-EN: Lotus's Nakhon Nayok<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 150 ทางหลวงแผ่นดินหมายเลข. 3049 ตำบล บ้านใหญ่ อำเภอเมืองนครนายก นครนายก 26000<br>Latitude: 14.20776641672894<br>Longitude: 101.2178148935847<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Nakhon Nayok,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",150 ทางหลวงแผ่นดินหมายเลข. 3049 ตำบล บ้านใหญ่ อำเภอเมืองนครนายก นครนายก 26000,14.20776641672894,101.2178148935847,Altervim,"
+            101.217814893585,14.2077664167289,0
+          "
+โลตัส ชะอำ-เพชรบุรี,"Name-EN: Lotus's Cha-am<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 10 ถ. เพชรเกษม ตำบล ชะอำ อำเภอชะอำ เพชรบุรี 76120<br>Latitude: 12.7993263570115<br>Longitude: 99.97264225125744<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Cha-am,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",10 ถ. เพชรเกษม ตำบล ชะอำ อำเภอชะอำ เพชรบุรี 76120,12.7993263570115,99.97264225125744,Altervim,"
+            99.9726422512574,12.7993263570115,0
+          "
+โลตัส ประจวบคีรีขันธ์,"Name-EN: Lotus's Prachuab Khiri Khan<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: เลขที่ 51/12 ถ.เพชรเกษม ต.เกาะหลัก อ.เมือง จ.ประจวบคีรีขันธ์ 77000<br>Latitude: 11.7976<br>Longitude: 99.77733<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Prachuab Khiri Khan,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",เลขที่ 51/12 ถ.เพชรเกษม ต.เกาะหลัก อ.เมือง จ.ประจวบคีรีขันธ์ 77000,11.7976,99.77733,Altervim,"
+            99.77733,11.7976,0
+          "
+โลตัส ถลาง,"Name-EN: Lotus's Thalang<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 303 ม. 1 ต.เทพกระษัตรี อ.ถลาง จ.ภูเก็ต 83110<br>Latitude: 8.0215333<br>Longitude: 98.3381486<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Thalang,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",303 ม. 1 ต.เทพกระษัตรี อ.ถลาง จ.ภูเก็ต 83110,8.0215333,98.3381486,Altervim,"
+            98.3381486,8.0215333,0
+          "
+โลตัส ฉลอง,"Name-EN: Lotus's Chalong<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 21/10 ม. 7 ต.ฉลอง อ.เมืองภูเก็ต จ.ภูเก็ต 83130<br>Latitude: 7.83990604568833<br>Longitude: 98.33375043<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Chalong,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",21/10 ม. 7 ต.ฉลอง อ.เมืองภูเก็ต จ.ภูเก็ต 83130,7.83990604568833,98.33375043,Altervim,"
+            98.33375043,7.83990604568833,0
+          "
+โลตัส พัทลุง,"Name-EN: Lotus's Phatthalung<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 155 ม. 2 ต.เขาเจียก อ.เมือง จ.พัทลุง 93000<br>Latitude: 7.62553<br>Longitude: 100.04603<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Phatthalung,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",155 ม. 2 ต.เขาเจียก อ.เมือง จ.พัทลุง 93000,7.62553,100.04603,Altervim,"
+            100.04603,7.62553,0
+          "
+โลตัส พิษณุโลก 2 (ท่าทอง),"Name-EN: Lotus’s Phitsanulok 2<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 444 ม. 6 ต.ท่าทอง อ.เมือง จ.พิษณูโลก 65000<br>Latitude: 16.799194<br>Longitude: 100.216445<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Phitsanulok 2,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",444 ม. 6 ต.ท่าทอง อ.เมือง จ.พิษณูโลก 65000,16.799194,100.216445,Altervim,"
+            100.216445,16.799194,0
+          "
+โลตัส หล่มสัก,"Name-EN: Lotus's Lom Sak<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 171 ถ.คชเสนีย์ ต.หล่มสัก อ.หล่มสัก จ.เพชรบูรณ์ 67120<br>Latitude: 16.78773<br>Longitude: 101.23948<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Lom Sak,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",171 ถ.คชเสนีย์ ต.หล่มสัก อ.หล่มสัก จ.เพชรบูรณ์ 67120,16.78773,101.23948,Altervim,"
+            101.23948,16.78773,0
+          "
+โลตัส บึงสามพัน,"Name-EN: Lotus’s Bueng Sam Phan<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 86/5 ม. 3 ต.ซับสมอทอด อ.บึงสามพัน จ.เพชรบูรณ์ 67160<br>Latitude: 15.79311<br>Longitude: 101.00614<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Bueng Sam Phan,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",86/5 ม. 3 ต.ซับสมอทอด อ.บึงสามพัน จ.เพชรบูรณ์ 67160,15.79311,101.00614,Altervim,"
+            101.00614,15.79311,0
+          "
+โลตัส แพร่,"Name-EN: Lotus's Phrae<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 55/4 ม. 1 ต.ทุ่งกวาว อ.เมือง จ.แพร่ 54000<br>Latitude: 18.15341<br>Longitude: 100.15645<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Phrae,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",55/4 ม. 1 ต.ทุ่งกวาว อ.เมือง จ.แพร่ 54000,18.15341,100.15645,Altervim,"
+            100.15645,18.15341,0
+          "
+โลตัส กบินทร์บุรี,"Name-EN: Lotus's Kabin Buri<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 899 หมู่ที่ 8 ตาบล เมืองเก่า อาเภอ กบินทร์บุรี จ.ปราจีนบุรี 25240<br>Latitude: 13.98557<br>Longitude: 101.77121<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Kabin Buri,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",899 หมู่ที่ 8 ตาบล เมืองเก่า อาเภอ กบินทร์บุรี จ.ปราจีนบุรี 25240,13.98557,101.77121,Altervim,"
+            101.77121,13.98557,0
+          "
+โลตัส ปราจีนบุรี,"Name-EN: Lotus’s Prachin Buri<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 15/1 ม.4 ต.บางบริบูรณ์ อ.เมืองปราจีนบุรี จ.ปราจีนบุรี 25000<br>Latitude: 14.0589<br>Longitude: 101.39118<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Prachin Buri,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",15/1 ม.4 ต.บางบริบูรณ์ อ.เมืองปราจีนบุรี จ.ปราจีนบุรี 25000,14.0589,101.39118,Altervim,"
+            101.39118,14.0589,0
+          "
+โลตัส รังสิต,"Name-EN: Lotus's Rangsit<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 801 ถ.พหลโยธิน ต.ประชาธิปัตย์ อ.ธัญบุรี จ.ปทุมธานี 12130<br>Latitude: 13.9938923<br>Longitude: 100.612622<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Rangsit,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",801 ถ.พหลโยธิน ต.ประชาธิปัตย์ อ.ธัญบุรี จ.ปทุมธานี 12130,13.9938923,100.612622,Altervim,"
+            100.612622,13.9938923,0
+          "
+โลตัส ปทุมธานี,"Name-EN: Lotus's Pathum Thani<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 21 49 ถนน ปทุมธานีเฉลิมพระเกียรติ ตำบล บางปรอก อำเภอเมืองปทุมธานี ปทุมธานี 12000 <br>Latitude: 14.02036<br>Longitude: 100.52606<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Pathum Thani,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",21 49 ถนน ปทุมธานีเฉลิมพระเกียรติ ตำบล บางปรอก อำเภอเมืองปทุมธานี ปทุมธานี 12000 ,14.02036,100.52606,Altervim,"
+            100.52606,14.02036,0
+          "
+โลตัส ลำลูกกา คลอง 2,"Name-EN: Lotus's Lumlukka Klong 2<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 20/68 ม. 18 ซ.ลำลูกกา19 ถ.ลำลูกกา ต.คูคต อ.ลำลูกกา จ.ปทุมธานี 12130<br>Latitude: 13.9468<br>Longitude: 100.64488<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Lumlukka Klong 2,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",20/68 ม. 18 ซ.ลำลูกกา19 ถ.ลำลูกกา ต.คูคต อ.ลำลูกกา จ.ปทุมธานี 12130,13.9468,100.64488,Altervim,"
+            100.64488,13.9468,0
+          "
+โลตัส คลองหลวง,"Name-EN: Lotus's Khlong Luang<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 101 หมู่ที่ 8 ถนน คลองหลวง ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120<br>Latitude: 14.06626<br>Longitude: 100.62916<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Khlong Luang,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",101 หมู่ที่ 8 ถนน คลองหลวง ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120,14.06626,100.62916,Altervim,"
+            100.62916,14.06626,0
+          "
+โลตัส บางกะดี,"Name-EN: Lotus’s Bang Kadi<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 204 หมู่ 5 ถ. ติวานนท์ ตำบล บางกะดี อำเภอเมืองปทุมธานี ปทุมธานี 12000<br>Latitude: 13.97932<br>Longitude: 100.55166<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Bang Kadi,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",204 หมู่ 5 ถ. ติวานนท์ ตำบล บางกะดี อำเภอเมืองปทุมธานี ปทุมธานี 12000,13.97932,100.55166,Altervim,"
+            100.55166,13.97932,0
+          "
+โลตัส พะเยา,"Name-EN: Lotus’s Phayao<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 669 ม. 3 ต.ท่าวังทอง อ.เมือง จ.พะเยา 56000<br>Latitude: 19.18396<br>Longitude: 99.89685<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Phayao,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",669 ม. 3 ต.ท่าวังทอง อ.เมือง จ.พะเยา 56000,19.18396,99.89685,Altervim,"
+            99.89685,19.18396,0
+          "
+โลตัส ราชบุรี,"Name-EN: Lotus's Ratchaburi<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 8/4 ถนน คฑาธร ตำบล หน้าเมือง อำเภอเมืองราชบุรี ราชบุรี 70000<br>Latitude: 13.53759<br>Longitude: 99.81818<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Ratchaburi,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",8/4 ถนน คฑาธร ตำบล หน้าเมือง อำเภอเมืองราชบุรี ราชบุรี 70000,13.53759,99.81818,Altervim,"
+            99.81818,13.53759,0
+          "
+โลตัส ร้อยเอ็ด,"Name-EN: Lotus’s Roi Et<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 68 ถ.เทวาภิบาล ต.ในเมือง อ.เมือง จ.ร้อยเอ็ด 45000<br>Latitude: 16.0545089<br>Longitude: 103.6382255<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Roi Et,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",68 ถ.เทวาภิบาล ต.ในเมือง อ.เมือง จ.ร้อยเอ็ด 45000,16.0545089,103.6382255,Altervim,"
+            103.6382255,16.0545089,0
+          "
+​โลตัส ระยอง,"Name-EN: Lotus's Rayong<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: เลขที่ 3 ถ.สุขุมวิท ต.ท่าประดู่ อ.เมือง จ.ระยอง 21000<br>Latitude: 12.6842842<br>Longitude: 101.269717<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Rayong,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",เลขที่ 3 ถ.สุขุมวิท ต.ท่าประดู่ อ.เมือง จ.ระยอง 21000,12.6842842,101.269717,Altervim,"
+            101.269717,12.6842842,0
+          "
+โลตัส แกลง,"Name-EN: Lotus's Klaeng<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 279/1 ถ. สุขุมวิท ตำบล ทางเกวียน อำเภอแกลง ระยอง 21110<br>Latitude: 12.78696<br>Longitude: 101.65862<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Klaeng,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",279/1 ถ. สุขุมวิท ตำบล ทางเกวียน อำเภอแกลง ระยอง 21110,12.78696,101.65862,Altervim,"
+            101.65862,12.78696,0
+          "
+โลตัส สงขลา,"Name-EN: Lotus’s Songkhla<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 64 ม. 2ต.เขารูปช้าง อ.เมือง จ.สงขลา 90000 <br>Latitude: 7.15297<br>Longitude: 100.60142<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Songkhla,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",64 ม. 2ต.เขารูปช้าง อ.เมือง จ.สงขลา 90000 ,7.15297,100.60142,Altervim,"
+            100.60142,7.15297,0
+          "
+โลตัส หาดใหญ่ 2 ,"Name-EN: Lotus's Hatyai 2 <br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 1318 ถ.เพชรเกษม ต.หาดใหญ่ อ.หาดใหญ่ จ.สงขลา 90110<br>Latitude: 7.00074<br>Longitude: 100.44352<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Hatyai 2 ,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",1318 ถ.เพชรเกษม ต.หาดใหญ่ อ.หาดใหญ่ จ.สงขลา 90110,7.00074,100.44352,Altervim,"
+            100.44352,7.00074,0
+          "
+โลตัส มหาชัย 2 ,"Name-EN: Lotus's Mahachai 2<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 99/8 ม.8 ต.ท่าทราย อ.เมืองสมุทรสาคร จ.สมุทรสาคร 74000<br>Latitude: 13.56317<br>Longitude: 100.27972<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Mahachai 2,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",99/8 ม.8 ต.ท่าทราย อ.เมืองสมุทรสาคร จ.สมุทรสาคร 74000,13.56317,100.27972,Altervim,"
+            100.27972,13.56317,0
+          "
+โลตัส อรัญประเทศ,"Name-EN: Lotus’s Aranyaprathet<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 559 ม. 1 ต.บ้านใหม่หนองไทร อ.อรัญประเทศ จ.สระแก้ว 27210<br>Latitude: 13.71105<br>Longitude: 102.48283<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Aranyaprathet,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",559 ม. 1 ต.บ้านใหม่หนองไทร อ.อรัญประเทศ จ.สระแก้ว 27210,13.71105,102.48283,Altervim,"
+            102.48283,13.71105,0
+          "
+โลตัส เวียงสระ ,"Name-EN: Lotus’s Wiang Sa<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: เลขที่ 222 ม. 1 ต.เวียงสระ อ.เวียงสระ จ.สุราษฎร์ธานี 84000<br>Latitude: 8.639298<br>Longitude: 99.352012<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Wiang Sa,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",เลขที่ 222 ม. 1 ต.เวียงสระ อ.เวียงสระ จ.สุราษฎร์ธานี 84000,8.639298,99.352012,Altervim,"
+            99.352012,8.639298,0
+          "
+โลตัส สุราษฎร์ธานี,"Name-EN: Lotus's Suratthani<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 9/1 ม.3 ถ.เลี่ยงเมือง ต.มะขามเตี้ย อ.เมือง จ.สุราษฎร์ธานี 84000<br>Latitude: 9.1040142<br>Longitude: 99.3069756<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Suratthani,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",9/1 ม.3 ถ.เลี่ยงเมือง ต.มะขามเตี้ย อ.เมือง จ.สุราษฎร์ธานี 84000,9.1040142,99.3069756,Altervim,"
+            99.3069756,9.1040142,0
+          "
+โลตัส ไชยา,"Name-EN: Lotus's Chaiya<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 97 ม.2 ต.เวียง อ.ไชยา จ.สุราษฏ์ธานี 84110<br>Latitude: 9.38297<br>Longitude: 99.17195<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Chaiya,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",97 ม.2 ต.เวียง อ.ไชยา จ.สุราษฏ์ธานี 84110,9.38297,99.17195,Altervim,"
+            99.17195,9.38297,0
+          "
+โลตัส สกลนคร,"Name-EN: Lotus’s Sakon Nakhon<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 243 ถ.ใสสว่าง ต.ธาตุเชิงชุม อ.เมืองสกลนคร จ.สกลนคร 47000<br>Latitude: 17.16864794<br>Longitude: 104.1393696<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Sakon Nakhon,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",243 ถ.ใสสว่าง ต.ธาตุเชิงชุม อ.เมืองสกลนคร จ.สกลนคร 47000,17.16864794,104.1393696,Altervim,"
+            104.1393696,17.16864794,0
+          "
+โลตัส สุพรรณบุรี,"Name-EN: Lotus's Suphan Buri<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 293 ม.5 ถ.สุพรรณบุรี-ชัยนาท ต.ท่าระหัด อ.เมือง จ.สุพรรณบุรี 72000<br>Latitude: 14.46946<br>Longitude: 100.12945<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Suphan Buri,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",293 ม.5 ถ.สุพรรณบุรี-ชัยนาท ต.ท่าระหัด อ.เมือง จ.สุพรรณบุรี 72000,14.46946,100.12945,Altervim,"
+            100.12945,14.46946,0
+          "
+โลตัส สมุทรปราการ,"Name-EN: Lotus’s Samut Prakan<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 156/6 ถนนสายลวด ตำบลปากน้ำ อ.เมืองสมุทรปราการ จ.สมุทรปราการ 10280<br>Latitude: 13.58786789<br>Longitude: 100.5979839<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Samut Prakan,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",156/6 ถนนสายลวด ตำบลปากน้ำ อ.เมืองสมุทรปราการ จ.สมุทรปราการ 10280,13.58786789,100.5979839,Altervim,"
+            100.5979839,13.58786789,0
+          "
+โลตัส สระบุรี,"Name-EN: Lotus's saraburi<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 91 3 ถ. มิตรภาพ ตำบล ปากเพรียว อำเภอเมืองสระบุรี สระบุรี <br>Latitude: 14.52185<br>Longitude: 100.92213<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's saraburi,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",91 3 ถ. มิตรภาพ ตำบล ปากเพรียว อำเภอเมืองสระบุรี สระบุรี ,14.52185,100.92213,Altervim,"
+            100.92213,14.52185,0
+          "
+โลตัส ปราสาท,"Name-EN: Lotus’s Prasat<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 68 ม. 2 ต.กังแอน อ.ปราสาท จ.สุรินทร์ 32140<br>Latitude: 14.63142419459136<br>Longitude: 103.4075456917333<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Prasat,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",68 ม. 2 ต.กังแอน อ.ปราสาท จ.สุรินทร์ 32140,14.63142419459136,103.4075456917333,Altervim,"
+            103.407545691733,14.6314241945914,0
+          "
+โลตัส ตาก,"Name-EN: Lotus’s Tak<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 18 ถ.พหลโยธิน ต.ระแหง อ.เมืองตาก จ.ตาก 63000<br>Latitude: 16.86573<br>Longitude: 99.13508<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Tak,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",18 ถ.พหลโยธิน ต.ระแหง อ.เมืองตาก จ.ตาก 63000,16.86573,99.13508,Altervim,"
+            99.13508,16.86573,0
+          "
+โลตัส ตรัง,"Name-EN: Lotus’s Trang<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 120/6 ม. 2 ต.โคกหล่อ อ.เมือง จ.ตรัง 92000<br>Latitude: 7.54185<br>Longitude: 99.61847<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Trang,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",120/6 ม. 2 ต.โคกหล่อ อ.เมือง จ.ตรัง 92000,7.54185,99.61847,Altervim,"
+            99.61847,7.54185,0
+          "
+โลตัส ตราด,"Name-EN: Lotus’s Trat<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 1134 หมู่ 1 ต.วังกระแจะ อ.เมืองตราด จ.ตราด  23000<br>Latitude: 12.25479<br>Longitude: 102.51063<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Trat,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",1134 หมู่ 1 ต.วังกระแจะ อ.เมืองตราด จ.ตราด  23000,12.25479,102.51063,Altervim,"
+            102.51063,12.25479,0
+          "
+โลตัส อุบลราชธานี,"Name-EN: Lotus's Ubonratchathani<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 492 ถ. ชยางกูร ตำบล ในเมือง อำเภอเมืองอุบลราชธานี อุบลราชธานี 34000<br>Latitude: 15.25316577253757<br>Longitude: 104.850217443353<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Ubonratchathani,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",492 ถ. ชยางกูร ตำบล ในเมือง อำเภอเมืองอุบลราชธานี อุบลราชธานี 34000,15.25316577253757,104.850217443353,Altervim,"
+            104.850217443353,15.2531657725376,0
+          "
+โลตัส วารินชำราบ,"Name-EN: Lotus’s Warinchanrap<br>Power: 60 kW<br>Description: 2x CCS2: 60 kW, Type2: 11 kW<br>Address: 55 ม. 20 ต.แสนสุข อ.วารินชำราบ จ.อุบลราชธานี 34109<br>Latitude: 15.18148<br>Longitude: 104.85634<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus’s Warinchanrap,60 kW,"2x CCS2: 60 kW, Type2: 11 kW",55 ม. 20 ต.แสนสุข อ.วารินชำราบ จ.อุบลราชธานี 34109,15.18148,104.85634,Altervim,"
+            104.85634,15.18148,0
+          "
+โลตัส อุตรดิตถ์,"Name-EN: Lotus's Uttaradit<br>Power: 150 kW<br>Description: 2x CCS2: 150 kW (1000V 200A), Type2: 11 kW<br>Address: 2 ถ.ศรีชาววัง ต.ท่าอิฐ อำเภอเมือง จ.อุตรดิตถ์ 53000<br>Latitude: 17.6073763<br>Longitude: 100.082038<br>Provider: Altervim",#icon-1899-DB4436-labelson,Lotus's Uttaradit,150 kW,"2x CCS2: 150 kW (1000V 200A), Type2: 11 kW",2 ถ.ศรีชาววัง ต.ท่าอิฐ อำเภอเมือง จ.อุตรดิตถ์ 53000,17.6073763,100.082038,Altervim,"
+            100.082038,17.6073763,0
+          "
