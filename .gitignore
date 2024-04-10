@@ -1,3 +1,9 @@
 Route/.env
 Route/.ipynb_checkpoints/route-checkpoint.ipynb
 Route/root_map/folium_map.html
+API/main.py
+API/optim_utils.py
+API/optimizer.py
+API/test.ipynb
+API/__pycache__/optim_utils.cpython-311.pyc
+API/__pycache__/optimizer.cpython-311.pyc
